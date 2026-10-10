@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.27",
+  "file_sha256": {
+    "solutions/ch02/ex-2-27.md": "e9acc78a0c8825f0de46c3d6be06c41cb9ac7a3fd0582f06614a818198b3d622"
+  },
+  "inventory_entry_sha256": "46d485aae3e9bf5889829b96bac589bf0836bd98574e7e838f174ab1ae6ed63a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "c1dc9d1222d804b8cee6f2a729f8c311462c927fc8863fec7baff23ab3a6d271",
+  "summary": "Visually checked original PDF pp49\u201351. Verified cancellation/grouping identity and zero grouped mass continuous extension.",
+  "verdict": "accepted"
+}

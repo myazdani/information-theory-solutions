@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.29",
+  "file_sha256": {
+    "solutions/ch02/ex-2-29.md": "49ea0985af39b25e1fd73ec5f1dee35d5adffd81aed7d2a0ba30d92e493b331f"
+  },
+  "inventory_entry_sha256": "900eeed20ae076f78213ef1d3f5890a1ab375dbd2a3cfc5f570f6339dba9f8f1",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "d5ca3e67980888317eee9535127ae9de7b7899a7124fcd139824075c24dcba1c",
+  "summary": "Visually checked original PDF pp49\u201351. Verified all four gaps/equality conditions; part(d) indeed an identity.",
+  "verdict": "accepted"
+}

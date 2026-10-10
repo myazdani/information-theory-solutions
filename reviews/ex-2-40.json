@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.40",
+  "file_sha256": {
+    "solutions/ch02/ex-2-40.md": "9e4479fd7bc487c5fc3c9feffae683188347257517c9e83282263ec350a740be"
+  },
+  "inventory_entry_sha256": "9384dab84b89b8833e610dc298433127a63420d1ddb525b4ac26ce95eb8a9967",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "c420bb003caf911b4860a829d4a0cb317ca6111e54b1cf72e0dffc588584caed",
+  "summary": "Visually checked original PDF pp51\u201354. Verified finite uniform entropy, geometric infinite sum and invertible sum/difference transformation.",
+  "verdict": "accepted"
+}

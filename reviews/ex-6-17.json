@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.17",
+  "file_sha256": {
+    "solutions/ch06/ex-6-17.md": "ba136ab55ca124e2d921df210a986efa6124b6dc904e1a452874cfabffb8da27"
+  },
+  "inventory_entry_sha256": "f8d6a5d7ee8eec436023d1bd7ac676ae9c5812dae3e6787cb0a3aaca21d047aa",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "2aefcfbb67c0b0a21bf5e13752af4af5b4a81e600a8ef926a6d4408d252a120d",
+  "summary": "Inspected both repeated a/b lists and continuation on pages 181\u2013182. Independently checked the infinite mean, finite mean log payoff 2, fee 4 threshold, derivative threshold 3, parametric A(t), strict monotonicity, envelope derivative, uniformly bounded dyadic split errors, and resulting Theta(c 2^-c) and Theta(2^-c) estimates. The dyadic oscillation and equality-fee qualifications are appropriate.",
+  "verdict": "accepted"
+}

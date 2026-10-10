@@ -1,6 +1,6 @@
 # Exercise index
 
-**34 / 378 exercises independently accepted; 0 drafts; 344 pending.**
+**89 / 378 exercises independently accepted; 0 drafts; 289 pending.**
 
 Accepted means a separate reviewer checked every source subpart and the current files match the recorded hashes. Drafts are available for inspection but have not passed that acceptance gate. Pending entries have no submitted solution.
 
@@ -34,29 +34,29 @@ Entropy, Relative Entropy, and Mutual Information
 | [2.22](ch02/ex-2-22.md) | 48 | accepted |
 | [2.23](ch02/ex-2-23.md) | 48 | accepted |
 | [2.24](ch02/ex-2-24.md) | 48 | accepted |
-| 2.25 | 49 | pending |
-| 2.26 | 49 | pending |
-| 2.27 | 49 | pending |
-| 2.28 | 50 | pending |
-| 2.29 | 50 | pending |
-| 2.30 | 50 | pending |
-| 2.31 | 50 | pending |
-| 2.32 | 50 | pending |
-| 2.33 | 51 | pending |
-| 2.34 | 51 | pending |
-| 2.35 | 51 | pending |
-| 2.36 | 51 | pending |
-| 2.37 | 51 | pending |
-| 2.38 | 52 | pending |
-| 2.39 | 52 | pending |
-| 2.40 | 52 | pending |
-| 2.41 | 52 | pending |
-| 2.42 | 52 | pending |
+| [2.25](ch02/ex-2-25.md) | 49 | accepted |
+| [2.26](ch02/ex-2-26.md) | 49 | accepted |
+| [2.27](ch02/ex-2-27.md) | 49 | accepted |
+| [2.28](ch02/ex-2-28.md) | 50 | accepted |
+| [2.29](ch02/ex-2-29.md) | 50 | accepted |
+| [2.30](ch02/ex-2-30.md) | 50 | accepted |
+| [2.31](ch02/ex-2-31.md) | 50 | accepted |
+| [2.32](ch02/ex-2-32.md) | 50 | accepted |
+| [2.33](ch02/ex-2-33.md) | 51 | accepted |
+| [2.34](ch02/ex-2-34.md) | 51 | accepted |
+| [2.35](ch02/ex-2-35.md) | 51 | accepted |
+| [2.36](ch02/ex-2-36.md) | 51 | accepted |
+| [2.37](ch02/ex-2-37.md) | 51 | accepted |
+| [2.38](ch02/ex-2-38.md) | 52 | accepted |
+| [2.39](ch02/ex-2-39.md) | 52 | accepted |
+| [2.40](ch02/ex-2-40.md) | 52 | accepted |
+| [2.41](ch02/ex-2-41.md) | 52 | accepted |
+| [2.42](ch02/ex-2-42.md) | 52 | accepted |
 | 2.43 | 53 | pending |
 | 2.44 | 53 | pending |
-| 2.45 | 53 | pending |
-| 2.46 | 53 | pending |
-| 2.47 | 54 | pending |
+| [2.45](ch02/ex-2-45.md) | 53 | accepted |
+| [2.46](ch02/ex-2-46.md) | 53 | accepted |
+| [2.47](ch02/ex-2-47.md) | 54 | accepted |
 | 2.48 | 54 | pending |
 
 ## Chapter 3
@@ -179,24 +179,24 @@ Gambling and Data Compression
 
 | Exercise | Printed page | Status |
 | --- | ---: | --- |
-| 6.1 | 176 | pending |
-| 6.2 | 176 | pending |
-| 6.3 | 177 | pending |
-| 6.4 | 177 | pending |
-| 6.5 | 177 | pending |
-| 6.6 | 177 | pending |
-| 6.7 | 178 | pending |
-| 6.8 | 178 | pending |
-| 6.9 | 178 | pending |
-| 6.10 | 179 | pending |
-| 6.11 | 179 | pending |
-| 6.12 | 180 | pending |
-| 6.13 | 180 | pending |
-| 6.14 | 180 | pending |
-| 6.15 | 180 | pending |
-| 6.16 | 181 | pending |
-| 6.17 | 181 | pending |
-| 6.18 | 182 | pending |
+| [6.1](ch06/ex-6-1.md) | 176 | accepted |
+| [6.2](ch06/ex-6-2.md) | 176 | accepted |
+| [6.3](ch06/ex-6-3.md) | 177 | accepted |
+| [6.4](ch06/ex-6-4.md) | 177 | accepted |
+| [6.5](ch06/ex-6-5.md) | 177 | accepted |
+| [6.6](ch06/ex-6-6.md) | 177 | accepted |
+| [6.7](ch06/ex-6-7.md) | 178 | accepted |
+| [6.8](ch06/ex-6-8.md) | 178 | accepted |
+| [6.9](ch06/ex-6-9.md) | 178 | accepted |
+| [6.10](ch06/ex-6-10.md) | 179 | accepted |
+| [6.11](ch06/ex-6-11.md) | 179 | accepted |
+| [6.12](ch06/ex-6-12.md) | 180 | accepted |
+| [6.13](ch06/ex-6-13.md) | 180 | accepted |
+| [6.14](ch06/ex-6-14.md) | 180 | accepted |
+| [6.15](ch06/ex-6-15.md) | 180 | accepted |
+| [6.16](ch06/ex-6-16.md) | 181 | accepted |
+| [6.17](ch06/ex-6-17.md) | 181 | accepted |
+| [6.18](ch06/ex-6-18.md) | 182 | accepted |
 
 ## Chapter 7
 
@@ -363,23 +363,23 @@ Maximum Entropy
 | [12.3](ch12/ex-12-3.md) | 421 | accepted |
 | [12.4](ch12/ex-12-4.md) | 421 | accepted |
 | [12.5](ch12/ex-12-5.md) | 422 | accepted |
-| 12.6 | 422 | pending |
-| 12.7 | 422 | pending |
-| 12.8 | 422 | pending |
-| 12.9 | 423 | pending |
-| 12.10 | 423 | pending |
+| [12.6](ch12/ex-12-6.md) | 422 | accepted |
+| [12.7](ch12/ex-12-7.md) | 422 | accepted |
+| [12.8](ch12/ex-12-8.md) | 422 | accepted |
+| [12.9](ch12/ex-12-9.md) | 423 | accepted |
+| [12.10](ch12/ex-12-10.md) | 423 | accepted |
 | 12.11 | 423 | pending |
-| 12.12 | 423 | pending |
-| 12.13 | 423 | pending |
-| 12.14 | 423 | pending |
-| 12.15 | 424 | pending |
-| 12.16 | 424 | pending |
-| 12.17 | 424 | pending |
-| 12.18 | 424 | pending |
-| 12.19 | 424 | pending |
-| 12.20 | 424 | pending |
-| 12.21 | 425 | pending |
-| 12.22 | 425 | pending |
+| [12.12](ch12/ex-12-12.md) | 423 | accepted |
+| [12.13](ch12/ex-12-13.md) | 423 | accepted |
+| [12.14](ch12/ex-12-14.md) | 423 | accepted |
+| [12.15](ch12/ex-12-15.md) | 424 | accepted |
+| [12.16](ch12/ex-12-16.md) | 424 | accepted |
+| [12.17](ch12/ex-12-17.md) | 424 | accepted |
+| [12.18](ch12/ex-12-18.md) | 424 | accepted |
+| [12.19](ch12/ex-12-19.md) | 424 | accepted |
+| [12.20](ch12/ex-12-20.md) | 424 | accepted |
+| [12.21](ch12/ex-12-21.md) | 425 | accepted |
+| [12.22](ch12/ex-12-22.md) | 425 | accepted |
 
 ## Chapter 13
 

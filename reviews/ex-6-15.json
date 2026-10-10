@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.15",
+  "file_sha256": {
+    "solutions/ch06/ex-6-15.md": "3f9d3e98d13acd8a94c0644ab5074700d24c341979a5ed078cc09f1a77746087"
+  },
+  "inventory_entry_sha256": "4566d9c55b28582792d73f5708906a3177918a3e3d0d4b21b7399f15411b458e",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "4e9fe8c91b188dffa237bffbd3fa4c3d2e0d5a5b239cd5b5edec6648d04823c9",
+  "summary": "Inspected all four parts and the exact binary partition on page 180. Checked conservation of expected wealth, KL growth optimum, conditional proportional betting, entropy gainh 2(p 1+p 2), endpoint conventions, and equality with mutual information.",
+  "verdict": "accepted"
+}

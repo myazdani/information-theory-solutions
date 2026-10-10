@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.8",
+  "file_sha256": {
+    "artifacts/ch06/arithmetic/results.json": "7481478a054047e8ae20caa52b65b0f9f47439007c6c2b7ec0d2c53732ed3668",
+    "solutions/ch06/ex-6-8.md": "e9887d5f544af199e434028343d032d055c371d172285a57e018fb0f44ce4307",
+    "src/information_theory/ch06/compute.py": "2f1b4154fa5d79bf08e675678d36f63c75b4fd335529a877aceedf4b8b00a8a0",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch06/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch06/test_arithmetic.py": "2406395c3444f5761fbf055d8ace44e3162feaf7d698a03be054cdcb927bee12"
+  },
+  "inventory_entry_sha256": "c34ac4ab052c5098ad925356e25081da62c2818cd4afc42674ba7300eda562f5",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "603b2047e461b2091ef102eb00328f2d1034c78dd6ad5b4f7d51af933713217e",
+  "summary": "Inspected the source population-fraction vector on page 178. Checked fair-book odds, proportional allocation, divergence expression, computed drift 1/4, approximate 79.7263 days, and the separate 80-day first-passage mean via the lazy biased walk. Reran the vector-derived arithmetic.",
+  "verdict": "accepted"
+}

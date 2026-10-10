@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.6",
+  "file_sha256": {
+    "solutions/ch12/ex-12-6.md": "10d4e8dad490ec6d0aa286aef3c40af1326334382a04bd48a3a077701d4f27af"
+  },
+  "inventory_entry_sha256": "726128a4124c123af93061e9fe2711f094719b10287079faae06c8c7c686a812",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "586071e9d7237004c246ac10b1f31395bcc4efd03ce1affd23d4c1b45ea2b197",
+  "summary": "Visually checked PDF pp422\u2013424. Verified self-cross-entropy constraint and KL uniqueness with finite-entropy/support qualifications.",
+  "verdict": "accepted"
+}

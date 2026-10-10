@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.6",
+  "file_sha256": {
+    "solutions/ch06/ex-6-6.md": "10c6ecd6625ff44f53752fb33db1a26a7265b8ce0a58935d0369313dce79347e"
+  },
+  "inventory_entry_sha256": "72c7ffe1b2d7e556b2b52a97b199ad093d39ea07af807d72c41b914783ffa045",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "7e8cfdb6af232fb6acf189b71bacfcdbe8357f35dd6e954ac3015a99570c1599",
+  "summary": "Inspected the continuation across pages 177\u2013178. Verified all three parts, exponent sign conventions, optimality by KL nonnegativity, uniform worst-case source, and deterministic/zero-probability edge cases.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.15",
+  "file_sha256": {
+    "solutions/ch12/ex-12-15.md": "5bb3db9d3be8b002c9fa8b59c0b0c65ee492107916f0026e98334b477bc54d53"
+  },
+  "inventory_entry_sha256": "9e773843dd1bf08ee93bab3a85f0718d57662ce7e8bca659e2609927eb021d24",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "c7e34f4d76eaa309de77ec7b6888a532456351cf822200eaf5d5a0988faad7a8",
+  "summary": "Visually checked PDF pp422\u2013424. Verified original source omits support restriction; normalizer divergence and explicit feasible disjoint-mixture entropy-unbounded sequence on real line and half-line.",
+  "verdict": "accepted"
+}

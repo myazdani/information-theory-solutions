@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.20",
+  "file_sha256": {
+    "solutions/ch12/ex-12-20.md": "ebb8db7dca70d2793997eb86b77609a92ad1b0661262ad0804d1b2cdf97b8391"
+  },
+  "inventory_entry_sha256": "3b84ef068c639c00a86c03e162fcc1645b29186e1eed4da728214086166e06e4",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "a2f03f22c335a85842e05297ae5ea5cc856fa4a7264bee3500a141ee32368dd7",
+  "summary": "Visually checked PDF pp423\u2013425. Verified independent/dependent Gaussian variance bounds, singular attaining joint law and zero-power case.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.19",
+  "file_sha256": {
+    "solutions/ch12/ex-12-19.md": "386c44ae5b31753e2e984b4e81b75867d7263dbf46cabfeb6ffac7e70a6ff20e"
+  },
+  "inventory_entry_sha256": "5c2a32306936adc18662db8cc5423f7f2f030d7df666881ac5430cf7f28700aa",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "aab035d6be414167cd2d0d8a883f42aecfd9ddb00dfa28c293ccd7daf309b195",
+  "summary": "Visually checked PDF pp423\u2013425. Verified agreement indicator entropy bound and stationary chain attainment for repeated problem.",
+  "verdict": "accepted"
+}

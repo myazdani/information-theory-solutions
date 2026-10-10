@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.8",
+  "file_sha256": {
+    "solutions/ch12/ex-12-8.md": "ea8cd9a93171b61e9de6b4696c2125f9a5f089234eb2f89f5a8f30be01d075d5"
+  },
+  "inventory_entry_sha256": "e3b1cd8a6187e50e26c82b5b2c9b92191aecd0a24c9226f0a3a909e15a90e51d",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "8ecbcd59d84921c4c15ea092a2f49795d5fd3fa93bd9e920bf2f2e35b8be487f",
+  "summary": "Visually checked PDF pp422\u2013424. Verified all three normalizers and gradient conditions, KL optimality, boundary/u0=0 cases and entropy escape by disjoint phase copies.",
+  "verdict": "accepted"
+}

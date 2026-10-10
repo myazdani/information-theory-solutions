@@ -1,0 +1,97 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "Fano_P_error_half": true,
+    "Fano_sharp_equality": true,
+    "KL_asymmetry": true,
+    "card_formula_all_n_1_to_10": true,
+    "reversed_binary_KL_equal": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch02_batch03 --output artifacts/ch02/batch03",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch02_batch03",
+  "results": {
+    "ex_2_32": {
+      "P_error": 0.5,
+      "conditional_entropy": 1.5,
+      "sharp_Fano_bound": 1.5,
+      "textbook_Fano_bound": 1.792481250360578
+    },
+    "ex_2_35": {
+      "D_p_q": 0.08496250072115637,
+      "D_q_p": 0.08170416594551028,
+      "H_p": 1.5,
+      "H_q": 1.584962500721156
+    },
+    "ex_2_36_common_divergence": 0.792481250360578,
+    "ex_2_43_die_MI": 0.5849625007211561,
+    "ex_2_44_max_EK": 0.6666666666666667,
+    "ex_2_47_decks": {
+      "1": {
+        "distinct_decks": 1,
+        "entropy": -0.0,
+        "formula": 0.0
+      },
+      "10": {
+        "distinct_decks": 82,
+        "entropy": 6.131663380285989,
+        "formula": 6.131663380285988
+      },
+      "2": {
+        "distinct_decks": 2,
+        "entropy": 1.0,
+        "formula": 1.0
+      },
+      "3": {
+        "distinct_decks": 5,
+        "entropy": 2.1971597234241496,
+        "formula": 2.197159723424149
+      },
+      "4": {
+        "distinct_decks": 10,
+        "entropy": 3.125,
+        "formula": 3.125
+      },
+      "5": {
+        "distinct_decks": 17,
+        "entropy": 3.859470570797252,
+        "formula": 3.8594705707972525
+      },
+      "6": {
+        "distinct_decks": 26,
+        "entropy": 4.461320140211009,
+        "formula": 4.461320140211008
+      },
+      "7": {
+        "distinct_decks": 37,
+        "entropy": 4.968761181780448,
+        "formula": 4.968761181780448
+      },
+      "8": {
+        "distinct_decks": 50,
+        "entropy": 5.40625,
+        "formula": 5.40625
+      },
+      "9": {
+        "distinct_decks": 65,
+        "entropy": 5.790105249637948,
+        "formula": 5.790105249637947
+      }
+    },
+    "ex_2_48": {
+      "H_N": 0.9182958340544894,
+      "H_word": 10.91829583405449,
+      "H_word_given_N": 10
+    }
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch02_batch03.py": "729e68d029a8463fe85a20f657f8ae8df5188c1ba42225dc989640ce3b0841b9",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

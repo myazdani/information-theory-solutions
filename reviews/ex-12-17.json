@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.17",
+  "file_sha256": {
+    "solutions/ch12/ex-12-17.md": "a10bf07b45d1569a2fda004f61bfc9607f1e03e40fcb16fa064570f796d11ca5"
+  },
+  "inventory_entry_sha256": "281dea5f4a6466693789f2d6d3d006dc4c6c5fd9e4fd2f0b4c8b671fd3b53c49",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "61aefd4c8c9dc241d500837c770c244e526a9df8a923656d044bb4c77da67d28",
+  "summary": "Visually checked PDF pp423\u2013425. Verified spin correlation/agreement equivalence, independent flip construction and both iid Bernoulli parameters.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.30",
+  "file_sha256": {
+    "solutions/ch02/ex-2-30.md": "7980ae4dad4d8b9aab70b4cfb60cbc2e23463c822595209caf52318055dfccd1"
+  },
+  "inventory_entry_sha256": "8f2a0120f4c7b9f016e9e9a66233b4e36bf816815989e54339d4ced29c1cf40f",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "40f67821fa7946f3483f31ac3faa17377e2640ee71d7f358aa40d637c63fc9d2",
+  "summary": "Visually checked original PDF pp49\u201351. Verified geometric normalizer/mean, cross-entropy bound, finite-partition justification and uniqueness.",
+  "verdict": "accepted"
+}

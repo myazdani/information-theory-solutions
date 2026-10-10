@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.14",
+  "file_sha256": {
+    "solutions/ch06/ex-6-14.md": "0d8999ab76e88405034a56f6333ad5631b6c0d9176d45d0ba14c3a44d85aead4"
+  },
+  "inventory_entry_sha256": "45533f0293f3723fa59fd4e125c9a7169f1d5077112c05f098ce17e40eec0747",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "5fdcafc93b98d041c0b5f38b30fabf2bc78928af23851e63380f857dc98a12da",
+  "summary": "Inspected page 180 and confirmed the repeated comparison exercise is separate from 6.9. Rechecked proportional betting, weighted geometric criterion, ties, and fully invested scope.",
+  "verdict": "accepted"
+}

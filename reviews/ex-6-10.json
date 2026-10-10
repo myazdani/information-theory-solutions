@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.10",
+  "file_sha256": {
+    "artifacts/ch06/arithmetic/results.json": "7481478a054047e8ae20caa52b65b0f9f47439007c6c2b7ec0d2c53732ed3668",
+    "solutions/ch06/ex-6-10.md": "a9b3fc36da88b3900364ba225d08592d13f835cc20c3b045ca7a880d3c971d4f",
+    "src/information_theory/ch06/compute.py": "2f1b4154fa5d79bf08e675678d36f63c75b4fd335529a877aceedf4b8b00a8a0",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch06/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch06/test_arithmetic.py": "2406395c3444f5761fbf055d8ace44e3162feaf7d698a03be054cdcb927bee12"
+  },
+  "inventory_entry_sha256": "df436dc718aba6415fdbce5db0c16710cc88aa471160be12b794c393a8565d8a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "b7b8f148222f8c88fd94e3f047fb102e9d7b522a52634e0412e29168c1e3b1ca",
+  "summary": "Inspected both parts on page 179, including the distinct odds and misspecified probability vectors. Recomputed both growth rates, the 1/4-bit loss, general KL cancellation of odds, and infinite-loss support mismatch. Reran the direct and KL calculations.",
+  "verdict": "accepted"
+}

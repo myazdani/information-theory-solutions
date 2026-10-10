@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.46",
+  "file_sha256": {
+    "solutions/ch02/ex-2-46.md": "27c4e6c72c8b2f6083726edcc4becf50108cca6602d51ddc3744e56de0f30db4"
+  },
+  "inventory_entry_sha256": "4272b08311f793447a34595256046229e994d67736289ca838643bc1266ce416",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "f49dcbcf16a1ebcf55a677636e0e4a76289599cb22bc7b0e7beb82b9bdd9622e",
+  "summary": "Visually checked original PDF pp51\u201354. Verified grouping yields zero boundaries, block rule and logarithmic growth bound; checked pigeonhole approximation argument without assuming monotonicity, then rational and continuous extension.",
+  "verdict": "accepted"
+}

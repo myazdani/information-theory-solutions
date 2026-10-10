@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.18",
+  "file_sha256": {
+    "solutions/ch12/ex-12-18.md": "367cd7b7820d8b0a2b50251390c37f82044c57466603e1d93e2295a58e03dc10"
+  },
+  "inventory_entry_sha256": "eda12d65334e7d6fd1a441826ec947e22aba96461a85645d4c2fd2aac79f2e75",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "148411b725bd0151fe16cfeba4f89cce0c56a8c6cea2f43d2cae2ea21e4ded3f",
+  "summary": "Visually checked PDF pp423\u2013425. Verified explicit physical height support, Gibbs normalizer, independent exponential/Gaussian factors, energy shares and KL uniqueness.",
+  "verdict": "accepted"
+}

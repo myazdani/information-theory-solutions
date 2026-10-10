@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.13",
+  "file_sha256": {
+    "solutions/ch12/ex-12-13.md": "c4f2141b168962cb5240692ff5e3c9a9e01403b68e98d4ea2cbe4b24d214fe80"
+  },
+  "inventory_entry_sha256": "68678a558f2c3bef4526382a5518ad75192b0ed66bde8875cc769578409a4808",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "e7c96056b19c8eb7a38dfa111d056a19ddfd1e56bafa2dd9008003ffd87e4e0d",
+  "summary": "Visually checked PDF pp422\u2013424. Verified forbidden-word Fibonacci count, stationary distribution and exact golden-mean entropy rate.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,49 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "card_count_symmetry": true,
+    "dutch_equalization": true,
+    "dutch_gap_identity": true,
+    "first_passage_ceiling": true,
+    "geometric_below_mean": true,
+    "lottery_drift": true,
+    "misspecification_loss": true,
+    "polynomial_rate_identity": true,
+    "positive_growth": true,
+    "public_rate_identity": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch06.compute --output artifacts/ch06/arithmetic",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch06.compute",
+  "results": {
+    "6.1.optimal_bits": 0.08496250072115608,
+    "6.10.misspecified_bits": 0.04248125036057809,
+    "6.10.optimal_bits": 0.2924812503605781,
+    "6.13.dutch_bet": 0.75,
+    "6.13.growth_gap_bits": 0.20751874963942196,
+    "6.13.optimal_growth_bits": 3.1144093452479407,
+    "6.13.sure_factor": 7.5,
+    "6.13.sure_growth_bits": 2.9068905956085187,
+    "6.3.joint_bits": 48.81709646967023,
+    "6.3.marginal_bits": 1.0,
+    "6.4.optimal_bits": 3.1829035303297672,
+    "6.5.entropy_bits": 1.5,
+    "6.5.optimal_bits": 0.25,
+    "6.5.polynomial_at_optimum": 2.0,
+    "6.7.expected_wealth": 58351.7604836395,
+    "6.7.geometric_wealth": 3200.0,
+    "6.8.expected_first_passage_days": 80.0,
+    "6.8.growth_bits": 0.25,
+    "6.8.typical_days": 79.7262742772967
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch06/compute.py": "2f1b4154fa5d79bf08e675678d36f63c75b4fd335529a877aceedf4b8b00a8a0",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

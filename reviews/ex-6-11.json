@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.11",
+  "file_sha256": {
+    "solutions/ch06/ex-6-11.md": "a7b222e4bb4271991e49e6c94192a0f0cd2335ab2d2de7e2c12912559f310d9b"
+  },
+  "inventory_entry_sha256": "36f45b7bea3f263580e5c1c679d93dd908d11628e2fdbf4ffd9ed7f6bb55d671",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "01d19ade6fe620b8f1e19fa469b0ab7374c5e04f3540e85ab2e045d425585d48",
+  "summary": "Inspected the envelope formulas and four subparts on page 179. Checked conditional selected-index laws, strict logistic monotonicity and positive mutual information, expected-ratio dependence, and the expected-wealth improvement. Found and verified repair of a LaTeX tab escape; weak-monotonicity equality caveat is correct.",
+  "verdict": "accepted"
+}

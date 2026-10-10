@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.26",
+  "file_sha256": {
+    "solutions/ch02/ex-2-26.md": "ed9d67e08f76ec56aa9e2320d0aa1af8ae77ad99e3f2b1950b2eca1ecf3ae5df"
+  },
+  "inventory_entry_sha256": "7c92ca14e35446e6dc408962e36c7a095360df9af1ecc69159e2e13565ed58e3",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "8ea1cf3706e3b7e146ea17c10d9d63601cded5b33e726985616b569db8ada5e9",
+  "summary": "Visually checked original PDF pp49\u201351. Verified logarithmic inequality, support-restricted sum, and exact equality condition.",
+  "verdict": "accepted"
+}

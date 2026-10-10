@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.22",
+  "file_sha256": {
+    "solutions/ch12/ex-12-22.md": "4648c54dc246cde0af75735323f4b9ee2104b0c562a6b636847b769407e81785"
+  },
+  "inventory_entry_sha256": "d054995fa3a609ffc52c015bafc21c2ad4b9c20c1876a4a418acb37f7c93d80f",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "c89ea4526a1af867a94521f0399c9cfa8b14b42d5de16df3cd126013b3cc4bd1",
+  "summary": "Visually checked PDF pp423\u2013425. Verified exponential KL lower bound on mean, unique attainment, translation and logarithm-base conventions.",
+  "verdict": "accepted"
+}

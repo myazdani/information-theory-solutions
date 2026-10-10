@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.7",
+  "file_sha256": {
+    "artifacts/ch06/arithmetic/results.json": "7481478a054047e8ae20caa52b65b0f9f47439007c6c2b7ec0d2c53732ed3668",
+    "solutions/ch06/ex-6-7.md": "26a71c76debcce13b04842f5ed009f9d5b06049ffbd9e3a52c4b33b0a9145fd3",
+    "src/information_theory/ch06/compute.py": "2f1b4154fa5d79bf08e675678d36f63c75b4fd335529a877aceedf4b8b00a8a0",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch06/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch06/test_arithmetic.py": "2406395c3444f5761fbf055d8ace44e3162feaf7d698a03be054cdcb927bee12"
+  },
+  "inventory_entry_sha256": "32cc1428b61c81bed371893f32b023f182e9d6e7b5386b4a07266997c8436429",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "7ab06d8ceff606a3da9be57d0603f31bdfe7d0a22a8bcf883b64fc88307a4fd3",
+  "summary": "Inspected page 178. Recomputed optimal fractions, entropy 7/4, log-growth 1/4, geometric estimate 3200, and the different arithmetic mean 58351.76048. Reran the arithmetic and verified that the solution does not present the geometric estimate as guaranteed wealth.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.9",
+  "file_sha256": {
+    "solutions/ch06/ex-6-9.md": "b04e190a7886b51f3620763020f2b268ab5132239d1b8ad03eae5c4a86f365ad"
+  },
+  "inventory_entry_sha256": "d76e25ccea144ea658458ac39f3319ca4514f106c166eacd975ce206001e0dbf",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "b9985029c1803d11e09081c30305b0c1beffcb3d8a095a2a00dd258e4b99dae3",
+  "summary": "Inspected page 178. Verified the difference of optimal log rates and weighted geometric-mean criterion, including ties, zero-probability coordinates, and the explicit fully invested model assumption.",
+  "verdict": "accepted"
+}

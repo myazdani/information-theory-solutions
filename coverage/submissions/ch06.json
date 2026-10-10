@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "solutions": [
+    {
+      "artifacts": [
+        "src/information_theory/ch06/compute.py",
+        "tests/ch06/test_arithmetic.py",
+        "tests/ch06/__init__.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "6.1",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch06/arithmetic/results.json"
+      ],
+      "path": "solutions/ch06/ex-6-1.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "6.2",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-2.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch06/compute.py",
+        "tests/ch06/test_arithmetic.py",
+        "tests/ch06/__init__.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": "6.3",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch06/arithmetic/results.json"
+      ],
+      "path": "solutions/ch06/ex-6-3.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch06/compute.py",
+        "tests/ch06/test_arithmetic.py",
+        "tests/ch06/__init__.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "6.4",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch06/arithmetic/results.json"
+      ],
+      "path": "solutions/ch06/ex-6-4.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch06/compute.py",
+        "tests/ch06/test_arithmetic.py",
+        "tests/ch06/__init__.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "6.5",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch06/arithmetic/results.json"
+      ],
+      "path": "solutions/ch06/ex-6-5.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "6.6",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-6.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch06/compute.py",
+        "tests/ch06/test_arithmetic.py",
+        "tests/ch06/__init__.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "6.7",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch06/arithmetic/results.json"
+      ],
+      "path": "solutions/ch06/ex-6-7.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch06/compute.py",
+        "tests/ch06/test_arithmetic.py",
+        "tests/ch06/__init__.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "6.8",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch06/arithmetic/results.json"
+      ],
+      "path": "solutions/ch06/ex-6-8.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "6.9",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-9.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch06/compute.py",
+        "tests/ch06/test_arithmetic.py",
+        "tests/ch06/__init__.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "6.10",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch06/arithmetic/results.json"
+      ],
+      "path": "solutions/ch06/ex-6-10.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": "6.11",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-11.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "6.12",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-12.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch06/compute.py",
+        "tests/ch06/test_arithmetic.py",
+        "tests/ch06/__init__.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "6.13",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch06/arithmetic/results.json"
+      ],
+      "path": "solutions/ch06/ex-6-13.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "6.14",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-14.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": "6.15",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-15.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "6.16",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-16.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "first.a",
+        "first.b",
+        "second.a",
+        "second.b",
+        "second.c"
+      ],
+      "id": "6.17",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-17.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "6.18",
+      "numerical": false,
+      "path": "solutions/ch06/ex-6-18.md"
+    }
+  ]
+}

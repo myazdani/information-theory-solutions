@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.7",
+  "file_sha256": {
+    "solutions/ch12/ex-12-7.md": "0cfadab420da1ff77afa512a65045dccc8973000c3aa82e07bd5093f0fb2359d"
+  },
+  "inventory_entry_sha256": "3a2fd3624fc8016caed5390444ba03ef3de4131bbca6f70890869193f71341e6",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "b4dde7c0bdfae9d5ef4fb515e4317066549a8c0cb7bdd29b85b7bdc9d101553b",
+  "summary": "Visually checked PDF pp422\u2013424. Verified fixed recent-p predictor upper bound, Toeplitz Gaussian Markov extension attainment, p=0 and singular qualification.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.9",
+  "file_sha256": {
+    "solutions/ch12/ex-12-9.md": "49835a21874187844db3b8c59e7f9585fc8c229d0cb46a2e7e4898aad5218fe1"
+  },
+  "inventory_entry_sha256": "9a834c8ccd602a97281a1a39a2b435ee61aa38216359f8901d96c415e4ec93b8",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "88cd49047ddffc738a0af6035460109ab28b7a0520f699fd8b0df15b44384ba1",
+  "summary": "Visually checked PDF pp422\u2013424. Verified agreement indicator conditional entropy bound and attaining symmetric Markov chain.",
+  "verdict": "accepted"
+}

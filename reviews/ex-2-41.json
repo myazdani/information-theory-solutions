@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.41",
+  "file_sha256": {
+    "solutions/ch02/ex-2-41.md": "d6f48269caad2d83099afb6b68406faa0bf4acd002ed928b8430cfbcf55eaa13"
+  },
+  "inventory_entry_sha256": "c317edb47ab3d763ccd7469a5eb61b64bafa55ddee6a1c49de30459e97c20ac1",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "f885626e1680bdb6f2e83acf5e8892d27c791a80e979f4693ba8c4c9825b6d68",
+  "summary": "Visually checked original PDF pp51\u201354. Verified both chain-rule expansions, independence of questions from object, conditional subadditivity and iid equality.",
+  "verdict": "accepted"
+}

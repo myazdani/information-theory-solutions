@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.37",
+  "file_sha256": {
+    "solutions/ch02/ex-2-37.md": "f69a08c0f049aca4f19a95d3ccdb7b92f62dad46c9732a7407611d1eb6bf9969"
+  },
+  "inventory_entry_sha256": "9317a64eea4e38027339e8d63a135bdfbf7a6d2c94238f74f7b27b1902e4b03a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "7799eac1cbd4aee67ca39de1bdbfbec3fdf03c01851a142fbfb6478f01f40329",
+  "summary": "Visually checked original PDF pp51\u201354. Verified total-correlation expansion, chain-rule sum and mutual versus pairwise independence.",
+  "verdict": "accepted"
+}

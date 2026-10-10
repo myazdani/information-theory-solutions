@@ -264,6 +264,216 @@
         "artifacts/ch02/batch02/results.json"
       ],
       "path": "solutions/ch02/ex-2-24.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "2.25",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-25.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "2.26",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-26.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.27",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-27.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.28",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-28.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": "2.29",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-29.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.30",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-30.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.31",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-31.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "2.32",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch02/batch03/results.json"
+      ],
+      "path": "solutions/ch02/ex-2-32.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.33",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-33.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.34",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-34.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.35",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch02/batch03/results.json"
+      ],
+      "path": "solutions/ch02/ex-2-35.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.36",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch02/batch03/results.json"
+      ],
+      "path": "solutions/ch02/ex-2-36.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.37",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-37.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.38",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-38.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "2.39",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-39.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "2.40",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-40.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "2.41",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-41.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": "2.42",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-42.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.45",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-45.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.46",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-46.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_foundations",
+      "covered_subparts": [],
+      "id": "2.47",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch02/batch03/results.json"
+      ],
+      "path": "solutions/ch02/ex-2-47.md"
     }
   ]
 }

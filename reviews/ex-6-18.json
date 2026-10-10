@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.18",
+  "file_sha256": {
+    "solutions/ch06/ex-6-18.md": "75be1349a3bbad486024543ed2a8a37933f4f01aa4d6d694651938cd50c6c939"
+  },
+  "inventory_entry_sha256": "2e3a94e60a5a985571d96c0d8f10530d8934c08e5595d2c82c34bb812654406b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "65e3caf62c4e1fef22479a89a05a3e02b62935485104a37f21b68ddbb0583b3e",
+  "summary": "Inspected page 182 and exact doubly exponential payoff. Checked finiteness of relative growth for positive portfolios, endpoint behavior, justified differentiation away from zero, strict concavity, reciprocal-mean threshold, unique interior optimum, and SLLN interpretation of bounded relative-log increments.",
+  "verdict": "accepted"
+}

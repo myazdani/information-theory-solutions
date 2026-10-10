@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.2",
+  "file_sha256": {
+    "solutions/ch06/ex-6-2.md": "b7bb186b3acab3895a587e9ba145abe224af274f0bae07b3adab5931b775834d"
+  },
+  "inventory_entry_sha256": "d16c9b3d7530bf76cd06cc96a9616b4aca655ebc95c4fec9a2d5be419e98d11e",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "0b4c2443e239beb4fd15729236d4fddb0c73149a801e7dbd797b188e2e8315b1",
+  "summary": "Visually matched the cash model across pages 176\u2013177. Checked the pointwise superfair replacement argument, concavity and KKT multiplier 1, active-set thresholds, positive-cash equation, and all-cash/boundary cases. The positive-probability assumption and zero-support handling are explicit.",
+  "verdict": "accepted"
+}

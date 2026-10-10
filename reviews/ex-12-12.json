@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.12",
+  "file_sha256": {
+    "solutions/ch12/ex-12-12.md": "6f8c43bcaa28cc3795aeb205ac7f9a4b35f91be7bd0ed90514118bf90bc58856"
+  },
+  "inventory_entry_sha256": "fd65605dc825431e06723b471298c8f14798484ff4e2ed7240a7e8a39df11c55",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "1c88d6fc0872e59477fa92a3edaa9d2a8f4392b538735ad05994477663696516",
+  "summary": "Visually checked PDF pp422\u2013424. Verified conditional residual translation, Gaussian variance bound, and equality for independent Gaussian residual.",
+  "verdict": "accepted"
+}

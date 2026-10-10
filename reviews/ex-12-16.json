@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.16",
+  "file_sha256": {
+    "solutions/ch12/ex-12-16.md": "8fc0569160b62831ea8ae6e48462c6cbb7e4f27a728b04c967013ceffaca14aa"
+  },
+  "inventory_entry_sha256": "187633d4f5821b7c1cc4d88864b5f4e74d3da45b751207c14920f56ce5235878",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "661c5464854062a1b350ef5eb5acf5b1287a062158986a10a78bb8c139c24991",
+  "summary": "Visually checked PDF pp422\u2013424. Verified residual second moment3/4, block entropy bound and stationary AR(1) attainment.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.16",
+  "file_sha256": {
+    "solutions/ch06/ex-6-16.md": "114541c07e31072f36f6e345a345ce019a5bf25202766a307c4ef464e7d5b9ce"
+  },
+  "inventory_entry_sha256": "3d45eeeab519f4a8ff083b572015f2b766f07cc55274a13d5ebc5403f3d7f880",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "9d33293118ce38e0194d4ce62708c7587f4ac2b4a1a92ceb5976143902372941",
+  "summary": "Inspected page 181 including permission for negative bets and natural-log objective. Verified the t_i=1-b_i normalization, budget, KL optimum 1-(m-1)p_i, natural-log growth value, and explicit nonnegative terminal-wealth and zero-support attainment qualifications.",
+  "verdict": "accepted"
+}

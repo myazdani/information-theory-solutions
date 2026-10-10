@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.21",
+  "file_sha256": {
+    "solutions/ch12/ex-12-21.md": "317c7be48d92be7d935f281116561261bbc09b0b3ce8065b27d4459804be1330"
+  },
+  "inventory_entry_sha256": "47b13f73ef14a6e775fc4424566031778298aa1e3396407ca22aa2da825def5a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "5a1a74bc91ae7a2612fd0713acb7eca2c80dae14b8555f4a55870392d035c3e2",
+  "summary": "Visually checked PDF pp423\u2013425. Verified lag-two residual variance bound, independent even/odd AR chains, stationary covariance, endpoint feasibility and transient qualification.",
+  "verdict": "accepted"
+}

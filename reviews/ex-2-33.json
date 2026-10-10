@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.33",
+  "file_sha256": {
+    "solutions/ch02/ex-2-33.md": "5c36dda5ccef33abfa8fe5c6203841051e2c97df622a168549f82c195a207cb0"
+  },
+  "inventory_entry_sha256": "4badc10b03cb9d0b28592fb2cde3a9de9bf404f92c2072e87a1c79d70dd6e99a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "6f569b709d0130fca8d6755b11d241ebd5d4c4c6f04271eb2bf3de4289daec6d",
+  "summary": "Visually checked original PDF pp49\u201351. Verified ordered-simplex feasibility, maximal residual uniform masses, inverse Fano function and m=1,2 cases.",
+  "verdict": "accepted"
+}

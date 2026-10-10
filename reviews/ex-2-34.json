@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.34",
+  "file_sha256": {
+    "solutions/ch02/ex-2-34.md": "cc45142472a1176cd29e946e11ef77533b34653e683ad9a5f7b8d8d85700b82b"
+  },
+  "inventory_entry_sha256": "5355c0132f1475b9fd40bc4072e88d913fca3bbd58fea22f550fd4111c3b7620",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "457fc6ac6345cf8a0f785763c1e57f546294283bbf6658dde7a9f940c77ac625",
+  "summary": "Visually checked original PDF pp49\u201351. Verified conditional Markov chain argument, including infinite entropy without subtraction.",
+  "verdict": "accepted"
+}

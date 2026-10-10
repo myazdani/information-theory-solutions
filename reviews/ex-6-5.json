@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "6.5",
+  "file_sha256": {
+    "artifacts/ch06/arithmetic/results.json": "7481478a054047e8ae20caa52b65b0f9f47439007c6c2b7ec0d2c53732ed3668",
+    "solutions/ch06/ex-6-5.md": "739b8d3efe0f030a9291f8fb4c21c5f05352651391fe7d5642a76e3a1239d8f7",
+    "src/information_theory/ch06/compute.py": "2f1b4154fa5d79bf08e675678d36f63c75b4fd335529a877aceedf4b8b00a8a0",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch06/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch06/test_arithmetic.py": "2406395c3444f5761fbf055d8ace44e3162feaf7d698a03be054cdcb927bee12"
+  },
+  "inventory_entry_sha256": "43a2e26c5f61b4296d024d62d77214da359a742c90469fbb9a9c4defff2d6429",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "de0122fd41de8588b5234d0fe70173651b8e21df7807ce3290bee8883abdd530",
+  "summary": "Inspected page 177. Checked entropy, the 128 coefficient in the polynomial inequality, KL equivalence with public odds, almost-sure positive-drift growth, boundary zero-drift behavior, and ruin under a zero allocation. Reran direct versus divergence and polynomial numerical identities.",
+  "verdict": "accepted"
+}
