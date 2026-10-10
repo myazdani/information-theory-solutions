@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.1",
+  "file_sha256": {
+    "solutions/ch15/ex-15-1.md": "7e4b6cd3439f385888c8865316d3f9eb33f8120af656b53c276bbfd2cb75fe76"
+  },
+  "inventory_entry_sha256": "24fbfd6939e6bcafeca3fe494217cf4644e0290ba85389c1e5c6330bd05a4a7a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "e2155fe19ffddb6bd8fa37080c9910970c6e5ab9c5aa033b518afaeb7ef156b4",
+  "summary": "Visually checked original PDF pp596\u2013599. Verified cooperative aggregate-message coding/converse and binary-adder region; checked derivative averaging proof of independent-input sum bound1.5.",
+  "verdict": "accepted"
+}

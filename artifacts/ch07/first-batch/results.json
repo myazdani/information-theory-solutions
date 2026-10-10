@@ -1,0 +1,61 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "cyclic_direct_check": true,
+    "pentagon_rate_exceeds_one": true,
+    "pentagon_zero_error": true,
+    "permutation_checks": true,
+    "unused_capacity": true,
+    "z_capacity_formula": true,
+    "z_fair_formula": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch07.first_batch --output artifacts/ch07/first-batch",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch07.first_batch",
+  "results": {
+    "mod11_direct_mi": 1.8744691179161415,
+    "mod_11_capacity": 1.874469117916141,
+    "pentagon_capacity": 1.3219280948873622,
+    "pentagon_code": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        3
+      ]
+    ],
+    "pentagon_zero_error_capacity": 1.160964047443681,
+    "permutation_coordinate_fair": 0.0,
+    "permutation_coordinate_restricted": 1.0,
+    "permutation_pair_capacity": 2.0,
+    "typewriter_noiseless": 4.700439718141092,
+    "typewriter_noisy": 3.700439718141092,
+    "unused_symbol_capacity": 0.6666666666666667,
+    "z_capacity": 0.3219280948873623,
+    "z_fair_rate": 0.31127812445913283
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch07/first_batch.py": "16915ce2b6b4161fc2de4a6d33d352e184ee300c85f90ea55bca17eb4e1fd5ac",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

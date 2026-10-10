@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.18",
+  "file_sha256": {
+    "solutions/ch15/ex-15-18.md": "5f77c35e780fa704ac2db33c377faf874c009edaeadbc2d806285a58172145c0"
+  },
+  "inventory_entry_sha256": "0af71e89addf071ed06b6c5c7cfe67cf3255611be5d829370ab0ef46e0ff2b59",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "a176956fa1541768afd6eabb04804151131152d7f493732110f91518a046a7f4",
+  "summary": "Visually checked original PDF pp599\u2013604. Verified square-to-binary relabeling, derivative entropy maximization and attaining product input law.",
+  "verdict": "accepted"
+}

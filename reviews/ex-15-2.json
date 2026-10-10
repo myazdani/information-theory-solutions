@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.2",
+  "file_sha256": {
+    "solutions/ch15/ex-15-2.md": "fc96e0ea59481391f66a1a51c3b96d21f20c5cce6b243b0f6f1eaa8642e7a547"
+  },
+  "inventory_entry_sha256": "89fb950456efb0f79bf62510f42074cb087bb877647f4b0e58dab3c86d224b07",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "a4fb0f1a2b6e08b60450d2b19dc9efd8a6ea0af175e949869888266d380d6a96",
+  "summary": "Visually checked original PDF pp596\u2013599. Verified binary output converse and product-uniform/time-sharing achievability; sign relabeling equivalence.",
+  "verdict": "accepted"
+}

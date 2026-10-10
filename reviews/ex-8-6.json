@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "8.6",
+  "file_sha256": {
+    "solutions/ch08/ex-8-6.md": "efd916f89637927742c38d4ba75eb1c418db39dee55bbe0d55f70c6c57454f8b"
+  },
+  "inventory_entry_sha256": "1c1eaf2c57a417e087702008ac520f2246a57e17e088ae700665630a8c0604de",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "cebb952b12800216d9886f42abca3edecfa238c341141eac11463d110882e7c9",
+  "summary": "Visually checked original PDF pp256\u2013259. Checked size-biased tilt, KL variational bound and truncated attainment/supremum for infinite expectations.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.3",
+  "file_sha256": {
+    "solutions/ch15/ex-15-3.md": "ad05e11bc08b36376d34e5df37aa61d4ccb78230696ef60e8fe228012d51f0f4"
+  },
+  "inventory_entry_sha256": "e056f9b55e1fc24079a784bb646b15342f68a0741c9ef2b3c41f1d52b2cd92a1",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "ad33db140b59e70b1bfef17f8e3e1d40e9617aa2296cd354f8d5dfe31665ffeb",
+  "summary": "Visually checked original PDF pp596\u2013599. Verified conditional-information identity, printed cuts and message flows, product laws and time-sharing interpretation.",
+  "verdict": "accepted"
+}

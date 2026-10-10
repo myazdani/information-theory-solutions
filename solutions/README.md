@@ -1,6 +1,6 @@
 # Exercise index
 
-**89 / 378 exercises independently accepted; 0 drafts; 289 pending.**
+**150 / 378 exercises independently accepted; 0 drafts; 228 pending.**
 
 Accepted means a separate reviewer checked every source subpart and the current files match the recorded hashes. Drafts are available for inspection but have not passed that acceptance gate. Pending entries have no submitted solution.
 
@@ -52,12 +52,12 @@ Entropy, Relative Entropy, and Mutual Information
 | [2.40](ch02/ex-2-40.md) | 52 | accepted |
 | [2.41](ch02/ex-2-41.md) | 52 | accepted |
 | [2.42](ch02/ex-2-42.md) | 52 | accepted |
-| 2.43 | 53 | pending |
-| 2.44 | 53 | pending |
+| [2.43](ch02/ex-2-43.md) | 53 | accepted |
+| [2.44](ch02/ex-2-44.md) | 53 | accepted |
 | [2.45](ch02/ex-2-45.md) | 53 | accepted |
 | [2.46](ch02/ex-2-46.md) | 53 | accepted |
 | [2.47](ch02/ex-2-47.md) | 54 | accepted |
-| 2.48 | 54 | pending |
+| [2.48](ch02/ex-2-48.md) | 54 | accepted |
 
 ## Chapter 3
 
@@ -65,19 +65,19 @@ Asymptotic Equipartition Property
 
 | Exercise | Printed page | Status |
 | --- | ---: | --- |
-| 3.1 | 64 | pending |
-| 3.2 | 65 | pending |
-| 3.3 | 65 | pending |
-| 3.4 | 65 | pending |
-| 3.5 | 66 | pending |
-| 3.6 | 66 | pending |
-| 3.7 | 66 | pending |
-| 3.8 | 66 | pending |
-| 3.9 | 67 | pending |
-| 3.10 | 67 | pending |
-| 3.11 | 67 | pending |
-| 3.12 | 68 | pending |
-| 3.13 | 68 | pending |
+| [3.1](ch03/ex-3-1.md) | 64 | accepted |
+| [3.2](ch03/ex-3-2.md) | 65 | accepted |
+| [3.3](ch03/ex-3-3.md) | 65 | accepted |
+| [3.4](ch03/ex-3-4.md) | 65 | accepted |
+| [3.5](ch03/ex-3-5.md) | 66 | accepted |
+| [3.6](ch03/ex-3-6.md) | 66 | accepted |
+| [3.7](ch03/ex-3-7.md) | 66 | accepted |
+| [3.8](ch03/ex-3-8.md) | 66 | accepted |
+| [3.9](ch03/ex-3-9.md) | 67 | accepted |
+| [3.10](ch03/ex-3-10.md) | 67 | accepted |
+| [3.11](ch03/ex-3-11.md) | 67 | accepted |
+| [3.12](ch03/ex-3-12.md) | 68 | accepted |
+| [3.13](ch03/ex-3-13.md) | 68 | accepted |
 
 ## Chapter 4
 
@@ -204,20 +204,20 @@ Channel Capacity
 
 | Exercise | Printed page | Status |
 | --- | ---: | --- |
-| 7.1 | 223 | pending |
-| 7.2 | 224 | pending |
-| 7.3 | 224 | pending |
-| 7.4 | 224 | pending |
-| 7.5 | 224 | pending |
-| 7.6 | 224 | pending |
-| 7.7 | 225 | pending |
-| 7.8 | 225 | pending |
-| 7.9 | 225 | pending |
-| 7.10 | 225 | pending |
-| 7.11 | 226 | pending |
-| 7.12 | 226 | pending |
-| 7.13 | 226 | pending |
-| 7.14 | 227 | pending |
+| [7.1](ch07/ex-7-1.md) | 223 | accepted |
+| [7.2](ch07/ex-7-2.md) | 224 | accepted |
+| [7.3](ch07/ex-7-3.md) | 224 | accepted |
+| [7.4](ch07/ex-7-4.md) | 224 | accepted |
+| [7.5](ch07/ex-7-5.md) | 224 | accepted |
+| [7.6](ch07/ex-7-6.md) | 224 | accepted |
+| [7.7](ch07/ex-7-7.md) | 225 | accepted |
+| [7.8](ch07/ex-7-8.md) | 225 | accepted |
+| [7.9](ch07/ex-7-9.md) | 225 | accepted |
+| [7.10](ch07/ex-7-10.md) | 225 | accepted |
+| [7.11](ch07/ex-7-11.md) | 226 | accepted |
+| [7.12](ch07/ex-7-12.md) | 226 | accepted |
+| [7.13](ch07/ex-7-13.md) | 226 | accepted |
+| [7.14](ch07/ex-7-14.md) | 227 | accepted |
 | 7.15 | 227 | pending |
 | 7.16 | 231 | pending |
 | 7.17 | 231 | pending |
@@ -248,17 +248,17 @@ Differential Entropy
 
 | Exercise | Printed page | Status |
 | --- | ---: | --- |
-| 8.1 | 256 | pending |
-| 8.2 | 257 | pending |
-| 8.3 | 257 | pending |
-| 8.4 | 257 | pending |
-| 8.5 | 257 | pending |
-| 8.6 | 257 | pending |
-| 8.7 | 258 | pending |
-| 8.8 | 258 | pending |
-| 8.9 | 258 | pending |
-| 8.10 | 258 | pending |
-| 8.11 | 258 | pending |
+| [8.1](ch08/ex-8-1.md) | 256 | accepted |
+| [8.2](ch08/ex-8-2.md) | 257 | accepted |
+| [8.3](ch08/ex-8-3.md) | 257 | accepted |
+| [8.4](ch08/ex-8-4.md) | 257 | accepted |
+| [8.5](ch08/ex-8-5.md) | 257 | accepted |
+| [8.6](ch08/ex-8-6.md) | 257 | accepted |
+| [8.7](ch08/ex-8-7.md) | 258 | accepted |
+| [8.8](ch08/ex-8-8.md) | 258 | accepted |
+| [8.9](ch08/ex-8-9.md) | 258 | accepted |
+| [8.10](ch08/ex-8-10.md) | 258 | accepted |
+| [8.11](ch08/ex-8-11.md) | 258 | accepted |
 
 ## Chapter 9
 
@@ -426,26 +426,26 @@ Network Information Theory
 
 | Exercise | Printed page | Status |
 | --- | ---: | --- |
-| 15.1 | 596 | pending |
-| 15.2 | 596 | pending |
-| 15.3 | 597 | pending |
-| 15.4 | 597 | pending |
-| 15.5 | 598 | pending |
-| 15.6 | 598 | pending |
-| 15.7 | 598 | pending |
-| 15.8 | 598 | pending |
-| 15.9 | 599 | pending |
-| 15.10 | 599 | pending |
-| 15.11 | 599 | pending |
-| 15.12 | 601 | pending |
-| 15.13 | 601 | pending |
-| 15.14 | 601 | pending |
-| 15.15 | 602 | pending |
-| 15.16 | 602 | pending |
-| 15.17 | 603 | pending |
-| 15.18 | 603 | pending |
-| 15.19 | 603 | pending |
-| 15.20 | 604 | pending |
+| [15.1](ch15/ex-15-1.md) | 596 | accepted |
+| [15.2](ch15/ex-15-2.md) | 596 | accepted |
+| [15.3](ch15/ex-15-3.md) | 597 | accepted |
+| [15.4](ch15/ex-15-4.md) | 597 | accepted |
+| [15.5](ch15/ex-15-5.md) | 598 | accepted |
+| [15.6](ch15/ex-15-6.md) | 598 | accepted |
+| [15.7](ch15/ex-15-7.md) | 598 | accepted |
+| [15.8](ch15/ex-15-8.md) | 598 | accepted |
+| [15.9](ch15/ex-15-9.md) | 599 | accepted |
+| [15.10](ch15/ex-15-10.md) | 599 | accepted |
+| [15.11](ch15/ex-15-11.md) | 599 | accepted |
+| [15.12](ch15/ex-15-12.md) | 601 | accepted |
+| [15.13](ch15/ex-15-13.md) | 601 | accepted |
+| [15.14](ch15/ex-15-14.md) | 601 | accepted |
+| [15.15](ch15/ex-15-15.md) | 602 | accepted |
+| [15.16](ch15/ex-15-16.md) | 602 | accepted |
+| [15.17](ch15/ex-15-17.md) | 603 | accepted |
+| [15.18](ch15/ex-15-18.md) | 603 | accepted |
+| [15.19](ch15/ex-15-19.md) | 603 | accepted |
+| [15.20](ch15/ex-15-20.md) | 604 | accepted |
 | 15.21 | 604 | pending |
 | 15.22 | 604 | pending |
 | 15.23 | 605 | pending |

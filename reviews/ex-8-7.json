@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "8.7",
+  "file_sha256": {
+    "solutions/ch08/ex-8-7.md": "ef40807d2e8b522522c53ee63aff98308af7351718089a37ff7f668f031a1ce6"
+  },
+  "inventory_entry_sha256": "f6e335c7a914f427b226ea48655c55e230955c501906f56f4d919b9bda8c045c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "b62b253a52edd630b79620120dda79c1ce1d9630f7b56960868eea682c5588a5",
+  "summary": "Visually checked original PDF pp256\u2013259. Checked jitter density entropy, variance+1/12, reindexing and explicit printed-parenthesis ambiguity/counterexample; verified corrected LaTeX.",
+  "verdict": "accepted"
+}

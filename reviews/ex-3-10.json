@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "3.10",
+  "file_sha256": {
+    "artifacts/ch03/ex-3-13-binomial.csv": "bfcc69880e94b7b1410d0e1192e6db8c2338589e362b020c100e033b6b83219c",
+    "artifacts/ch03/results.json": "f5075dbaaaedf1ea3a5e4cf9dbed1331f5f733e772f135ea2c2c2470f75d5537",
+    "solutions/ch03/ex-3-10.md": "3563d526cca6b21845e5cce9fdc4f269c788782b54616242590117de17f5222c",
+    "src/information_theory/ch03.py": "86b7f08b0ecf70f1f64d3f5e1f13ba601d568df0181634c7a98e6adf85912dae",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  },
+  "inventory_entry_sha256": "f6a44a4d04dd1e0f0f1d544ae9427a67d820ebd519b7db5e3b41d5f25f68b143",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "d6b2c606e4db8360a9854940b0d04b7c7011109a0b73ba6fabdd51f6c5bce3dc",
+  "summary": "Visually checked original PDF pp64\u201369. Verified typical product root e^-1 versus expected-volume root1/2 and bounded convergence distinction.",
+  "verdict": "accepted"
+}

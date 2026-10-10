@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.10",
+  "file_sha256": {
+    "solutions/ch15/ex-15-10.md": "af339e2faca0c0d2ac3b17b2e0c52d2c02fa940cc83346b10a9be929188972bc"
+  },
+  "inventory_entry_sha256": "9d6e5e929ba87a46bd82f811226556274e55b3c92f530618d61328091d2356fb",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "f30391d38ea913a14b1f48a88c93511aebe593234b333a9faf440fc09723e375",
+  "summary": "Visually checked original PDF pp596\u2013599. Verified individual/joint error inclusions, marginal-only decoding law and two-way achievable-region argument.",
+  "verdict": "accepted"
+}

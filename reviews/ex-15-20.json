@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.20",
+  "file_sha256": {
+    "solutions/ch15/ex-15-20.md": "0bf4add9eb1f88ab9a38df9a2c426f2606783877ae028d1127c60b7924a9add8"
+  },
+  "inventory_entry_sha256": "475954c26236b95a6b8e50196bf79df1d39dc1fbd2682528a1cc3d6c7f558478",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "250cea16547e22534c45846bdc16bc610393ad89a8c1f485d389ffe6c4ce3e85",
+  "summary": "Visually checked original PDF pp599\u2013604. Verified exponentiation source and log-log adder equivalence; derived new rectangles/convex envelope and both noninclusion witnesses.",
+  "verdict": "accepted"
+}

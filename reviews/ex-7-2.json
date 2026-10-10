@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.2",
+  "file_sha256": {
+    "solutions/ch07/ex-7-2.md": "37019cc3b9fb5a1481f94389442a38e1ca13addd91b8ef20139f91928e065a0d"
+  },
+  "inventory_entry_sha256": "0e301f0010354a1d098a9cfcf6df6934b45ef69d7caa2ca18bfca3ffa85d7b08",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "9ca95110f6788ff2c2d530b51512a94482a1c471ae51a6ed6341b71a4980731d",
+  "summary": "Inspected the additive-channel diagram on page 224. Checked intersection of the two output supports, exceptional a=1 and a=-1 erasure models, and the consistent degenerate interpretation at a=0. The input is reconstructible in every other case.",
+  "verdict": "accepted"
+}

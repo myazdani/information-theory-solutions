@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.13",
+  "file_sha256": {
+    "solutions/ch15/ex-15-13.md": "dc4cc297469150ac9db042ee5927614c1fea2e0e0868c0560e7345740169669f"
+  },
+  "inventory_entry_sha256": "0808a13dae8031337228b3e9e397a27ca41762400ad6ab7b21ab7145772c603a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "68b5a98518f679755cf112d5f0e37ce7f3029ea5894b34b2f8f9b650b413ea48",
+  "summary": "Visually checked original PDF pp599\u2013604. Visually verified BSC then erasure diagram; checked erasure information scaling, triangular converse, time-sharing attainment and endpoints.",
+  "verdict": "accepted"
+}

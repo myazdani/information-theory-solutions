@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "8.5",
+  "file_sha256": {
+    "solutions/ch08/ex-8-5.md": "dab8fa9a88196987a23be6280efaa3e094d4072305e4d9da44ae0a8da52754f9"
+  },
+  "inventory_entry_sha256": "667e09b0ab5c6021892fdb8dec52fb85d8590820e4d38dc48ea0b3ddcbdddb5e",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "ee79a913fa81bed856ab4601d20a3759b867d165723a2d01f0bd9367ddb8d66d",
+  "summary": "Visually checked original PDF pp256\u2013259. Checked invertible change of variables and singular qualification.",
+  "verdict": "accepted"
+}

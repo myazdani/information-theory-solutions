@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.7",
+  "file_sha256": {
+    "solutions/ch07/ex-7-7.md": "8eacdae33bae812fb8e342b3ce1cabac21183bb2960cf61eadfb8730878b35a1"
+  },
+  "inventory_entry_sha256": "fdc8a5d948bd309511ec33ace4c5d5bb28df5fd92144b993a0d433f02e148ac3",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "7da1a824e24ab392fda671f916e74be683b33f3bd8ad4240f46c837d1ab4e18c",
+  "summary": "Inspected the cascade diagram and hypotheses on page 225. Verified independent parity factorization, equivalent crossover expression, data-processing rate bound, limiting behavior, and the deterministic endpoints p=0 and p=1.",
+  "verdict": "accepted"
+}

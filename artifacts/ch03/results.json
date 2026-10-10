@@ -1,0 +1,76 @@
+{
+  "artifact_hashes": {
+    "artifacts/ch03/ex-3-13-binomial.csv": "bfcc69880e94b7b1410d0e1192e6db8c2338589e362b020c100e033b6b83219c"
+  },
+  "checks": {
+    "Chebyshev_upper_bound": true,
+    "binomial_mass_sums_to_one": true,
+    "code_length_minimal": true,
+    "minimal_cardinality_crosses_target": true,
+    "typical_mass_direct_sum": true,
+    "typical_weights_11_to_19": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch03 --output artifacts/ch03",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch03",
+  "results": {
+    "ex_3_10_limit": 0.36787944117144233,
+    "ex_3_13": {
+      "entropy": 0.9709505944546688,
+      "intersection_count": 20389483,
+      "intersection_probability": 0.8706378089353882,
+      "smallest_90pct_count": 20457889,
+      "smallest_set_probability": 0.9000000137276422,
+      "smallest_set_weights_and_counts": {
+        "12": 3680673,
+        "13": 5200300,
+        "14": 4457400,
+        "15": 3268760,
+        "16": 2042975,
+        "17": 1081575,
+        "18": 480700,
+        "19": 177100,
+        "20": 53130,
+        "21": 12650,
+        "22": 2300,
+        "23": 300,
+        "24": 25,
+        "25": 1
+      },
+      "typical_count": 26366510,
+      "typical_probability": 0.9362462771170674,
+      "typical_weights": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    "ex_3_3": {
+      "base": 0.6493358309501979,
+      "exponent_bits": 0.6229632740824188
+    },
+    "ex_3_7": {
+      "Chebyshev_bound": 0.040612244897959185,
+      "codewords": 166751,
+      "failure_probability": 0.001673267523056093,
+      "length": 18
+    },
+    "ex_3_8_limit": 1.5650845800732873
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch03.py": "86b7f08b0ecf70f1f64d3f5e1f13ba601d568df0181634c7a98e6adf85912dae",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

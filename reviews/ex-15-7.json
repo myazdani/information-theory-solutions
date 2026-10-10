@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.7",
+  "file_sha256": {
+    "solutions/ch15/ex-15-7.md": "383cff5864eab27cc8a4c9ddabd91900d8100c2e4867df72ea3843aab0bbfa49"
+  },
+  "inventory_entry_sha256": "5e1904fbf20ec9499c32cd9f9e062097d8c8707cdc1ceafbf8c295e3bb5eb123",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "31114c586a61eea63818912ab39b0227aaac5ab17431bfa4dad20ea0311a8e87",
+  "summary": "Visually checked original PDF pp596\u2013599. Verified concatenated broadcast codes, rate limits, union-bound error and closure.",
+  "verdict": "accepted"
+}

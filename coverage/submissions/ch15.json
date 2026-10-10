@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "solutions": [
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "15.1",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-1.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "15.2",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-2.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.3",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-3.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.4",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-4.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.5",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-5.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "15.6",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-6.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.7",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-7.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/experiments/ch15_batch1.py",
+        "artifacts/ch15/batch1/ex-15-8.svg"
+      ],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.8",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch15/batch1/results.json"
+      ],
+      "path": "solutions/ch15/ex-15-8.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.9",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-9.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.10",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-10.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i"
+      ],
+      "id": "15.11",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-11.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "15.12",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-12.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.13",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-13.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.14",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-14.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "15.15",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-15.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "15.16",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-16.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": "15.17",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-17.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "15.18",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-18.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [],
+      "id": "15.19",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-19.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_network_information_exercises",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "15.20",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-20.md"
+    }
+  ]
+}

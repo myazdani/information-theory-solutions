@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "solutions": [
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "7.1",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-1.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "7.2",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-2.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "7.3",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-3.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch07/first_batch.py",
+        "tests/ch07/__init__.py",
+        "tests/ch07/test_first_batch.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "7.4",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch07/first-batch/results.json"
+      ],
+      "path": "solutions/ch07/ex-7-4.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "7.5",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-5.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch07/first_batch.py",
+        "tests/ch07/__init__.py",
+        "tests/ch07/test_first_batch.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "7.6",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch07/first-batch/results.json"
+      ],
+      "path": "solutions/ch07/ex-7-6.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "7.7",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-7.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch07/first_batch.py",
+        "tests/ch07/__init__.py",
+        "tests/ch07/test_first_batch.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "7.8",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch07/first-batch/results.json"
+      ],
+      "path": "solutions/ch07/ex-7-8.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch07/first_batch.py",
+        "tests/ch07/__init__.py",
+        "tests/ch07/test_first_batch.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "7.9",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch07/first-batch/results.json"
+      ],
+      "path": "solutions/ch07/ex-7-9.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch07/first_batch.py",
+        "tests/ch07/__init__.py",
+        "tests/ch07/test_first_batch.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "7.10",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch07/first-batch/results.json"
+      ],
+      "path": "solutions/ch07/ex-7-10.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "7.11",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-11.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch07/first_batch.py",
+        "tests/ch07/__init__.py",
+        "tests/ch07/test_first_batch.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "7.12",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch07/first-batch/results.json"
+      ],
+      "path": "solutions/ch07/ex-7-12.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "7.13",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-13.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/ch07/first_batch.py",
+        "tests/ch07/__init__.py",
+        "tests/ch07/test_first_batch.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "7.14",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch07/first-batch/results.json"
+      ],
+      "path": "solutions/ch07/ex-7-14.md"
+    }
+  ]
+}

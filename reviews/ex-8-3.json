@@ -1,0 +1,25 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "8.3",
+  "file_sha256": {
+    "artifacts/ch08/uniform-capacity/results.json": "61dc16ffdff181be55f147d7b1f8b43d833e93b88a4b90acc97e17070622d08a",
+    "solutions/ch08/ex-8-3.md": "bc2ca56ccc49df3de3684b76783054def418dbbbf18f459ad337937a654d536d",
+    "src/information_theory/ch08/uniform_capacity.py": "c6112bcb016ecee431db3ecc03cfceb9c7cee7d14b8b730aeda3509594ddd02b",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62"
+  },
+  "inventory_entry_sha256": "97875267cfa7eb741219093eb309881fe83554e2fce5435e2abe475b7d7e227c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "b9c4d477778bf08c37c6cfb4579a7e0171c9c2847b33215d71139cca0ff8e989",
+  "summary": "Visually checked original PDF pp256\u2013259. Checked trapezoid entropy, endpoint construction and all-width fractional-output decomposition; independently reran rational piecewise density and entropy checks.",
+  "verdict": "accepted"
+}

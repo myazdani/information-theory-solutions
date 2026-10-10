@@ -1,0 +1,25 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "approximation_error_below_1e-9": true,
+    "median_verified": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch08.compute --output artifacts/ch08/quantization",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch08.compute",
+  "results": {
+    "approximate_bits": 18.25917379338331,
+    "exact_bits": 18.259173793387824,
+    "rate_per_year": 0.008664339756999316,
+    "resolution_years": 0.001
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch08/compute.py": "81ae65aa635b4bf14274533d1b97791a2024a90c589640d18806bb3571bbfb96",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62"
+  }
+}

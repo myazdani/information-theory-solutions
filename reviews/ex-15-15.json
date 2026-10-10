@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.15",
+  "file_sha256": {
+    "solutions/ch15/ex-15-15.md": "b7d59038f6930035578d731e0706cba685772a4fab6760458a64c758a1deb79b"
+  },
+  "inventory_entry_sha256": "c66186625c0a466696c68cfb2ec156e24ccc8dda138a72af9044719f0a5d2b78",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "46eb6e1a1f64a74e497b1dbab8979d5ffc24a15b47ff8c320e53da74303dfff0",
+  "summary": "Visually checked original PDF pp599\u2013604. Verified independent typicality decoders, absence of MAC sum constraint and adaptive-input converse with common averaged joint law.",
+  "verdict": "accepted"
+}

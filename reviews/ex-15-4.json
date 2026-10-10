@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.4",
+  "file_sha256": {
+    "solutions/ch15/ex-15-4.md": "f79def1d5c893bee9c68610101747aaa20af9ce800f11ff96513d350e75e3775"
+  },
+  "inventory_entry_sha256": "e58282aa1518aa28a8c6f38950d501f789f18c15ea0ca9412e9b9fde221757c7",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "313f84436d561044b86a425589d1005db04d4e05454ded2c8896b60e7be3dbfa",
+  "summary": "Visually checked original PDF pp596\u2013599. Verified three likelihood-ratio packing bounds, union bound, Gaussian mutual informations, power-expurgation construction and average-error qualification.",
+  "verdict": "accepted"
+}

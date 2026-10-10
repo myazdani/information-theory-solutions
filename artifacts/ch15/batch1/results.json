@@ -1,0 +1,35 @@
+{
+  "artifact_hashes": {
+    "artifacts/ch15/batch1/ex-15-8.svg": "dd79c83cf6c7766acda161e792b96927789edd23dcc483e8b3fa7e6be2674276"
+  },
+  "checks": {
+    "joint_rate_is_two_at_both_vertices": true,
+    "vertices_satisfy_all_constraints": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.experiments.ch15_batch1 --output artifacts/ch15/batch1",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.experiments.ch15_batch1",
+  "results": {
+    "H_X": 2,
+    "H_Y": 1,
+    "lower_boundary_vertices": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ]
+    ]
+  },
+  "schema_version": 1,
+  "seed": null,
+  "source_hashes": {
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch15_batch1.py": "aa3bbb8c410ed021600c6b4dec48a4500552cd7d04c2c18bde690cd35f818991"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "8.1",
+  "file_sha256": {
+    "solutions/ch08/ex-8-1.md": "437b982e9af661f2fe6889bfa1cda5d65de8fcf9b322b89a71d40cea7762f7e9"
+  },
+  "inventory_entry_sha256": "a123500f329aaa27d82c50149ad198239d1d40da51be2fce33a857e9ffa0d4a9",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "b9f419f4a9619772b2d80048628398b89a4c12aa9f9d32f7a92122b6b7bf8739",
+  "summary": "Visually checked original PDF pp256\u2013259. Checked exponential, Laplace and Gaussian sum entropies in nats.",
+  "verdict": "accepted"
+}

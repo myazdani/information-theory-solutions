@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.10",
+  "file_sha256": {
+    "artifacts/ch07/first-batch/results.json": "654be13199051064d0dc54ee991c5081a2ab3cc36a6edbf16d8a779cc1bb2c78",
+    "solutions/ch07/ex-7-10.md": "53b87f2ef25e32ee68c15aea5a759019fc356c1c477b5e56f458a43894e633c5",
+    "src/information_theory/ch07/first_batch.py": "16915ce2b6b4161fc2de4a6d33d352e184ee300c85f90ea55bca17eb4e1fd5ac",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch07/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch07/test_first_batch.py": "ec2486df6f8e954247fa38219a21dd8ebc45ab3c5559ada54a1445a61a3f4a56"
+  },
+  "inventory_entry_sha256": "51529c9e986499df28fcc6f120a40e6d681e536665e6b8e784bf8071be3bbd21",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "22b11c9957a1925341c0802ac23a5c73075619c1707f3c8b6c37a12ce986a2fd",
+  "summary": "Inspected the pentagon channel and continuation on pages 225\u2013226. Verified the confusability differences, all five length-two codewords, the orthogonal representation constants, tensor-product orthogonality, and Bessel upper bound. Reran exhaustive pairwise output-disjointness and both capacities.",
+  "verdict": "accepted"
+}

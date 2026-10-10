@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.12",
+  "file_sha256": {
+    "solutions/ch15/ex-15-12.md": "fc095e93ef5c1034efe7eab4d89d2644dc6cd8aef3575c00e4099e06556c54ee"
+  },
+  "inventory_entry_sha256": "10e70bafd0051ee71242bad56c630b23a600712b393ededfb106ae0f03f7bb17",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "6bfc7306e8bce746431389f580c7d7f5856d13a1fcabc4260014f7a3501780ca",
+  "summary": "Visually checked original PDF pp599\u2013604. Verified axis labels from diagram, single-user intercepts and degraded DPI ordering.",
+  "verdict": "accepted"
+}

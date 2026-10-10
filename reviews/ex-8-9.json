@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "8.9",
+  "file_sha256": {
+    "solutions/ch08/ex-8-9.md": "99d3c667d8316a7c95d7dbd30268d0a9e841d3124e6eb8f41a934d09749056db"
+  },
+  "inventory_entry_sha256": "67816899a050eb85901d8371c0a811fd7d929c4625878f2ed6e57d7f6ec580fd",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "eadb91fcf6c5a267601bc6e3ba0acc374040137f0bc5c8b3cdbb3d166f22a70b",
+  "summary": "Visually checked original PDF pp256\u2013259. Checked conditional Gaussian covariance and product correlation formula, endpoint qualifications.",
+  "verdict": "accepted"
+}

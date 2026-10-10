@@ -10,7 +10,7 @@
   "exercise_id": "2.32",
   "file_sha256": {
     "artifacts/ch02/batch03/results.json": "d10c8fa39d70c1df79dc74624d37e18d86d76307f93bd9a03cdb0428845c1b2c",
-    "solutions/ch02/ex-2-32.md": "9031d317793d91cb02fe1ac8223586511660cc7eedfb6b1a4e6b93adb41eeef1",
+    "solutions/ch02/ex-2-32.md": "0d460f19443d5c2f0a817e25254f0beed88f1234aa0bc081a4268ea9a6475eb9",
     "src/information_theory/ch02_batch03.py": "729e68d029a8463fe85a20f657f8ae8df5188c1ba42225dc989640ce3b0841b9",
     "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
     "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
@@ -21,6 +21,6 @@
   "reviewer": "root_independent_review",
   "schema_version": 1,
   "submission_sha256": "94ede6908ae8ef4923044528809c4ad5f2563f203bc64b45863d89d433563a72",
-  "summary": "Visually checked original PDF pp49\u201351. Verified original source table, MAP decisions, error1/2, conditional entropy1.5, textbook and sharpened Fano bounds; reran numerical evidence.",
+  "summary": "Visually checked original PDF pp49\u201351. Verified original source table, MAP decisions, error1/2, conditional entropy1.5, textbook and sharpened Fano bounds; reran numerical evidence. Removed irrelevant shared-script boilerplate; mathematical content unchanged.",
   "verdict": "accepted"
 }

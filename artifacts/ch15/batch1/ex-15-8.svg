@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="450" viewBox="0 0 640 450">
+<rect width="640" height="450" fill="white"/>
+<polygon points="200,70 540,70 540,350 350,350 200,210" fill="#d6ecea"/>
+<g fill="none" stroke="#222" stroke-width="2"><path d="M50 50V350H570"/><path d="M200 70V210L350 350H540" stroke="#137b74" stroke-width="3"/></g>
+<g font-family="sans-serif" font-size="18" fill="#222"><text x="55" y="30">Slepian–Wolf: H(X)=2, H(Y)=1</text><text x="580" y="355">R_X</text><text x="10" y="45">R_Y</text><text x="32" y="375">0</text><text x="192" y="380">1</text><text x="342" y="380">2</text><text x="22" y="215">1</text><text x="205" y="202">(1,1)</text><text x="360" y="335">(2,0)</text><text x="330" y="140">Achievable region</text><text x="120" y="422">Rates in bits per source pair</text></g>
+</svg>

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.13",
+  "file_sha256": {
+    "solutions/ch07/ex-7-13.md": "b259f4f059db0026d3ce83e0765121af41ada0b2528045ac820cf6bfc0162954"
+  },
+  "inventory_entry_sha256": "751b803bdded6d114fbb1e66ea65672678d97c945d7a89b34914ddff1bbdf2ef",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "134694b08e3f67ff30e5d24a1d1bd3c9f3576d4162b55c183866eb412667e7f3",
+  "summary": "Inspected the erasure/flip diagram across pages 226\u2013227. Verified input-independent erasures, conditional BSC crossover, all three requested formulas, admissible parameter domain, and the all-erasure endpoint.",
+  "verdict": "accepted"
+}

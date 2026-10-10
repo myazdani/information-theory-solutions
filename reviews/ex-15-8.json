@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.8",
+  "file_sha256": {
+    "artifacts/ch15/batch1/ex-15-8.svg": "dd79c83cf6c7766acda161e792b96927789edd23dcc483e8b3fa7e6be2674276",
+    "artifacts/ch15/batch1/results.json": "e8b489c045bedae7df37af875039dd2efa8e0456a05cf507249b5797b6f97739",
+    "solutions/ch15/ex-15-8.md": "2f4ce938c479cea792eef2f18e2eb0a785077a250191d32542434ba5f493642b",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch15_batch1.py": "aa3bbb8c410ed021600c6b4dec48a4500552cd7d04c2c18bde690cd35f818991"
+  },
+  "inventory_entry_sha256": "da74a336c59b6f3fd28df50eb76bd5f0e51bf892a7b610ebae6e45a713463856",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "eb5acffc859c9adef1994c185d57df97a6795876945fffeb50e66682682bf841",
+  "summary": "Visually checked original PDF pp596\u2013599. Verified deterministic Slepian\u2013Wolf region and all entropy edge cases; reran generator and rendered/inspected original SVG.",
+  "verdict": "accepted"
+}

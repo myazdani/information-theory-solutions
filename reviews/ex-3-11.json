@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "3.11",
+  "file_sha256": {
+    "solutions/ch03/ex-3-11.md": "a13b010bb6689ab8e380d2c2d2b4f41bc9f25db586fcf812284da1150c3bdebe"
+  },
+  "inventory_entry_sha256": "716ffefc96dbe121171704b883574a55159faef88ff0906846a1f21a8e66ff85",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "17aa1ecc14e8a46bf688bd3d5e47b5f7978ed606c49688447992cc15f45ebc15",
+  "summary": "Visually checked original PDF pp64\u201369. Verified every probable-set proof step and theorem3.3.1 delta<1/2 assumption.",
+  "verdict": "accepted"
+}

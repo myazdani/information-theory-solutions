@@ -10,7 +10,7 @@
   "exercise_id": "2.36",
   "file_sha256": {
     "artifacts/ch02/batch03/results.json": "d10c8fa39d70c1df79dc74624d37e18d86d76307f93bd9a03cdb0428845c1b2c",
-    "solutions/ch02/ex-2-36.md": "691a151450b9c0857bed90bb102147f2c132327c46355f992a09aa098766e065",
+    "solutions/ch02/ex-2-36.md": "399c4598a67b0ad8eda613d9ba5954ddce0f78e27b5be14c4be092a2e25c820c",
     "src/information_theory/ch02_batch03.py": "729e68d029a8463fe85a20f657f8ae8df5188c1ba42225dc989640ce3b0841b9",
     "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
     "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
@@ -21,6 +21,6 @@
   "reviewer": "root_independent_review",
   "schema_version": 1,
   "submission_sha256": "ac19932e5ab9f0ce53bbdfe221eb16398c5895e23b5945e2e16ae4481f9340db",
-  "summary": "Visually checked original PDF pp49\u201351. Verified reversed binary distributions give equal positive finite directed divergences; reran calculation.",
+  "summary": "Visually checked original PDF pp49\u201351. Verified reversed binary distributions give equal positive finite directed divergences; reran calculation. Removed irrelevant shared-script boilerplate; mathematical content unchanged.",
   "verdict": "accepted"
 }

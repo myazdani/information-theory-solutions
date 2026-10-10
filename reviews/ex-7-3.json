@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.3",
+  "file_sha256": {
+    "solutions/ch07/ex-7-3.md": "951a5f51b782f0c79a2f2a5d5a19a4a7792e2e39d31b076979e94ceec8cadc9e"
+  },
+  "inventory_entry_sha256": "bfa121293beae2e41a77a5b2c9bb38c965aae103d4c84f397d5d7fd7f494ae82",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "4a3a2cbaaaacc1b0b3279136898a28f4f765f56e0d47749540a3ff1ce1fb7cb8",
+  "summary": "Inspected page 224. Verified that uniform independent input makes the entire output vector uniform even for correlated noise, the conditional entropy is exactly the joint noise entropy, and entropy subadditivity proves the requested bound.",
+  "verdict": "accepted"
+}

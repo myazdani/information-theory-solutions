@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.11",
+  "file_sha256": {
+    "solutions/ch07/ex-7-11.md": "f5514e5775330ad86c8ca7d0dc4f8a646e631c1bf765c41b3046e439435b41d5"
+  },
+  "inventory_entry_sha256": "9d6a18b107f2bc64dc6770d00076f318dc19cb0b93bc3dab800ee682a8c840ea",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "21fd8bb9db90e11535e28c455b30c535f8a5f4d846c12c2419e839716de8f185",
+  "summary": "Inspected the product conditional law and drawn time-dependent BSC on page 226. Checked the upper bound for arbitrarily dependent inputs and independent per-time maximizers attaining equality, including the BSC specialization.",
+  "verdict": "accepted"
+}

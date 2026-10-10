@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.11",
+  "file_sha256": {
+    "solutions/ch15/ex-15-11.md": "e9469fb72663b21d2997d74482bda397612d9e2cbfedb336c8dd659ef1bed405"
+  },
+  "inventory_entry_sha256": "51f9d370dbc89a23ffe1bb972076f0b3fac20c8629773f943ea145fbe4bde61b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "ae16aae0aad5bb84b4b6da27515259947042b72c8323a8d5fd70e6cd870ebc14",
+  "summary": "Visually checked original PDF pp599\u2013604. Verified every labeled chain-rule/conditioning/degradation step, actual equality at g/i, Fano terms, source lower-index typo and both directions of time-sharing/convex-closure equivalence.",
+  "verdict": "accepted"
+}

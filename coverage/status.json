@@ -1,18 +1,18 @@
 {
-  "accepted": 89,
+  "accepted": 150,
   "chapters": [
     {
-      "accepted": 45,
+      "accepted": 48,
       "chapter": 2,
       "draft": 0,
-      "pending": 3,
+      "pending": 0,
       "total": 48
     },
     {
-      "accepted": 0,
+      "accepted": 13,
       "chapter": 3,
       "draft": 0,
-      "pending": 13,
+      "pending": 0,
       "total": 13
     },
     {
@@ -37,17 +37,17 @@
       "total": 18
     },
     {
-      "accepted": 0,
+      "accepted": 14,
       "chapter": 7,
       "draft": 0,
-      "pending": 37,
+      "pending": 23,
       "total": 37
     },
     {
-      "accepted": 0,
+      "accepted": 11,
       "chapter": 8,
       "draft": 0,
-      "pending": 11,
+      "pending": 0,
       "total": 11
     },
     {
@@ -93,10 +93,10 @@
       "total": 14
     },
     {
-      "accepted": 0,
+      "accepted": 20,
       "chapter": 15,
       "draft": 0,
-      "pending": 36,
+      "pending": 16,
       "total": 36
     },
     {
@@ -455,17 +455,17 @@
     {
       "chapter": 2,
       "id": "2.43",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch02/ex-2-43.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 2,
       "id": "2.44",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch02/ex-2-44.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
@@ -495,113 +495,113 @@
     {
       "chapter": 2,
       "id": "2.48",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch02/ex-2-48.md",
+      "status": "accepted",
       "subparts": 6
     },
     {
       "chapter": 3,
       "id": "3.1",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch03/ex-3-1.md",
+      "status": "accepted",
       "subparts": 3
     },
     {
       "chapter": 3,
       "id": "3.2",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch03/ex-3-2.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 3,
       "id": "3.3",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch03/ex-3-3.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 3,
       "id": "3.4",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch03/ex-3-4.md",
+      "status": "accepted",
       "subparts": 4
     },
     {
       "chapter": 3,
       "id": "3.5",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch03/ex-3-5.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 3,
       "id": "3.6",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch03/ex-3-6.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 3,
       "id": "3.7",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch03/ex-3-7.md",
+      "status": "accepted",
       "subparts": 3
     },
     {
       "chapter": 3,
       "id": "3.8",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch03/ex-3-8.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 3,
       "id": "3.9",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch03/ex-3-9.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 3,
       "id": "3.10",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch03/ex-3-10.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 3,
       "id": "3.11",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch03/ex-3-11.md",
+      "status": "accepted",
       "subparts": 3
     },
     {
       "chapter": 3,
       "id": "3.12",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch03/ex-3-12.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 3,
       "id": "3.13",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch03/ex-3-13.md",
+      "status": "accepted",
       "subparts": 4
     },
     {
@@ -1391,113 +1391,113 @@
     {
       "chapter": 7,
       "id": "7.1",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-1.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 7,
       "id": "7.2",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-2.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 7,
       "id": "7.3",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-3.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 7,
       "id": "7.4",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch07/ex-7-4.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 7,
       "id": "7.5",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-5.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 7,
       "id": "7.6",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch07/ex-7-6.md",
+      "status": "accepted",
       "subparts": 3
     },
     {
       "chapter": 7,
       "id": "7.7",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-7.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 7,
       "id": "7.8",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch07/ex-7-8.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 7,
       "id": "7.9",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch07/ex-7-9.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 7,
       "id": "7.10",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch07/ex-7-10.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 7,
       "id": "7.11",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-11.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 7,
       "id": "7.12",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch07/ex-7-12.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 7,
       "id": "7.13",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch07/ex-7-13.md",
+      "status": "accepted",
       "subparts": 3
     },
     {
       "chapter": 7,
       "id": "7.14",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch07/ex-7-14.md",
+      "status": "accepted",
       "subparts": 3
     },
     {
@@ -1687,89 +1687,89 @@
     {
       "chapter": 8,
       "id": "8.1",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch08/ex-8-1.md",
+      "status": "accepted",
       "subparts": 3
     },
     {
       "chapter": 8,
       "id": "8.2",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch08/ex-8-2.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 8,
       "id": "8.3",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch08/ex-8-3.md",
+      "status": "accepted",
       "subparts": 3
     },
     {
       "chapter": 8,
       "id": "8.4",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch08/ex-8-4.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 8,
       "id": "8.5",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch08/ex-8-5.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 8,
       "id": "8.6",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch08/ex-8-6.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 8,
       "id": "8.7",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch08/ex-8-7.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 8,
       "id": "8.8",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch08/ex-8-8.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 8,
       "id": "8.9",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch08/ex-8-9.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 8,
       "id": "8.10",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch08/ex-8-10.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 8,
       "id": "8.11",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch08/ex-8-11.md",
+      "status": "accepted",
       "subparts": 5
     },
     {
@@ -2719,161 +2719,161 @@
     {
       "chapter": 15,
       "id": "15.1",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-1.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 15,
       "id": "15.2",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-2.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 15,
       "id": "15.3",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-3.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.4",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-4.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.5",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-5.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.6",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-6.md",
+      "status": "accepted",
       "subparts": 3
     },
     {
       "chapter": 15,
       "id": "15.7",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-7.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.8",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": true,
+      "path": "solutions/ch15/ex-15-8.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.9",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-9.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.10",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-10.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.11",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-11.md",
+      "status": "accepted",
       "subparts": 9
     },
     {
       "chapter": 15,
       "id": "15.12",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-12.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 15,
       "id": "15.13",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-13.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.14",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-14.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.15",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-15.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 15,
       "id": "15.16",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-16.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 15,
       "id": "15.17",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-17.md",
+      "status": "accepted",
       "subparts": 4
     },
     {
       "chapter": 15,
       "id": "15.18",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-18.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
       "chapter": 15,
       "id": "15.19",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-19.md",
+      "status": "accepted",
       "subparts": 0
     },
     {
       "chapter": 15,
       "id": "15.20",
-      "numerical": null,
-      "path": null,
-      "status": "pending",
+      "numerical": false,
+      "path": "solutions/ch15/ex-15-20.md",
+      "status": "accepted",
       "subparts": 2
     },
     {
@@ -3141,7 +3141,7 @@
       "subparts": 0
     }
   ],
-  "pending": 289,
+  "pending": 228,
   "schema_version": 1,
   "total": 378
 }

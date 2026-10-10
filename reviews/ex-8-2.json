@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "8.2",
+  "file_sha256": {
+    "solutions/ch08/ex-8-2.md": "c26e3d180e7a9e023dcfe06763b4efcfe67abf9fec76b1e30397752ce51936c3"
+  },
+  "inventory_entry_sha256": "105040878d400952f0282aca45a1120699f822c6f467f939478840721bced8f2",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "440ca7e38f16c3314da75988f14b8a428200a4ef65804d2db2f07f280a8e65f5",
+  "summary": "Visually checked original PDF pp256\u2013259. Checked Gaussian-mixture entropy proof and singular-matrix limit/endpoints.",
+  "verdict": "accepted"
+}

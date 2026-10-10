@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "8.8",
+  "file_sha256": {
+    "solutions/ch08/ex-8-8.md": "4171a1c8270f38753532090a89173bd9a3405592f9694bbe0d3331b3802a67ab"
+  },
+  "inventory_entry_sha256": "e759dc9edd6c9bce70e6d6e08e8528afbad2007987808e2fdff3ee47caee9959",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "bb81a4f42f9a5ddb39d27b372092705dd8daed122b1052808b14587a7f6303c9",
+  "summary": "Visually checked original PDF pp256\u2013259. Checked output-support bound and three disjoint interval input construction.",
+  "verdict": "accepted"
+}

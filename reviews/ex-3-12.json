@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "3.12",
+  "file_sha256": {
+    "solutions/ch03/ex-3-12.md": "aac8e8cd44e923910514a1bc860ed8716d5a43262f07b36e6d3271a9f0b4b7d6"
+  },
+  "inventory_entry_sha256": "b1c5be0eba7512d488a4f13a47558b8663d680719df37cc797f6fa54dc62e212",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "68f410727fbc7bb2219c87bb212adbca8e1c67a85633024eef1025a9bdc83561",
+  "summary": "Visually checked original PDF pp64\u201369. Verified convexity for block averages and leave-one-out laws without independence assumptions.",
+  "verdict": "accepted"
+}

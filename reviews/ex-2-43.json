@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.43",
+  "file_sha256": {
+    "artifacts/ch02/batch03/results.json": "d10c8fa39d70c1df79dc74624d37e18d86d76307f93bd9a03cdb0428845c1b2c",
+    "solutions/ch02/ex-2-43.md": "3c232398ddefd1f40925928755aa3031894c0202bf4fb173a16f9562859dfaae",
+    "src/information_theory/ch02_batch03.py": "729e68d029a8463fe85a20f657f8ae8df5188c1ba42225dc989640ce3b0841b9",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  },
+  "inventory_entry_sha256": "c2167caf5709622d48c7c12ba1707b8b2f4f52575cc2c7fde07a79b4d9dd220e",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "a64ea011fa134490a661b44540b032c6f20fbd696d485447f79390b83a907a02",
+  "summary": "Visually checked PDF pp53\u201354. Verified fair coin and uniform24-orientation die mutual information; orientation assumption explicit and numeric values rerun.",
+  "verdict": "accepted"
+}
