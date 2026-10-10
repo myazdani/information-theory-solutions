@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.9",
+  "file_sha256": {
+    "solutions/ch09/ex-9-9.md": "9b70d2f041b1c52acee3b4b8fabe8102aaaf9e68a86cbb6624920849b482407d"
+  },
+  "inventory_entry_sha256": "86e0fd6fa6473927edfa74298f637058f990826d6459d71c14df8b54b287c789",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "e5b1cd972a280c1d8017c038ddf1bfd9dccc15f67ea14362b98b235a8b613226",
+  "summary": "Visually inspected the three-dimensional covariance matrix on page 293. Verified the null vector and positive-power noise-free projection, so the capacity is infinite rather than a finite water-filling expression.",
+  "verdict": "accepted"
+}

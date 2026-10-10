@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.5",
+  "file_sha256": {
+    "solutions/ch14/ex-14-5.md": "c30e05960b8e83d9f835275dd88d4a933a7217e3e7193cdd66f12e8f62854197"
+  },
+  "inventory_entry_sha256": "496ac44a31b6ee20bd889dc69b146bd79926418b417b1af052909fdb267a738b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "ca8cb9d74582ad159b5c7eb8f7de72a4f2bf75f8d6312f4a5b1fce6c39a41ab2",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified prefix-event versus exact-output interpretations, computable-sequence constant lower masses, integer-event coding theorem and halting-probability random-prefix bounds.",
+  "verdict": "accepted"
+}

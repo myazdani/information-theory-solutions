@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "4.4",
+  "file_sha256": {
+    "artifacts/ch04/batch01/results.json": "4011238e5d0ebfc7a158081ec7ec42b4b8f4878565eb52e482c6bd8f49345044",
+    "solutions/ch04/ex-4-4.md": "85fcb00505b8e2692ed99a9e1f71f79630a6a34b58cd27e9612fc83e6cb46ab2",
+    "src/information_theory/ch04_batch01.py": "4ef5a0951ba1b3de0925d0d8516550115e7b0e17464d56b22700f3d906ceb467",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  },
+  "inventory_entry_sha256": "fa1f974e0e5cf58ebbb6bed71ddbcadb3f9bc19f66baac5e0c555d587be03e63",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "5cfd51d5a1777748d8ec179d9fc83c406fc6de0d3122d3059b9a158977d49be2",
+  "summary": "Inspected original PDF pp88\u201393 and all subparts. Checked stationary block identities, counterexamples, recursive ordered-tree entropy recurrence and convergent series, Fibonacci constrained entropy optimum, parity independence, and random-walk run convention as applicable. Reran the frozen numerical batch and matched all stored values/checks.",
+  "verdict": "accepted"
+}

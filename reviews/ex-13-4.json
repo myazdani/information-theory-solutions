@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "13.4",
+  "file_sha256": {
+    "artifacts/ch13/coding/results.json": "1d1eeb62b2128fb2608667a4f5faff849c88442241c975837428447dc5230189",
+    "solutions/ch13/ex-13-4.md": "ff785c7fbd345d13ba3b43d1e6a5a1fd05a40205066caeac627f9c600305ab88",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch13_coding.py": "40e88f329174416e5a7d754e33742a14fe627c83d18114f58d41f53a8cd1dae8",
+    "tests/test_ch13_coding.py": "66976e5ade4c7ffd95523bb6240a0b75a03844b40e202aff3977df480da5121a"
+  },
+  "inventory_entry_sha256": "e29cb46af4cf5cc34dad5916137a9674349c6e3463720256b773aa50b023af9c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "d76fc55713ec481145716f409694ef87e56b60775a5f299bf77d5f7c2fdf3316",
+  "summary": "Visually checked original PDF pp457\u2013461. Verified cumulative interval25/54 to79/162 and four guaranteed bits; exact fractions rerun.",
+  "verdict": "accepted"
+}

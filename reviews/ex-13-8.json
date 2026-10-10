@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "13.8",
+  "file_sha256": {
+    "artifacts/ch13/coding/results.json": "1d1eeb62b2128fb2608667a4f5faff849c88442241c975837428447dc5230189",
+    "solutions/ch13/ex-13-8.md": "c282ef9d0aa04ff2bf92e9b2c26a35098091c0bf9bdc262070c59bb4fcd2eff1",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch13_coding.py": "40e88f329174416e5a7d754e33742a14fe627c83d18114f58d41f53a8cd1dae8",
+    "tests/test_ch13_coding.py": "66976e5ade4c7ffd95523bb6240a0b75a03844b40e202aff3977df480da5121a"
+  },
+  "inventory_entry_sha256": "4589e559bb4cb6c22769ec60faedf2708f5f57c7f2b76a0d5a4a01a4d76775fa",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "e39190caf6b41f031d1b9033e10a5de3e464e543d3bd5b0aa6d9e67d7ca6af93",
+  "summary": "Visually checked original PDF pp457\u2013461. Verified pointer/length ceil bits, match-versus-per-literal flags threshold and worked21versus18/27 costs; reran checks.",
+  "verdict": "accepted"
+}

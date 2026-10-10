@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.34",
+  "file_sha256": {
+    "artifacts/ch07/first-batch/results.json": "654be13199051064d0dc54ee991c5081a2ab3cc36a6edbf16d8a779cc1bb2c78",
+    "solutions/ch07/ex-7-34.md": "4c1b6b38aad2e0bafd735556407911e2063543a7fd3b8726791e6b600772ac38",
+    "src/information_theory/ch07/first_batch.py": "16915ce2b6b4161fc2de4a6d33d352e184ee300c85f90ea55bca17eb4e1fd5ac",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch07/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch07/test_first_batch.py": "ec2486df6f8e954247fa38219a21dd8ebc45ab3c5559ada54a1445a61a3f4a56"
+  },
+  "inventory_entry_sha256": "fb6b389ea98b0e2a1e3f04b0b4ebf163307000606e5e18f295d307588e376eca",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "14c73618a2458854bdcd3f8831c7c21a0a036adddfc84173041bb1b846e7af57",
+  "summary": "Visually inspected all four diagrams/matrices across pages 238\u2013239. Verified disjoint-block log-sum capacities rather than product-channel capacities, documented genuinely inconsistent p and half labels in part c, checked both explicitly stated interpretations, and checked the two-row ternary capacity. Reran the equivalent active-row mutual-information calculation for part d.",
+  "verdict": "accepted"
+}

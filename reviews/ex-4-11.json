@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "4.11",
+  "file_sha256": {
+    "solutions/ch04/ex-4-11.md": "9f7ba2d83388f25c0af56641179f0bcc061b0874ef3c2b065ec753244cae7340"
+  },
+  "inventory_entry_sha256": "cc7a29b14de18730d38de43e3f40b4ac9e40d9a91a05c771b987e5da628b3f0b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "d7d0fa7201263b8d471374a540975e796258f01895f31f349ee3fc426d7d88fc",
+  "summary": "Inspected original PDF pp88\u201393 and all subparts. Checked stationary block identities, counterexamples, recursive ordered-tree entropy recurrence and convergent series, Fibonacci constrained entropy optimum, parity independence, and random-walk run convention as applicable. Reran the frozen numerical batch and matched all stored values/checks.",
+  "verdict": "accepted"
+}

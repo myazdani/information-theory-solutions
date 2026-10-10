@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.6",
+  "file_sha256": {
+    "solutions/ch14/ex-14-6.md": "f44cff4345948c5077d79588b238e88a052d2a1e00e3a1e38e20df83d1419f0a"
+  },
+  "inventory_entry_sha256": "d3d483722eb02332dd52319226d95ccfff570813a4ffc3652e656900d10c6e21",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_review": {
+    "current_solution_sha256": "f44cff4345948c5077d79588b238e88a052d2a1e00e3a1e38e20df83d1419f0a",
+    "previous_solution_sha256": "db4a81512669fbe5e9700d106001bdcff2834539cb81de79276a15858f51731b",
+    "reviewer": "root",
+    "scope": "Independently inspected exact diff: only literal less-than signs inside fenced math become TeX \\lt with a separator space. Mathematical statements, proofs, computations, and other text are unchanged. Original proof acceptance is preserved by syntax equivalence."
+  },
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "f484213d36a1ef408897fe46ce4bb8280e9841b3ccfa0228062d6c5917eb5fc3",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified conditional ternary literal description and short-program geometric counting.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.21",
+  "file_sha256": {
+    "solutions/ch09/ex-9-21.md": "57da1d148882104894acada0be50f346bcd93c8cba7ba278821819b139753b21"
+  },
+  "inventory_entry_sha256": "42450f26681db8c22abb43c5b10f0c981fcc0d6b826db404aac221df6c090784",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "e5da4b66aaa76604af81899422164b657d6a5bf19d23bbe2a90c7f56afde96c3",
+  "summary": "Visually inspected the game and saddle inequalities across pages 298\u2013299. Verified both Gaussian upper and linear-estimator lower bounds, feasible unilateral variations, the information units, and the optional entropy-power proof with its density caveat.",
+  "verdict": "accepted"
+}

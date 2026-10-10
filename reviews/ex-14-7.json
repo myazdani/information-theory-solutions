@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.7",
+  "file_sha256": {
+    "solutions/ch14/ex-14-7.md": "0e2cf8ae315aa44e0c1588d3291f769c1aa1ff424d39bdfa0948b3f2c4d52f9a"
+  },
+  "inventory_entry_sha256": "31bbbadee9708eb1f85c762a1eb555321e64520466a17ae7730013ba91627fae",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "1ccd1cbd0197245eb4d358d2022d623fe9bea5f78401c7fc4eee977365903fb0",
+  "summary": "Independently inspected the ternary-randomness request on printed page 504 and reviewed the complete type-class coding proof. Checked count-description overhead, uniform Stirling error including zero counts, strict entropy gap away from uniformity, and the n-o(n) incompressibility implication. Corrected the final divergence unit conversion to D_2/log_2(3), explicitly defining D_2 in bits, and verified the identity from H_3=H_2/log_2(3).",
+  "verdict": "accepted"
+}

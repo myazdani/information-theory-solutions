@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.10",
+  "file_sha256": {
+    "solutions/ch14/ex-14-10.md": "a414cb551599c9ae995031bff36019076beaa7a153f7b17ed7d9c7e2a1e3a51b"
+  },
+  "inventory_entry_sha256": "b1bc96154f2d9cd75cffc047312573ab8d33e03b78e4bd13e0f3a3c74ef2495c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "b7ecc429f966f5eb944b4d2a7c871574143bf7c29d34d868b3c70bb6aa522086",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified source silhouette geometry, one-segment and general mirror-image alternatives, one-cell offset bounds and reversibility.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.31",
+  "file_sha256": {
+    "solutions/ch15/ex-15-31.md": "09a9c9261f30f7ba85600e25565477ce9c03fa882cfba9f8532e52e73ae82189"
+  },
+  "inventory_entry_sha256": "27ae617be7fded3d25a1f5ae31bdb77b2472a4ca08eb769dfe528b7566252595",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "1b7ca34e1916614ce493d1491acaeccb099861dd3fc87dda1f8f9f65c11b5fd5",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Verified added-user total converse, every MAC subset constraint, and power equality.",
+  "verdict": "accepted"
+}

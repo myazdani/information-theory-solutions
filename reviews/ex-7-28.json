@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.28",
+  "file_sha256": {
+    "solutions/ch07/ex-7-28.md": "5b845f6c0c0e886295cf98a08510dc32b56a75bf1fbdc97c86a276762334a3f0"
+  },
+  "inventory_entry_sha256": "8027ded943f34fbfb6b9afcebf09f40026f52773139e929438836f99147ca9e8",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "b2bc31fb3ff405b6a2e359d78c9fcee527f6c471b2313c8695fc6b9ebcc361d7",
+  "summary": "Inspected all three parts and the BSC-plus-isolated-symbol diagram on page 236. Checked selector entropy, conditional capacity bounds and achievability, KL optimization of block weights, effective-alphabet interpretation, and the drawn-channel specialization.",
+  "verdict": "accepted"
+}

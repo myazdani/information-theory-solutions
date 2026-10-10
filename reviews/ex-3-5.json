@@ -8,11 +8,17 @@
   },
   "exercise_id": "3.5",
   "file_sha256": {
-    "solutions/ch03/ex-3-5.md": "365c60f2afcd09d2a61bc46c9ed11aee8b3c3d479a4f82274024795ef6c4c22f"
+    "solutions/ch03/ex-3-5.md": "d4230375bf774981dbb6016c8d42e1bc397307deaca086e09ed910f36d3ec680"
   },
   "inventory_entry_sha256": "f0c31287f38a72d5c5751499b4ad1bbf863f67d261db1146348927cf87ac0014",
   "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
   "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_review": {
+    "current_solution_sha256": "d4230375bf774981dbb6016c8d42e1bc397307deaca086e09ed910f36d3ec680",
+    "previous_solution_sha256": "365c60f2afcd09d2a61bc46c9ed11aee8b3c3d479a4f82274024795ef6c4c22f",
+    "reviewer": "root",
+    "scope": "Independently inspected exact diff: only literal less-than signs inside fenced math become TeX \\lt with a separator space. Mathematical statements, proofs, computations, and other text are unchanged. Original proof acceptance is preserved by syntax equivalence."
+  },
   "reviewer": "root_independent_review",
   "schema_version": 1,
   "submission_sha256": "8aadecfb91f8e077f6f94e8a868cf777398fbadcd3db7c16aa9f053cc8cb27ae",

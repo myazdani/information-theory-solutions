@@ -1,0 +1,167 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "arithmetic_first_prefix": true,
+    "arithmetic_partition": true,
+    "arithmetic_second_lower": true,
+    "arithmetic_second_upper": true,
+    "lz77_threshold": true,
+    "lz_roundtrips": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.experiments.ch13_coding --output artifacts/ch13/coding",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.experiments.ch13_coding",
+  "results": {
+    "13.2": {
+      "entropy_bits": 1.1567796494470395,
+      "ideal_length_bits": 1.584962500721156,
+      "minimax_bits": 0.4281828512741166
+    },
+    "13.3": {
+      "decoded_from_100": "10",
+      "intersecting_length_5_prefixes": [
+        "10000",
+        "10001",
+        "10010",
+        "10011",
+        "10100",
+        "10101",
+        "10110",
+        "10111"
+      ],
+      "interval": [
+        "4919/8192",
+        "77/128"
+      ],
+      "known_code_bits": "100110011"
+    },
+    "13.4": {
+      "interval": [
+        "25/54",
+        "79/162"
+      ],
+      "known_code_bits": "0111"
+    },
+    "13.5": {
+      "pairs": [
+        [
+          0,
+          "0"
+        ],
+        [
+          1,
+          "0"
+        ],
+        [
+          2,
+          "0"
+        ],
+        [
+          0,
+          "1"
+        ],
+        [
+          4,
+          "0"
+        ],
+        [
+          5,
+          "1"
+        ],
+        [
+          3,
+          "0"
+        ],
+        [
+          1,
+          "1"
+        ],
+        [
+          6,
+          "0"
+        ],
+        [
+          4,
+          null
+        ]
+      ],
+      "phrases": [
+        "0",
+        "00",
+        "000",
+        "1",
+        "10",
+        "101",
+        "0000",
+        "01",
+        "1010",
+        "1"
+      ]
+    },
+    "13.8": {
+      "length_bits": 8,
+      "pointer_bits": 12,
+      "shortest_strictly_better_match": 3
+    },
+    "13.9": {
+      "pairs": [
+        [
+          0,
+          "0"
+        ],
+        [
+          1,
+          "0"
+        ],
+        [
+          2,
+          "1"
+        ],
+        [
+          2,
+          "0"
+        ],
+        [
+          4,
+          "1"
+        ],
+        [
+          0,
+          "1"
+        ],
+        [
+          1,
+          "1"
+        ],
+        [
+          7,
+          "1"
+        ],
+        [
+          6,
+          null
+        ]
+      ],
+      "phrases": [
+        "0",
+        "00",
+        "001",
+        "000",
+        "0001",
+        "1",
+        "01",
+        "011",
+        "1"
+      ]
+    }
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch13_coding.py": "40e88f329174416e5a7d754e33742a14fe627c83d18114f58d41f53a8cd1dae8"
+  }
+}

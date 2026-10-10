@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "13.6",
+  "file_sha256": {
+    "solutions/ch13/ex-13-6.md": "3f395b142ca1b2de6fea45b79ff1768cf15b283ab0fa0f5700cd257b02f193ae"
+  },
+  "inventory_entry_sha256": "d95cd10c90e8af099c592eda39dfc8ffaee42111f8656b796bac19a9636258ce",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "b3fd5a7163a9921d97b1f4f85e49285d67d192d8b82b7b046ee00f400a32ab05",
+  "summary": "Visually checked original PDF pp457\u2013461. Verified increasing constant phrases and O(logn/sqrt(n)) rate including terminal overhead.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.11",
+  "file_sha256": {
+    "artifacts/ch14/counts/results.json": "956a64de49481e36563478847a67f370479124faf1d05ee70db6e60792647c6f",
+    "solutions/ch14/ex-14-11.md": "a0ff9fdfbd80e91771a231ecc3eadc446a877f5001ef8dc00bcb42c0a8861465",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch14_counts.py": "44bb609ddc3939137aaa011a3af8b37646608da0853410259ea0f419dc69c24a",
+    "tests/test_ch14_counts.py": "3da1fa301b751edb6386f4e9793e0223f5401a67bed6c2e3949d0322832960b5"
+  },
+  "inventory_entry_sha256": "b3a2b45be774e03becf20306fb734c5f45c60429f3b146b6d9ddb04befac0aac",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "7633a50825e82827a9fe3b48ad38eb72294d76ffd6f065bb9e70bb186178b4c8",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified exact discrete-grid family counts, shared-corner geometry, congruent lower bounds and reduced-ratio O(n\u00b2logn) equal-area dimension count; independently reran exhaustive small-size checks.",
+  "verdict": "accepted"
+}

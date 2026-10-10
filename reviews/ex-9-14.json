@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.14",
+  "file_sha256": {
+    "solutions/ch09/ex-9-14.md": "3b537694884dae8df41d35f19cc5fb7bef08e9e75c6c8b4309293546b2a2ed76"
+  },
+  "inventory_entry_sha256": "d5768e7c76abbbdb65f67f9470527998760a51812fd0a5f654e3ce0475af11b4",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "32dd0faae38e6933dd9c5bd1a37846057aec25e29ad211a0ab4fbd941bfb9078",
+  "summary": "Visually inspected both parts on page 294. Checked finite distinct bounded constellations and exact matching at the output, which exposes an erasure channel with nonerasure probability 0.1. Arbitrarily large constellation size proves infinite capacity while meeting positive power constraints.",
+  "verdict": "accepted"
+}

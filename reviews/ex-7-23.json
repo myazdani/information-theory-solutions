@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.23",
+  "file_sha256": {
+    "solutions/ch07/ex-7-23.md": "46674955ba61abb4e291d6d96b3d3c7650a2ee48ec7e14baaf5355ffa2fbcf39"
+  },
+  "inventory_entry_sha256": "2c4035d70a3244cba7a17d6501aa68878acd5aff02acfa696e861c41f6e8a606",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "033dc482141ec7c97b617f79bd67bf31f9781f87e372614200e43fa42b4181b5",
+  "summary": "Inspected the multiplier model on page 234. Checked the entropy objective, stationary input, feasibility inequality, capacity formula, both alpha endpoints, and receiver-state capacity alpha.",
+  "verdict": "accepted"
+}

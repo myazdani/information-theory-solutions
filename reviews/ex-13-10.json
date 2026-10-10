@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "13.10",
+  "file_sha256": {
+    "solutions/ch13/ex-13-10.md": "2d1e7c791ce26bcd291a43008fb31bf334bca90ce7b5648ab79fd6f6d5755f29"
+  },
+  "inventory_entry_sha256": "5e12b2554ca8676e67f28a357bf26866afd38095bfec4efc19a21d5db50e3257",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "e6ea6052fb101f83fa39d495c93d2aefa277861bea36c5ffb96ae53a6f3a4c4d",
+  "summary": "Visually checked original PDF pp457\u2013461. Verified Kac/overlap distinction, Markov/AEP tail bound, both fixed-database constructions and required delta-to-zero limit.",
+  "verdict": "accepted"
+}

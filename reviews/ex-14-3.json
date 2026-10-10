@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.3",
+  "file_sha256": {
+    "solutions/ch14/ex-14-3.md": "7c2208458273a90801e70c4d33ede35130ec593d04977e85c10ed1347b1f4d4d"
+  },
+  "inventory_entry_sha256": "fc0d1628ccdecee59d980fd06b0d96c9c6591989208b1279d69298819956b842",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "72b65a90c6d3e81fb422eb068349dc8f6ad625aae934c0f2f8c6642e60714e22",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified source figures and max/typical complexity interpretation; image family counting lower/upper bounds.",
+  "verdict": "accepted"
+}

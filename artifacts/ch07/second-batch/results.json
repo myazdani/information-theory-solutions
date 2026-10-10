@@ -1,0 +1,58 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "bec_eight_formula": true,
+    "bec_four_formula": true,
+    "coarse_channel_mi": true,
+    "exceptional_noise_rate_exceeds_one": true,
+    "parity_error": true,
+    "parity_optimal": true,
+    "spurious_identity": true,
+    "typical_set": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch07.second_batch --output artifacts/ch07/second-batch",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch07.second_batch",
+  "results": {
+    "7.15.HX": 1,
+    "7.15.HXY": 1.4689955935892811,
+    "7.15.HY": 1,
+    "7.15.I": 0.5310044064107189,
+    "7.15.error_probability": 0.34212768026805074,
+    "7.15.radius4_error": 0.2852515812108446,
+    "7.15.random_match_probability": 0.0004552304744720459,
+    "7.15.spurious_probability": 0.2075895187446907,
+    "7.15.true_typical_probability": 0.8302165800353507,
+    "7.15.typical_size": 15275,
+    "7.15.typical_weights": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "7.16.crossover": 0.028000000000000008,
+    "7.16.effective_capacity_per_use": 0.27191313555344826,
+    "7.16.original_capacity": 0.5310044064107189,
+    "7.17.best_bsc_error_all_70_codes": 0.18999999999999995,
+    "7.17.even_parity_bsc_error": 0.18999999999999995,
+    "7.17.full_bec_error": 0.142625,
+    "7.17.full_bsc_error": 0.2709999999999999,
+    "7.17.parity_bec_error": 0.014250000000000207,
+    "7.17.repetition_bec_error": 0.0004999999999999449,
+    "7.18.b_capacity": 0.5849625007211561,
+    "7.24.exceptional_uniform_rate": 1.103759374819711,
+    "7.26.coarse_even_mi": 1.0,
+    "7.26.coarse_odd_mi": 0.0,
+    "7.26.full_odd_mi": 1.0
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch07/second_batch.py": "55845af8aa3c0f6c09f22a0201e7cecb4e1766d1b7029c872e242242e826651e",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

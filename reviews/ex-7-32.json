@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.32",
+  "file_sha256": {
+    "solutions/ch07/ex-7-32.md": "28d1f8565d98440f5028a08a51509141b079441b3e8ce05f8d203b44cfb2b752"
+  },
+  "inventory_entry_sha256": "ae9e411e86f16f280d67d6eebc08b2969a7a8872560443d16ce10092596221c7",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "278584e7304d87a605b0d5db33c307876bc8227cf2642a1f16bd877df36f588c",
+  "summary": "Inspected all five parts across pages 237\u2013238. Checked deterministic answer-string counting, independent random-subset membership, false-object collision probability, expectation by linearity, integral rounding of sqrt(n) overhead, and Markov bound yielding vanishing ambiguity.",
+  "verdict": "accepted"
+}

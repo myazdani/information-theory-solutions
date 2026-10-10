@@ -1,0 +1,44 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "analytic_rate_matches_log_phi": true,
+    "counterexample_entropy_decreases": true,
+    "duration_rate_matches": true,
+    "golden_ratio_optimality_equation": true,
+    "grid_below_analytic_optimum": true,
+    "stationary_counterexample": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch04_batch01 --output artifacts/ch04/batch01",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch04_batch01",
+  "results": {
+    "ex_4_12_expected_initial_run": 10,
+    "ex_4_12_rate": 0.46899559358928117,
+    "ex_4_4_conditional_entropies": [
+      1.0,
+      -0.0
+    ],
+    "ex_4_4_stationary_after_transition": [
+      0.5,
+      0.25,
+      0.25
+    ],
+    "ex_4_7_max_rate": 0.6942419136306174,
+    "ex_4_7_optimal_p": 0.3819660112501051,
+    "ex_4_8_max_rate": 0.6942419136306174,
+    "ex_4_8_optimal_p1": 0.6180339887498948,
+    "golden_ratio": 1.618033988749895,
+    "grid_max_rate": 0.6942419110763586,
+    "grid_step": 0.0001
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch04_batch01.py": "4ef5a0951ba1b3de0925d0d8516550115e7b0e17464d56b22700f3d906ceb467",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

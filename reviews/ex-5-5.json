@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "5.5",
+  "file_sha256": {
+    "artifacts/ch05/batch01/results.json": "9d4f857e9b7e2b5b53d0cd3952a8f5af1634e1f1639362f820f6c94287231c9f",
+    "solutions/ch05/ex-5-5.md": "2852add36be49ae0726cf5baa4636f50379d9f938d044e40b09b95728d28983f",
+    "src/information_theory/ch05_batch01.py": "746cc40acf41e91f2dd1d80a79149d467d7f032c7288b859d5f9cfb50b9572b7",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  },
+  "inventory_entry_sha256": "fbf097f9f13c226cc9fd4aa911b7d79e2e8bb535b0d4c7e4d30450a2ea8844a0",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "762678435bcfadee32a185435a5f11626aa202bc6bad3a3a479592d2c621abb2",
+  "summary": "Visually inspected original PDF pp142\u2013146 and read all derivations/subparts. Verified Kraft/McMillan arguments, supplied codeword prefix conditions and exact Huffman merge weights, Markov stationary law, ternary equality conditions, integer length examples, paired-quaternary sharp bound, and infinite geometric-tail induction as applicable. Independently reran frozen numerical batch and matched all results and checks. Inspected normalized fenced math.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.20",
+  "file_sha256": {
+    "solutions/ch09/ex-9-20.md": "3e2845a2e49a3d7f189deae3fb3bc7acd9dee2d5490a047c635a57249bb0b18d"
+  },
+  "inventory_entry_sha256": "df452ec48293ecb0362e9431ab6099853ef28599a871390a2bf035213f525774",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "3c55ce4b6802d84966f52a5685deb90f3f0309aca598919a27a0d0c0ba88a9c3",
+  "summary": "Visually inspected all three parts and four labeled hint steps across pages 296\u2013298. Checked the linear-estimation conditional-entropy lower bound, spherical-code nearest-neighbor geometry, monotonic conditional error in noise radius, Gaussian comparison at an intermediate variance and vanishing norm tail. The proof uses exactly the permitted Gaussian coding theorem and works under either iid noise or the stated ergodic second-moment law.",
+  "verdict": "accepted"
+}

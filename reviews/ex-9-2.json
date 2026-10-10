@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.2",
+  "file_sha256": {
+    "solutions/ch09/ex-9-2.md": "c7d489514820cb296390b885b191bd6e9afc850aaa0eedd67a67bd08829b03ed"
+  },
+  "inventory_entry_sha256": "6b817acdc87281a2b17dff6d44c384f9f73bf2f822465e25cb069cad2c90bda6",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "c46f1ffadd353126fb0220d5b89d2efd0c091422702fbfd4a087eea69f59e665",
+  "summary": "Visually inspected the two-output channel and all three covariance cases on pages 290\u2013291. Checked Gaussian average/difference sufficient statistics, correlated-noise variance, the repeated observation endpoint, independent observations, and the noise-canceling endpoint including zero input power.",
+  "verdict": "accepted"
+}

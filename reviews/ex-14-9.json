@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.9",
+  "file_sha256": {
+    "solutions/ch14/ex-14-9.md": "978aa5716791536ff05139e9721a899969cca843bfe3c5a98460bc1581c2825d"
+  },
+  "inventory_entry_sha256": "f2ba521a2d448626618e5f25af156e07c4d3718c5223ddc394df55277ac323b8",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "80fc10172193e847ce6da724b6604bff6cb8cbba8382b1155f790d89086cc1ca",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified computable infinite-output prefix lower mass and telescoping conditional-probability convergence; finite-length prediction caveat.",
+  "verdict": "accepted"
+}

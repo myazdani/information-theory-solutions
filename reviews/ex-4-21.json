@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "4.21",
+  "file_sha256": {
+    "artifacts/ch04/batch02/results.json": "447ed3e093fa1ae88eb9ad1180ed5c18ee441b93ed32a2dd06d25d8429d74d14",
+    "solutions/ch04/ex-4-21.md": "959121eda03f98da26d9ee39f4d4592e2992af1d511ff308e298130acdd44c6c",
+    "src/information_theory/ch04_batch02.py": "c22a7051e3b805285cfbd4cc42fb1fdaf9becb7d0dc8735a0b239347aac5f538",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  },
+  "inventory_entry_sha256": "cb2c03af2adb1140a25081acc3fe09982d9b0a0d9fe29e662f9d64d1a47e92ff",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "fc60afabe421c5ced29eabdac2c3da9b95d55560bb1306e2f29be749025b632d",
+  "summary": "Visually inspected original PDF pp93\u201397, including constrained-state and random-walk diagrams. Checked finite-entropy rate limits, Perron eigenvalue and entropy maximization, return-time tower proof, hidden-coin mixture, graph degree counts, exhaustive four-edge cases and subsampling inequalities as applicable. Independently reran frozen batch and matched all results/checks.",
+  "verdict": "accepted"
+}

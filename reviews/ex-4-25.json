@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "4.25",
+  "file_sha256": {
+    "solutions/ch04/ex-4-25.md": "90fbf0f9458b2e3d74b146e0881c87e6ac36388ac1e078984366ef2599ddd0bb"
+  },
+  "inventory_entry_sha256": "bcdfde2ee8a137931d270fc6fdb8ae196c2991a02a5dff20d7d3e115e540517a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "61f044cd485e23019868f1998c8677384381030eeddbf103148c26c7aa1f24ae",
+  "summary": "Visually inspected original PDF pp97\u2013100 and all subparts, including repeated mixture questions. Checked sufficient-observation condition, transition coding, iid-innovation assumption, random component AEP limits, waiting-time generator with explicit nonoptimality caveat, modulo-three exact block enumeration, and conditional-information identities as applicable. Independently reran batch03 and matched stored results.",
+  "verdict": "accepted"
+}

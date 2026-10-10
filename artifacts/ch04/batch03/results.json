@@ -1,0 +1,72 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "n1_bijective": true,
+    "n1_entropy": true,
+    "n1_factorization": true,
+    "n2_bijective": true,
+    "n2_entropy": true,
+    "n2_factorization": true,
+    "n3_bijective": true,
+    "n3_entropy": true,
+    "n3_factorization": true,
+    "n4_bijective": true,
+    "n4_entropy": true,
+    "n4_factorization": true,
+    "n5_bijective": true,
+    "n5_entropy": true,
+    "n5_factorization": true,
+    "n6_bijective": true,
+    "n6_entropy": true,
+    "n6_factorization": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch04_batch03 --output artifacts/ch04/batch03",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch04_batch03",
+  "results": {
+    "blocks": {
+      "1": {
+        "block_entropy": 1.584962500721156,
+        "formula": 1.584962500721156,
+        "words": 3
+      },
+      "2": {
+        "block_entropy": 3.084962500721156,
+        "formula": 3.084962500721156,
+        "words": 9
+      },
+      "3": {
+        "block_entropy": 4.584962500721156,
+        "formula": 4.584962500721156,
+        "words": 27
+      },
+      "4": {
+        "block_entropy": 6.084962500721156,
+        "formula": 6.084962500721156,
+        "words": 81
+      },
+      "5": {
+        "block_entropy": 7.584962500721156,
+        "formula": 7.584962500721156,
+        "words": 243
+      },
+      "6": {
+        "block_entropy": 9.084962500721156,
+        "formula": 9.084962500721156,
+        "words": 729
+      }
+    },
+    "increment_entropy": 1.5,
+    "stationary_state_entropy": 1.584962500721156
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch04_batch03.py": "aeff7418d5f6819b36802224fde247106198bbf796395beca333a3e180849741",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

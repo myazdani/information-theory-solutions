@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.8",
+  "file_sha256": {
+    "solutions/ch14/ex-14-8.md": "c88ebdcde2890bc8cf8e3d9760caa0db0224e64f4d3f47a9267e94e8ce784099"
+  },
+  "inventory_entry_sha256": "f2a8c476c2d266e20ddcba64306247ec83d123012d4d320d02347daa96e6a606",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "0f4945f3b7b8837181e0c6545188651ed700aae39cf5780da3323bf90708c471",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified complement equivalence, union/intersection program bounds, literal cap and no growing general lower bound via complements.",
+  "verdict": "accepted"
+}

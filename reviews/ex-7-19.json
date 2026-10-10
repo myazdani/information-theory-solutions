@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.19",
+  "file_sha256": {
+    "solutions/ch07/ex-7-19.md": "b1d467c41944aeabeb303ce37ba412c6334d5dd12c47737f97041b58592bf877"
+  },
+  "inventory_entry_sha256": "6515a5570f84f6128322599c73c0b30704f6ecab2371eb6acc08998e90fad94e",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "6b66bae06892e858ce2e83d3d3dd85c8bafcd368b2c4b14eccac58f8a73866b2",
+  "summary": "Inspected page 233. Checked 12 uses/hour independently of latency, erasure model, replacement channel including chance of an unchanged letter, q=255 alpha/256, and the row-entropy capacity formula. Independence assumptions and adversarial-model caveat are explicit.",
+  "verdict": "accepted"
+}

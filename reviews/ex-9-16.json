@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.16",
+  "file_sha256": {
+    "solutions/ch09/ex-9-16.md": "8948d113a71f174898aeed28ab73ba580d268f273ddeb8d0f79006cc41cdb89e"
+  },
+  "inventory_entry_sha256": "8048366206c26b51e7ea54aec15ac695407cd32f7c8ba2e7404a4be5dcfea6b7",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "6cbccab858f9b402142e3437fcfe1ca6717a20f6dd8173893667bef3d59e8fb4",
+  "summary": "Visually inspected both Gaussian Markov chain parts on page 295. Rechecked correlation multiplication, Gaussian mutual information and singular endpoints independently of the duplicate earlier exercise.",
+  "verdict": "accepted"
+}

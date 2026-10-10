@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.20",
+  "file_sha256": {
+    "solutions/ch07/ex-7-20.md": "4b65ea83b42287e0399f02e0179f9366337c5b9799c5cabbdd3011c070c80404"
+  },
+  "inventory_entry_sha256": "9e77c0f01d52d5062f496b40cd9a636019b582ebf66580306b963104b5c37b43",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "8e2aabecf02d01cde8e9c96a5a809bb1653a12b609072339b37e43cfbe3a5420",
+  "summary": "Inspected page 233. Verified the mutual-information identity from conditional iid outputs, the twice-capacity bound, and the strictness argument through zero variance of each channel row coordinate; the zero-capacity exception is correctly stated.",
+  "verdict": "accepted"
+}

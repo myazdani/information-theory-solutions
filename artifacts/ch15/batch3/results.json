@@ -1,0 +1,42 @@
+{
+  "artifact_hashes": {
+    "artifacts/ch15/batch3/ex-15-21.svg": "8a7c4523aee552eb93b7e4f12e5b31326ac558a056dc623147135dd1eb217005",
+    "artifacts/ch15/batch3/ex-15-23.svg": "3e46057c9641ceb56a6cc01062cbe19ec311abaf991e22cdd559be9a62a8f53e"
+  },
+  "checks": {
+    "erasure_intercepts": true,
+    "grid_sum_at_most_two": true,
+    "maximum_sum_equals_two": true,
+    "region_endpoints": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.experiments.ch15_batch3 --output artifacts/ch15/batch3",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.experiments.ch15_batch3",
+  "results": {
+    "erasure_intercepts": [
+      0.8,
+      0.4
+    ],
+    "gated_corner": [
+      1,
+      0.792481250360578
+    ],
+    "grid_maximum_sum_rate": 2.0,
+    "grid_size": 1001,
+    "log2_3": 1.584962500721156,
+    "maximum_sum_point": [
+      0.8112781244591328,
+      1.188721875540867
+    ],
+    "maximum_sum_rate": 2.0
+  },
+  "schema_version": 1,
+  "seed": null,
+  "source_hashes": {
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch15_batch3.py": "e187d53a36b8f3f064e79a55c6e70ef5f81631bf626454b2c13e483d940cd306"
+  }
+}

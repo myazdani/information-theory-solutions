@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "solutions": [
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "13.1",
+      "numerical": false,
+      "path": "solutions/ch13/ex-13-1.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/experiments/ch13_coding.py",
+        "tests/test_ch13_coding.py"
+      ],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "13.2",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch13/coding/results.json"
+      ],
+      "path": "solutions/ch13/ex-13-2.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/experiments/ch13_coding.py",
+        "tests/test_ch13_coding.py"
+      ],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [],
+      "id": "13.3",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch13/coding/results.json"
+      ],
+      "path": "solutions/ch13/ex-13-3.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/experiments/ch13_coding.py",
+        "tests/test_ch13_coding.py"
+      ],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "13.4",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch13/coding/results.json"
+      ],
+      "path": "solutions/ch13/ex-13-4.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/experiments/ch13_coding.py",
+        "tests/test_ch13_coding.py"
+      ],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [],
+      "id": "13.5",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch13/coding/results.json"
+      ],
+      "path": "solutions/ch13/ex-13-5.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "13.6",
+      "numerical": false,
+      "path": "solutions/ch13/ex-13-6.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "13.7",
+      "numerical": false,
+      "path": "solutions/ch13/ex-13-7.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/experiments/ch13_coding.py",
+        "tests/test_ch13_coding.py"
+      ],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "13.8",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch13/coding/results.json"
+      ],
+      "path": "solutions/ch13/ex-13-8.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/experiments/ch13_coding.py",
+        "tests/test_ch13_coding.py"
+      ],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "13.9",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch13/coding/results.json"
+      ],
+      "path": "solutions/ch13/ex-13-9.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "c.i",
+        "c.ii"
+      ],
+      "id": "13.10",
+      "numerical": false,
+      "path": "solutions/ch13/ex-13-10.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "13.11",
+      "numerical": false,
+      "path": "solutions/ch13/ex-13-11.md"
+    }
+  ]
+}

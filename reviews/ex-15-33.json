@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.33",
+  "file_sha256": {
+    "solutions/ch15/ex-15-33.md": "b319d889d1cdd8a5db6b9031e89b49148299fa6b2fca8ec67c8ae6c39fdb6552"
+  },
+  "inventory_entry_sha256": "39c6f10f05c4fa18e068e9409119d634e034e4fd442db7630795c50429c520ad",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "4ed3c750f58483479bd6dd2486c4b978bb750609106741ff54781f92b691870d",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Verified modulo-four conditional invertibility and uniform-input matching full region.",
+  "verdict": "accepted"
+}

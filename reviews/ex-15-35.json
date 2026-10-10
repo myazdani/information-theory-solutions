@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.35",
+  "file_sha256": {
+    "solutions/ch15/ex-15-35.md": "f5ac0b38016714d14dfeabeeaea11c0918a3a4b8db8a9d83d9e1e3ab103f081b"
+  },
+  "inventory_entry_sha256": "578eed789bc9f115d86999ab973d724bcaf474309767cbc6d7daea3e18e22229",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "6f912ba1cd97cc6b14304b5b37032da4e5e07f77a1fc70e85dfff85aa5cd3458",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Checked per-codeword cost achievability with replacement, average time-sharing costs, conditional-product converse, and six-point cardinality.",
+  "verdict": "accepted"
+}

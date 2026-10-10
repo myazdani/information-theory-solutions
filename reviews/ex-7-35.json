@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.35",
+  "file_sha256": {
+    "solutions/ch07/ex-7-35.md": "b607ea437efa5234c74af4f331df0e1ef97b52782995cd33118bf171675cf4c5"
+  },
+  "inventory_entry_sha256": "8bc4fe83e344caff7c4840b0a2610ced31b60457ed0dad1bbadc561615c7dbf7",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "de2672a62a949527c58830fabdcb6e9498f351cb94b86e69b3fa4335075f0eb9",
+  "summary": "Inspected both augmented block matrices on page 239. Checked the isolated-symbol and k-symbol noiseless additions, entropy of block selection, optimal block weights, and achievability using original optimal inputs plus uniform identity-block inputs.",
+  "verdict": "accepted"
+}

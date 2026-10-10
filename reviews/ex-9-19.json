@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.19",
+  "file_sha256": {
+    "solutions/ch09/ex-9-19.md": "6467427404bd57c961f13d6ea70be509d83a7632c28995ed80020ea734db0151"
+  },
+  "inventory_entry_sha256": "68185cb5a51b2f9614fc7b2d9b39599e22f6fa112eb8d31d5320aa16c2eed81b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "869b0e6dcc29c0c84cb09fe16d1108d36c1a07c1189a917f35df8c8d2bb9b249",
+  "summary": "Visually inspected the stated general water-filling derivative on page 296. Checked the parametric power/capacity derivatives for each active set, continuity at thresholds, and resulting derivative 1/(2 lambda ln 2).",
+  "verdict": "accepted"
+}

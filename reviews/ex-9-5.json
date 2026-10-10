@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.5",
+  "file_sha256": {
+    "solutions/ch09/ex-9-5.md": "77d6354054fffbbfa001d97b5009b8453b3a9b95eff7c9219f3d7c5966b88fcb"
+  },
+  "inventory_entry_sha256": "4cf0d4e3d8f9f5a68e75551b35a377c4b35a18387caea5007a9d21eb52cdaaed",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "1616ea7a31a824e8302ba272f6e65f17081d3d2d45dc721bbf92816a4c6539a0",
+  "summary": "Visually inspected the fading-channel knowledge assumptions on page 291. Checked independence of input and state, the mutual-information chain rule, and nonnegativity of the extra conditional information.",
+  "verdict": "accepted"
+}

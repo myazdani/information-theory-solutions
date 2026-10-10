@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.13",
+  "file_sha256": {
+    "solutions/ch14/ex-14-13.md": "e3551bb8d1fc8f6266a776a0d60c0fe1ee481ad7b54ffe50f56875668e8cbdd3"
+  },
+  "inventory_entry_sha256": "1ecc804f29759312165f99037a2b9b32a830cd9c2adfdf676eb64c72c1a791d4",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "81c4d595a4e19c787123fd191e096fddbf32e0849d8b003d75280c7cdf9af96e",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified reversible offset programs, fixed/growing signed offset bounds.",
+  "verdict": "accepted"
+}

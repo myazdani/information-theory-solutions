@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.15",
+  "file_sha256": {
+    "solutions/ch09/ex-9-15.md": "b4d1a1b68be2d07c8134463487fcb2b51e2cd3235a62869f56fe72ea6778c624"
+  },
+  "inventory_entry_sha256": "7cbbe1a0efb6fa05fcb76967a77f4de6ae1357fd972af51e3f455fedef2857c5",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "b2ab49812ca9c9b5bfe6a62fdaaf2e4a596bc93d20677f404c1f9f4ba34e7ef9",
+  "summary": "Visually inspected both parts on page 295. Checked the overlap and exclusive intervals of the two uniform conditional densities, output entropy, posterior conditional entropy and the optimizing fair input giving capacity 1/a.",
+  "verdict": "accepted"
+}

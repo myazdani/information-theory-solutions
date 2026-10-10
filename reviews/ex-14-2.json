@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.2",
+  "file_sha256": {
+    "solutions/ch14/ex-14-2.md": "fda9f63e2ef05b41eda1ccabb5ecf2e1903bb786594b219e3f39e177394419ff"
+  },
+  "inventory_entry_sha256": "b873ce1f2176ae6221564fdcfd42380254f4f954d0995e48b173066f0f34be78",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "23c9758cc4fbb51b8ff17db7e46d154571621778841d1841782246aad27dfc85",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified doubled-length integer code, sum program and conditionally incompressible complementary integer construction.",
+  "verdict": "accepted"
+}

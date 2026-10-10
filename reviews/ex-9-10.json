@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.10",
+  "file_sha256": {
+    "artifacts/ch09/first-batch/results.json": "6cb96592e79b5ec23ecb2dce5d6bae2982facc0d045e22883c869dc023547adb",
+    "solutions/ch09/ex-9-10.md": "bc98d57d5c71103e81ed432a3dbae25a68abcb43c2839027b04a8157572991d9",
+    "src/information_theory/ch09/first_batch.py": "f76eeba366357876117cd628eb5f836e84e772813f919484ab89344fedde206c",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch09/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch09/test_first_batch.py": "ff1a74b7f91dfb9a3ae47d4aa4be04e54ca52948009f0ee5c268557cd006ef15"
+  },
+  "inventory_entry_sha256": "29080244a5e46e8c634cc0074ea147482bceaf9f6d14181d60e4774de70e2809",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "a11fd22e73ad434a833c975cc1b922f1d453c0eb4711776d7a364dc805f46d95",
+  "summary": "Visually inspected both source parts and illumination model on page 293. Derived the Z-channel finite-grain capacity, optimizing illumination fraction, small-grain expansion, and limit 1/(e ln 2). Reran the computed sequence converging to 0.5307378454 bits per unit illumination.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.17",
+  "file_sha256": {
+    "solutions/ch09/ex-9-17.md": "f50d5283be07513d30ce1c391d942090dbd86cdc359980057ac7ffcab52d4589"
+  },
+  "inventory_entry_sha256": "1d2a1992eb75d29ce632382d219f2901b469f70e95a4fcb767db38ccb6f3ef8b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "021db982999c6cc3d0bec63aeffa332a18cd10a3fad43ce245a4d9a398085fc2",
+  "summary": "Visually inspected the two signal-power strategies and diagram on page 295. Verified that the impulsive strategy carries only logarithmic total information and zero limiting rate, whereas independent Gaussian signaling attains the usual positive AWGN capacity; checked the concavity argument.",
+  "verdict": "accepted"
+}

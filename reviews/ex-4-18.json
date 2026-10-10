@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "4.18",
+  "file_sha256": {
+    "solutions/ch04/ex-4-18.md": "0fce26be57df16080e798297fdadab972e4f351f4bf8377ea8eff708fa15dcfc"
+  },
+  "inventory_entry_sha256": "bbd8ddb912f936034b29a5a9d722b17a0ce7700c3236d53f130d545e639fb53b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "1d6c798284c4c3fc2a2272ffdefe653235395c3ae5d53894ca95bdf513942a6d",
+  "summary": "Visually inspected original PDF pp93\u201397, including constrained-state and random-walk diagrams. Checked finite-entropy rate limits, Perron eigenvalue and entropy maximization, return-time tower proof, hidden-coin mixture, graph degree counts, exhaustive four-edge cases and subsampling inequalities as applicable. Independently reran frozen batch and matched all results/checks.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.31",
+  "file_sha256": {
+    "solutions/ch07/ex-7-31.md": "f55302fa41eb29f2ceb3c8f11ca07427b43276b50472d5d472ad4ce7446519ff"
+  },
+  "inventory_entry_sha256": "4d04f4fdc07491365f0d628f2f9d84449ef3e0e80f90edfd0a0e895748032f3c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "7df6115a4e978b952ff392ba8e9980404a120d6a3eb01db454f9161b7fef33d5",
+  "summary": "Inspected the Bernoulli-source/BSC diagram and block-error requirement on page 237. Checked strict separation and the Fano converse, both degenerate equality exceptions, and the nondegenerate equality converse: likelihood threshold bound on disjoint decoder regions, encoder-independent iid information increments, positive variance, and the CLT with threshold n^(1/4).",
+  "verdict": "accepted"
+}

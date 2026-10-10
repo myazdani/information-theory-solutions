@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.21",
+  "file_sha256": {
+    "solutions/ch07/ex-7-21.md": "0b0e2a10dc35688c924bfaac37121c5a0d54631e8e29a0b7132b99e97c2b76e6"
+  },
+  "inventory_entry_sha256": "4f4d07cbf7913d139e9b3303dc49186ae4e3c3bede1253a4a575ad4cfb802225",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "5c7ab682a981dee5cbbcb86152ef9ab69993f7e0e796e0aafd03f322161af045",
+  "summary": "Inspected both mean constraints on page 233. Checked the nonnegative-variable bounds, simultaneous-event bound 1/3 without an independence assumption, and the sharpness construction and positive-weight limit.",
+  "verdict": "accepted"
+}

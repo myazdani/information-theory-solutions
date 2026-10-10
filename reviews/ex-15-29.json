@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.29",
+  "file_sha256": {
+    "solutions/ch15/ex-15-29.md": "02b6de5b203c2f8d5725b81a0c75ce27210b90155f36de659279f801fd2b990d"
+  },
+  "inventory_entry_sha256": "483879dc28558f041036221bc90e0967abb03fcf6cd77b7c26fee3e5dbf6219a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "4c71769ad32f192df791f9450275549ff6e9e68c6f1ab1c3bd28151bd705f181",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Verified uniform Dutch-view converse, fixed-composition simultaneous private coding and M=1 endpoint.",
+  "verdict": "accepted"
+}

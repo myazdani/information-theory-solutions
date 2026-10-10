@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.8",
+  "file_sha256": {
+    "artifacts/ch09/first-batch/results.json": "6cb96592e79b5ec23ecb2dce5d6bae2982facc0d045e22883c869dc023547adb",
+    "solutions/ch09/ex-9-8.md": "2480ef6d14d7a49a9b0bc76d6f0ab94dc2fa3e447965504a3bc49078a6ad14b5",
+    "src/information_theory/ch09/first_batch.py": "f76eeba366357876117cd628eb5f836e84e772813f919484ab89344fedde206c",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch09/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch09/test_first_batch.py": "ff1a74b7f91dfb9a3ae47d4aa4be04e54ca52948009f0ee5c268557cd006ef15"
+  },
+  "inventory_entry_sha256": "40f7ce13f2926176e384bfa273774ba4db6ce648bc5f3b19dca3d3e32dd7ab0c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "50cfe005338eea51a0a15fdca89dfdb6fa960de0a097c8568f3210264db6dbb3",
+  "summary": "Visually inspected the different-cost power constraint on page 292. Checked effective noise levels, Lagrange conditions and allocation 5.5 and 2.25. Independently reran the finite computation and checked the displayed capacity 1.2949815909 bits.",
+  "verdict": "accepted"
+}

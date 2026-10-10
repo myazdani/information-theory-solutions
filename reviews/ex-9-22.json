@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.22",
+  "file_sha256": {
+    "solutions/ch09/ex-9-22.md": "86654f5c1dfd1f9c5a3bad2a14616f132829c25c9a424f0e63ced78c8de15a7e"
+  },
+  "inventory_entry_sha256": "ac021e6a252164baa9058d5eaff483a9efc451baf83a7cae904c1671054757a4",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "f6af707b3ac8c8c756acebc77bb89ae31f2b7d37ddf03e25d4345d9fd77930af",
+  "summary": "Visually inspected the noise-recovery coding request on page 299. Checked decode-and-subtract achievability, maximal-error expurgation for arbitrary codeword selection, and converse equivalence between noise reconstruction and codeword recovery; the capacity is stated as a supremum.",
+  "verdict": "accepted"
+}

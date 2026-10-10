@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.36",
+  "file_sha256": {
+    "solutions/ch07/ex-7-36.md": "6e6872a3d3f49f128b379da4bb846859c703275ab46395b5aa3988626ed9dc1e"
+  },
+  "inventory_entry_sha256": "c039548d841bf9d4a1f3fc763c76d64b8b65eb23aef3a75896b94cf17352899d",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "97868226bbd68d4156059bd8501e53dc21a661409c8ce6b4ec6b8cb0739744b6",
+  "summary": "Inspected both independent and fixed random-sign models across pages 239\u2013240. Verified zero capacity in the memoryless model and the explicit one-pilot zero-error construction for the fixed sign, with binary-output upper bound and matching block mutual information n-1.",
+  "verdict": "accepted"
+}

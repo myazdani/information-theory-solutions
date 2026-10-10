@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.18",
+  "file_sha256": {
+    "solutions/ch09/ex-9-18.md": "1a40fa941e16314cc7f033c984751583f1d8c78641dbf93eaf8e2d021ab38de4"
+  },
+  "inventory_entry_sha256": "fb59fed54b8d5a40f989a5291ad80065f91cbf1cb5fd782b4893783b1f9c0ffa",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "bbaedfa67a08a6ef077db6396d17c5bcdf64be2af6527a976ff994f416ec94f5",
+  "summary": "Visually inspected both mean-information scenarios across pages 295\u2013296. Confirmed the source omits conditional noise variance. Checked the explicitly parameterized common-variance answer, subtraction of known means and addition of independent Gaussian random-mean variance.",
+  "verdict": "accepted"
+}

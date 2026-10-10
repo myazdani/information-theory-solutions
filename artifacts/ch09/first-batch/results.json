@@ -1,0 +1,53 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "budget": true,
+    "capacity_formula": true,
+    "equal_marginal_gain": true,
+    "film_limit": true,
+    "illumination_limit": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch09.first_batch --output artifacts/ch09/first-batch",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch09.first_batch",
+  "results": {
+    "9.10.bits_per_grain_limit": 0.530737845423043,
+    "9.10.small_cell_checks": [
+      {
+        "capacity_per_occupancy": 0.5324234564492423,
+        "occupancy": 0.01,
+        "optimal_illumination": 0.36836767318643565
+      },
+      {
+        "capacity_per_occupancy": 0.530905671739549,
+        "occupancy": 0.001,
+        "optimal_illumination": 0.3679280673713185
+      },
+      {
+        "capacity_per_occupancy": 0.5307546207494938,
+        "occupancy": 0.0001,
+        "optimal_illumination": 0.3678843018327298
+      },
+      {
+        "capacity_per_occupancy": 0.5307395228850865,
+        "occupancy": 1e-05,
+        "optimal_illumination": 0.3678799272196645
+      }
+    ],
+    "9.8.capacity_bits": 1.294981590889761,
+    "9.8.powers": [
+      5.5,
+      2.25
+    ]
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch09/first_batch.py": "f76eeba366357876117cd628eb5f836e84e772813f919484ab89344fedde206c",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

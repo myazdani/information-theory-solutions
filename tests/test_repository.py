@@ -20,6 +20,8 @@ class RepositoryChecks(unittest.TestCase):
                 self.assertNotRegex(text, r"\\[\[\]\(\)]", "use fenced math / GitHub dollar-backtick inline math")
                 self.assertNotIn("$$", text, "use fenced math display blocks")
                 self.assertEqual(sum(line.startswith("```") for line in text.splitlines()) % 2, 0, "unbalanced fenced blocks")
+                for block in re.findall(r"```math\n(.*?)```", text, re.S):
+                    self.assertNotIn("<", block, "use \\lt with a separating space to avoid HTML truncation")
                 for link in re.findall(r"!?\[[^\]]*\]\(([^)]+)\)", text):
                     if "://" in link or link.startswith("#") or link.startswith("mailto:"):
                         continue

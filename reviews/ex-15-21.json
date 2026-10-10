@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.21",
+  "file_sha256": {
+    "artifacts/ch15/batch3/ex-15-21.svg": "8a7c4523aee552eb93b7e4f12e5b31326ac558a056dc623147135dd1eb217005",
+    "artifacts/ch15/batch3/ex-15-23.svg": "3e46057c9641ceb56a6cc01062cbe19ec311abaf991e22cdd559be9a62a8f53e",
+    "artifacts/ch15/batch3/results.json": "cf3ea849b8ce223ca3d5a7d117c260084c71e5abb0fb8c2fbfa2684e140a711a",
+    "solutions/ch15/ex-15-21.md": "201dc88b9a82d39f7fd5bfd9eb5bd24bd8faa650f5b185eff47707fb85e59c11",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch15_batch3.py": "e187d53a36b8f3f064e79a55c6e70ef5f81631bf626454b2c13e483d940cd306"
+  },
+  "inventory_entry_sha256": "dec7cdd7b8eced0c058a41e4e0709c975a71530c7a9971374eb2fd786fe02333",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "13b7395d979201d8cb2cbde32f85cc62074eeaf4884a8452b75a1adbb9dab5d6",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Cascaded erasure degradation, conditional entropy converse, normalized triangle, endpoint cases; independently reran and viewed SVG.",
+  "verdict": "accepted"
+}

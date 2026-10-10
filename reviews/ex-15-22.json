@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.22",
+  "file_sha256": {
+    "solutions/ch15/ex-15-22.md": "05babd7cfd3c0d545ffa56c3c73bf9bc6420c96b346aa2c235a883a4356e5c07"
+  },
+  "inventory_entry_sha256": "3ec7bc5413e6fb65e260effa8dfc27853b97a3ff845a3805ef2c22581e5e2a71",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "830d0c87a0b8c85194c83179f3bbedf6ea1f100702ac408577a1380efefe899b",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Computed transformed-source joint and conditional entropies and inclusion of the original independent-source rectangle.",
+  "verdict": "accepted"
+}

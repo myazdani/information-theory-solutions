@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.12",
+  "file_sha256": {
+    "artifacts/ch14/counts/results.json": "956a64de49481e36563478847a67f370479124faf1d05ee70db6e60792647c6f",
+    "solutions/ch14/ex-14-12.md": "2c778e60947de173f7e18f46fe1fff1b55058f37789f57d546514103b1c585a3",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch14_counts.py": "44bb609ddc3939137aaa011a3af8b37646608da0853410259ea0f419dc69c24a",
+    "tests/test_ch14_counts.py": "3da1fa301b751edb6386f4e9793e0223f5401a67bed6c2e3949d0322832960b5"
+  },
+  "inventory_entry_sha256": "aa6f6c58aaa72293410ce14474eae5df04db8c2404b5750252be1eed2a40a988",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "127c3d76147ab31451fad70d1d5ab4582f9792fe1a2089d29af266180c98a13a",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified27ary units, permutation count, bidirectional cipher bounds and explicitly heuristic unicity estimate; reran factorial logarithms.",
+  "verdict": "accepted"
+}

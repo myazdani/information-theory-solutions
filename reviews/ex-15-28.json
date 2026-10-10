@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.28",
+  "file_sha256": {
+    "solutions/ch15/ex-15-28.md": "e9b9b7994aae3b4288f9ac1fa4c13f02949c62243b7d9088324dee4b2e535e89"
+  },
+  "inventory_entry_sha256": "81bffbaec396b2d597d5fd5cd6e61c62ccc53b3a914696f19edab04776cb6994",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "83585e7228ec83697f8a2102376fd2428c9e2d2f96326cd1d80d379f9625d30c",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Verified perspective-log Jensen bound, equality bandwidth proportions and zero-power endpoints.",
+  "verdict": "accepted"
+}

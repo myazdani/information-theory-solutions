@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.27",
+  "file_sha256": {
+    "solutions/ch07/ex-7-27.md": "b0e1b80174a0b29213f82ebc89c2b5d3f76247b5661d0988d0bc0096e9af805c"
+  },
+  "inventory_entry_sha256": "a4c522c287a54e21f754b7f2d1fdd78d7c33d5a17a55e6bc0c13294d59d51424",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "4dc572c1681759767f6a949cd064192ea1ba953ed8e279291345e6adde6979da",
+  "summary": "Inspected the cascade diagram and normalized transition probabilities across pages 235\u2013236. Verified that the observable, input-independent erasure indicator removes exactly an alpha fraction of mutual information for every input law, and checked the all-erasure endpoint.",
+  "verdict": "accepted"
+}

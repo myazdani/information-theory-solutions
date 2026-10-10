@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.25",
+  "file_sha256": {
+    "solutions/ch15/ex-15-25.md": "b837292603da1960aa2444ed95e3705e115e4d5c9cb28bbe4060d78756a1a276"
+  },
+  "inventory_entry_sha256": "a9620192457f470c322a0504223bd4abdd691bc38781bc7eef56a0d17f96002c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "9c029e126f759a92fa618d59ba08d129d494d39cc6251894ba5c01314ccf57ef",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Verified independent-input rectangle and cooperative triangle with equal sum capacity.",
+  "verdict": "accepted"
+}

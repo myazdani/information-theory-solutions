@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.7",
+  "file_sha256": {
+    "solutions/ch09/ex-9-7.md": "86ca27c21d2d5c55a2d0cddce9a39795fb94778bfb9d3cd7a6f70b3358c7e0b4"
+  },
+  "inventory_entry_sha256": "392434686729e452295ae5bbd99cbe992d3f0e3e2f19ae43490736ab2af4ab7d",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "d4f5441e3b830f71ed4d5485bc3faab945df987d62f112f414875d410250d9a9",
+  "summary": "Visually inspected the actual summed-path diagram and all correlation cases on page 292. Checked signal gain 2, combined-noise variance, covariance endpoints, and the zero-power exception to an otherwise noise-free channel.",
+  "verdict": "accepted"
+}

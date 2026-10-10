@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "13.3",
+  "file_sha256": {
+    "artifacts/ch13/coding/results.json": "1d1eeb62b2128fb2608667a4f5faff849c88442241c975837428447dc5230189",
+    "solutions/ch13/ex-13-3.md": "7ca234aa3a44d55be43bc1e5a6e66add4cac17268774aec0f2b55ea8fc67deb3",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch13_coding.py": "40e88f329174416e5a7d754e33742a14fe627c83d18114f58d41f53a8cd1dae8",
+    "tests/test_ch13_coding.py": "66976e5ade4c7ffd95523bb6240a0b75a03844b40e202aff3977df480da5121a"
+  },
+  "inventory_entry_sha256": "6e2f046aedb0ba711656e6a1891cadd176d59df44fa90d24b2da6bf81c6f4f56",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "96fa29f9735a8fa465703ce918815647a1c88cd9e3a3103f6a282a34e165acf2",
+  "summary": "Visually checked original PDF pp457\u2013461. Verified stationary Markov intervals and first100bits decode exactly10; exact fraction enumeration rerun.",
+  "verdict": "accepted"
+}

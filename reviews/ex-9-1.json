@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.1",
+  "file_sha256": {
+    "solutions/ch09/ex-9-1.md": "c645493c489600bd0b46ee268b4198152505b4429cf5196eae0853bfc129a755"
+  },
+  "inventory_entry_sha256": "dcf775c34111722263327afcf99f023fe2ea9f6f1aaa549066d8f22c7f206e96",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "e98d6baa4976ff74ec17cd2b7978a97cd4ea8b8e2af7b4e85fa5904f8d8a2159",
+  "summary": "Visually inspected printed page 290. Verified the conditional-iid mutual-information identity, capacity upper bound, and strictness caveat for nonzero finite capacity using equality conditions.",
+  "verdict": "accepted"
+}

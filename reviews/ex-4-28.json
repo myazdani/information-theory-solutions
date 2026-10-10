@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "4.28",
+  "file_sha256": {
+    "solutions/ch04/ex-4-28.md": "723c7b4005c5d0a82c9996beb75eaf55166cd6d5d2caaab62a53288128ade682"
+  },
+  "inventory_entry_sha256": "c424d1f4767f9e4255e6a0296b5cffbafb4578c7b7b9a6a11ddae1e99478080a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_review": {
+    "current_solution_sha256": "723c7b4005c5d0a82c9996beb75eaf55166cd6d5d2caaab62a53288128ade682",
+    "previous_solution_sha256": "520745e55d8764b72e25a777e9bbbb2510d7fbd799b823102ef1d09eb01819a9",
+    "reviewer": "root",
+    "scope": "Independently inspected exact diff: only literal less-than signs inside fenced math become TeX \\lt with a separator space. Mathematical statements, proofs, computations, and other text are unchanged. Original proof acceptance is preserved by syntax equivalence."
+  },
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "f5de2f13692bdaacba691c4b1023414df66ca6a0bc1c532730a39a9898bbbe1f",
+  "summary": "Visually inspected original PDF pp97\u2013100 and all subparts, including repeated mixture questions. Checked sufficient-observation condition, transition coding, iid-innovation assumption, random component AEP limits, waiting-time generator with explicit nonoptimality caveat, modulo-three exact block enumeration, and conditional-information identities as applicable. Independently reran batch03 and matched stored results.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "5.13",
+  "file_sha256": {
+    "solutions/ch05/ex-5-13.md": "4981f3917c576bda2abbe38c4eb3f1e0624fe3a36c3f7ff1c4ddf06c77926289"
+  },
+  "inventory_entry_sha256": "b8f3c5b14fbc9d71f3fc1c87e48eba7d173467eb9eae57b142ffe4fded8eefc4",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "8ea1f6a30849b5490bcb93bf051f427a74610799b289bef5214169e2e7d2d6dc",
+  "summary": "Visually inspected original PDF pp142\u2013146 and read all derivations/subparts. Verified Kraft/McMillan arguments, supplied codeword prefix conditions and exact Huffman merge weights, Markov stationary law, ternary equality conditions, integer length examples, paired-quaternary sharp bound, and infinite geometric-tail induction as applicable. Independently reran frozen numerical batch and matched all results and checks. Inspected normalized fenced math.",
+  "verdict": "accepted"
+}

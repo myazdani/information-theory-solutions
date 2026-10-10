@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.3",
+  "file_sha256": {
+    "solutions/ch09/ex-9-3.md": "de8a9a0918c4a4fe308e6fb8ee5e4a38e1bf8a86c410bf319aebb0286d1737aa"
+  },
+  "inventory_entry_sha256": "8c28d04b27d67c43c3145ef48fdb5f455bf1e763c5ea3e1326596f2c985c8d3e",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "c6397b73c922b784145377a4463845b16e5c94c8885ff967368f2d827c72b75b",
+  "summary": "Visually inspected the output-power constraint on page 291. Checked conversion to the input-power budget, infeasibility below noise power, the zero-capacity boundary, and Gaussian achievability.",
+  "verdict": "accepted"
+}

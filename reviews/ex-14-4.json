@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "14.4",
+  "file_sha256": {
+    "solutions/ch14/ex-14-4.md": "fd4c394c1f0ab3b715954a529d013bc39fa192cd25ddcded4ca1d60775284292"
+  },
+  "inventory_entry_sha256": "35aed64cc412bd46c4b383266414d8a0446ab41861cd8c2f96ad89cfe837a4b9",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "8fd0ff291099f4fa750131eaf6a8a9d86b16169ba417c4c3cd07308787e4be1a",
+  "summary": "Visually checked original PDF pp503\u2013507. Verified prefix-machine infinite-mean output entropy construction, universal domination and nonhalting/conditional-halting interpretation.",
+  "verdict": "accepted"
+}

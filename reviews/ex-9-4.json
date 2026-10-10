@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.4",
+  "file_sha256": {
+    "solutions/ch09/ex-9-4.md": "0476f34a88f585e95b5f7219cd71dfc453d735ba7207b6c3e3167cd872e9a6aa"
+  },
+  "inventory_entry_sha256": "9619c7785a61f9d2d5638243b9c70cfdb249c241bb69978936e3275818047b95",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "63903534f214d85ddba33176f0d0f5e3c07ad335f30bb57d3876e299dfab78d7",
+  "summary": "Visually inspected the exact one-sided constraint on page 291. Confirmed that the source omits nonnegative input. Checked the intended exponential-noise solution by the entropy bound and an atom-plus-exponential Laplace transform; also checked that the literal real-input, upper-mean-only formulation has infinite capacity via centered separated constellations.",
+  "verdict": "accepted"
+}

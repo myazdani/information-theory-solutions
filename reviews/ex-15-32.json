@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.32",
+  "file_sha256": {
+    "solutions/ch15/ex-15-32.md": "9a3dd0cfb3760e1c489b9bef1d0c81311a3c26cb28f77554a8115090eded7f6f"
+  },
+  "inventory_entry_sha256": "4bb7d08aedf3b12460ab5cc7d35376c6a9f4ea846b9cfd9bedc2f486acb87e05",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "35ec6c31c9862eec1589bc039edafe3a068c0f142bee433f86ef3fa814e64b83",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Checked common-law averaged-input converse and compactness, rather than separate optimization.",
+  "verdict": "accepted"
+}

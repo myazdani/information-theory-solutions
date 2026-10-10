@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.12",
+  "file_sha256": {
+    "solutions/ch09/ex-9-12.md": "24b6e55e67df9995bc8cd6362e3d3d310e2a01418b7a4f8b211d88474a69123f"
+  },
+  "inventory_entry_sha256": "46018b88c31b0d5e6b0ebcd530d1b6cdd626b34cd84bd5d15de804353b8599d4",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "a3a5603953a193ed27989b0d446aac9e00e406b78fac7fda0cacd5daf236a8cf",
+  "summary": "Visually inspected the time-varying channel on page 294. Checked the first-ceiling-sqrt-n versus remaining-coordinate split under total block power, sublinear mutual-information bound and Fano converse yielding zero capacity.",
+  "verdict": "accepted"
+}

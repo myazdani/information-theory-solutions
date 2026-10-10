@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.30",
+  "file_sha256": {
+    "solutions/ch15/ex-15-30.md": "ffd717052df2870e94168f1646dab27a0698d5d1d73ac554387e4e0a500394d7"
+  },
+  "inventory_entry_sha256": "23541a48f3c48ec2590096c9efc3bcee2d8af84f6a7914c1059ad3494fdf6cd6",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "ad1c6b0e9e1f23f1adb9b6b26dabe388031f7880cd3b004136df10a1975eadf6",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Verified whitened sufficient statistic and Gaussian degraded broadcast EPI converse, zero-gain and equal-gain cases.",
+  "verdict": "accepted"
+}

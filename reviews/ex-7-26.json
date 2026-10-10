@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.26",
+  "file_sha256": {
+    "artifacts/ch07/second-batch/results.json": "eec642704dc20b753f1e34bfd38a2351b3cafb60a7c6a2477d5fa2a5fc8c93ea",
+    "solutions/ch07/ex-7-26.md": "86c1c9e0204b67af36361a3a5b43a7fe9b7125594ea9c5de7640c32231dbd8d9",
+    "src/information_theory/ch07/second_batch.py": "55845af8aa3c0f6c09f22a0201e7cecb4e1766d1b7029c872e242242e826651e",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch07/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch07/test_second_batch.py": "0803b6e1a511f3f232fb1a43c4c0dae3d168ade01d3834eca27840cf7298b8f8"
+  },
+  "inventory_entry_sha256": "cc2f89a2a7ac3713b2466e77f28e5c8540d57f74e2eb668a8ba9e3037fea1479",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "f5c8fd40e22318839d823b79763edb8303e091e337ed29a72ac6e84604b1a5ec",
+  "summary": "Inspected all entries of the 4x4 typewriter matrix, coarsening rule, and two input laws on page 235. Checked original and coarse capacities, both requested mutual informations, and the explicit conditional-independence counterexample to the reversed Markov chain. Reran direct original/coarse-channel mutual information.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.37",
+  "file_sha256": {
+    "solutions/ch07/ex-7-37.md": "a0291a95dd974839652a683472dcf17c0b0462bb90d8401976f942ab3d4bf233"
+  },
+  "inventory_entry_sha256": "c3e66953bc5ebd4bef42fe08d12bdb77fb797680f3202226bf2e8b2b6dc0b617",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "23e728d14c279efa392dfa93d1e2eb0bbb0ec959b86ce365bb81376d452bbdfe",
+  "summary": "Inspected all seven typicality conditions on page 240. Checked the product-marginal versus joint likelihood ratio, four-epsilon exponent tolerance, finite-block probability bounds, high joint-typicality probability by the seven laws of large numbers, and equivalent total-correlation exponent.",
+  "verdict": "accepted"
+}

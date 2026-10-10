@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "4.30",
+  "file_sha256": {
+    "artifacts/ch04/batch03/results.json": "7c3d15e960f3506788269eacbaa0967b5c8dc17746373e8f072c1456f52d57e6",
+    "solutions/ch04/ex-4-30.md": "2a1bcf46fb4577510d0fdef5e338e15d5039ba0b9c99a685ebfbabbc42e337eb",
+    "src/information_theory/ch04_batch03.py": "aeff7418d5f6819b36802224fde247106198bbf796395beca333a3e180849741",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  },
+  "inventory_entry_sha256": "e71024a59eff8fd93ad5c1615f51120eb566c618f2c8a3a4905698ff96f8adc7",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "1e82e2d21cde5dafbc775bf4d62a3a88b264ef368718e79ca41422f56d5de536",
+  "summary": "Visually inspected original PDF pp97\u2013100 and all subparts, including repeated mixture questions. Checked sufficient-observation condition, transition coding, iid-innovation assumption, random component AEP limits, waiting-time generator with explicit nonoptimality caveat, modulo-three exact block enumeration, and conditional-information identities as applicable. Independently reran batch03 and matched stored results.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.34",
+  "file_sha256": {
+    "solutions/ch15/ex-15-34.md": "acaefd155c00669995130a3db60d489de1519837b63e2e76693e302a18d510d4"
+  },
+  "inventory_entry_sha256": "59a088a14db516acf4ee68ba086e66ea7eebb01647d57df9e168838b72c639fb",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "bb4c65512a8a6d8c369f61116a94e2d04b1450edfcc73ae1397af2de4ec76964",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Verified source typo disclosure, deterministic product/sum entropy, and residual original-source uncertainty identity.",
+  "verdict": "accepted"
+}

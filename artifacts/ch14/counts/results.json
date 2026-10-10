@@ -1,0 +1,36 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "count_bound": true,
+    "ratio_parameterization": true,
+    "unicity_interval": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.experiments.ch14_counts --output artifacts/ch14/counts",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.experiments.ch14_counts",
+  "results": {
+    "14.11": {
+      "equal_area_dimension_quadruple_counts": {
+        "16": 832,
+        "2": 6,
+        "32": 3952,
+        "4": 32,
+        "8": 160
+      }
+    },
+    "14.12": {
+      "heuristic_unicity_characters": 26.116801792345967,
+      "key_27ary_symbols": 19.587601344259475,
+      "key_bits": 93.13684082917973
+    }
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch14_counts.py": "44bb609ddc3939137aaa011a3af8b37646608da0853410259ea0f419dc69c24a"
+  }
+}

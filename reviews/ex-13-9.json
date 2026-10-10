@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "13.9",
+  "file_sha256": {
+    "artifacts/ch13/coding/results.json": "1d1eeb62b2128fb2608667a4f5faff849c88442241c975837428447dc5230189",
+    "solutions/ch13/ex-13-9.md": "15fab1cd1f81b49fd7220ab21c2e61fff78fc3279e9c2632c47b9dffe6f258f4",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch13_coding.py": "40e88f329174416e5a7d754e33742a14fe627c83d18114f58d41f53a8cd1dae8",
+    "tests/test_ch13_coding.py": "66976e5ade4c7ffd95523bb6240a0b75a03844b40e202aff3977df480da5121a"
+  },
+  "inventory_entry_sha256": "473f25f4babd2e2364239d09215e6e93097331cc22859ebbbd82c8093efd60c1",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "4544ea168f27ac491e663e306578ece8d290934e4631ecd59ee961893d131e57",
+  "summary": "Visually checked original PDF pp457\u2013461. Verified supplied parse via roundtrip; shortest-distinct-phrase growth upper bound and constant-string minimum order.",
+  "verdict": "accepted"
+}

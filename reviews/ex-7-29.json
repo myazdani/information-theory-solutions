@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.29",
+  "file_sha256": {
+    "solutions/ch07/ex-7-29.md": "ea5711f4f89d320c93c227fcdc44b05f1798a7092afae88b8736dbc19a72e905"
+  },
+  "inventory_entry_sha256": "58e08dff8d2752ca78e2c43b2d6a72bdfc6a64bcadd1666cdc55f9d94a218120",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "32bff6b11473f47f37e6e2d0f14b92af1c10c7649fad0c120fb7b811d62cf156",
+  "summary": "Inspected the repeated binary multiplier exercise on page 236. Independently rechecked the entropy objective, feasible stationary input, optimized log expression, both alpha endpoints, and receiver-state information gain.",
+  "verdict": "accepted"
+}

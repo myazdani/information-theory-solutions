@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "15.36",
+  "file_sha256": {
+    "solutions/ch15/ex-15-36.md": "ba2cdef1f3f7688c9974094f23a9bd0dcd5962bb2f34e019729a0365aac062d2"
+  },
+  "inventory_entry_sha256": "74057c74a1fcabbe1cd8626989c72c549bdfcb2f30a0630ab59ad2f69f46a82a",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "455e03e93f36387c226628f38cc118041fdc9c5f3436f2989783bbdf2b574e2b",
+  "summary": "Visually inspected original PDF pp604\u2013609, all subparts and diagrams. Verified uniform-permutation conditional entropies, all subset inequalities, silent-sender corner and equal rates.",
+  "verdict": "accepted"
+}

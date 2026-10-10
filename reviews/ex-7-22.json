@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "7.22",
+  "file_sha256": {
+    "solutions/ch07/ex-7-22.md": "10129246523816216c5440a934fbe1be0f186c7ea526fdb4fbc82b69b53eb5c9"
+  },
+  "inventory_entry_sha256": "09a4784b23ace5ddd7d7d820c2361b9447db36fe9e557d87ef00850eaf2a4fea",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "017e7c4616e7d1d019ba0950e610679cdd77818e1bb867005d3d43631408b891",
+  "summary": "Inspected page 234. Verified that zero mass on the new channel row embeds all old input distributions, preserving old mutual information and proving monotonicity of capacity.",
+  "verdict": "accepted"
+}

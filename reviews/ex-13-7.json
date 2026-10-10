@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "13.7",
+  "file_sha256": {
+    "solutions/ch13/ex-13-7.md": "f01a55cdafc73423a5b8eee8dd3ac39e3ff9650082834b3e924fc5653ecb5611"
+  },
+  "inventory_entry_sha256": "aefe4d85b6b11c3279be99cf0f2e20e8ecc35383c810c8325d90b5ac190da700",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "3fecdbf1e3fb71e1097ebf0d251500a04ce9419c81bbd9b25f7150cf412486d2",
+  "summary": "Visually checked original PDF pp457\u2013461. Verified recurrence pointer reconstruction, Kac/Jensen expected upper bound and conditional-entropy converse; overlap qualification explicit.",
+  "verdict": "accepted"
+}

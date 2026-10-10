@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "13.1",
+  "file_sha256": {
+    "solutions/ch13/ex-13-1.md": "5c295eb3817a22348611bdf0daf75c55405c1ab4a39ef788ead0d2b827cba2b6"
+  },
+  "inventory_entry_sha256": "73ee1242292631dd83bba8416f5925c4c6a46ce24f8d0203bd8d7a012ff4f4ab",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "815490f12a2d0617d4c64d159145cd7a61ae30ecb0a7810fdb4651d8dfc69d05",
+  "summary": "Visually checked original PDF pp457\u2013461. Verified averaged KL radius identity, optimizer/uniqueness, erasure endpoint and matching channel capacity.",
+  "verdict": "accepted"
+}
