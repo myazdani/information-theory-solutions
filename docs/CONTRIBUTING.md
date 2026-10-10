@@ -8,7 +8,7 @@ Create an original derivation, not a transcription of a solution manual. Use a c
 
 ## Files and submission metadata
 
-Use `solutions/ch02/ex-2-1.md` for Exercise 2.1, with a first-level title and a `## Solution` section. Recommended sections are source/scope, solution, checks, and numerical reproduction. Use fenced `math` display blocks and GitHub's dollar-backtick inline math syntax. Inside display math use `\lt ` rather than a literal less-than sign, which can be truncated as HTML. Use `\mathrm{Var}` and similar upright names instead of `\operatorname`, which GitHub's renderer rejects.
+Use `solutions/ch02/ex-2-1.md` for Exercise 2.1, with a first-level title and a `## Solution` section. Recommended sections are source/scope, solution, checks, and numerical reproduction. Use fenced `math` display blocks and GitHub's dollar-backtick inline math syntax. Inside display math use `\lt ` rather than a literal less-than sign, which can be truncated as HTML. Use `\mathrm{Var}` and similar upright names instead of `\operatorname`, which GitHub's renderer rejects. Put equation numbers in adjacent prose instead of TeX tags; tags can be rejected or collapse the rendered layout.
 
 Each chapter owns `coverage/submissions/ch02.json`:
 

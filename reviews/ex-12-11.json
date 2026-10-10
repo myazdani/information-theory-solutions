@@ -11,7 +11,7 @@
   "file_sha256": {
     "artifacts/ch12/ex-12-11/achievable-curves.svg": "c8b7af7c22d3b94e6f2179de342d0dcb274f79143d1d538dacc23b4570cadfd6",
     "artifacts/ch12/ex-12-11/results.json": "cf70b635dc5c81babcddeba0d997213d77b42d17d58734888237bb19910b5ae0",
-    "solutions/ch12/ex-12-11.md": "0e87a8f9d70d3c56cbbadafd364cb89f72acdf0768b896ff8091ddb6f91e1642",
+    "solutions/ch12/ex-12-11.md": "2cb84f4cc1164b5c76ed743e2bb1bb287f759b8a0a5e4b586f1b88a72c237de0",
     "src/information_theory/ch12_markov.py": "899f4ea6a892dea0a5103ac637aabb0c8f165ee103038d3ae7bb9727c352ec61",
     "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
     "src/information_theory/experiments/ch12_markov.py": "f513bcac93ce4ee8ae5462d180c4d0535b679f4ed5e1ed2cc054730242c436f0",
@@ -20,6 +20,14 @@
   "inventory_entry_sha256": "0568b0848328cf7640bca79933c2573380d0810e7b45612932700cde7fcf140a",
   "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
   "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "2cb84f4cc1164b5c76ed743e2bb1bb287f759b8a0a5e4b586f1b88a72c237de0",
+      "old_solution_sha256": "0e87a8f9d70d3c56cbbadafd364cb89f72acdf0768b896ff8091ddb6f91e1642",
+      "reviewer": "root",
+      "summary": "Independently inspected all 15 tag-normalization changes: numbered TeX tags move to adjacent prose labels. Every mathematical expression and cross-reference is unchanged. This avoids GitHub aligned-tag rejection and vertically collapsed tagged displays."
+    }
+  ],
   "reviewer": "root_independent_review",
   "schema_version": 1,
   "submission_sha256": "59a0ac07b4d106824b96a99180a4dfc701f8c65a0674c8db963b3bdaf233da78",
