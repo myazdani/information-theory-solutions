@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.9",
+  "file_sha256": {
+    "solutions/ch02/ex-2-9.md": "68d3fecfaf3d4d536533507e2bc77dc02bdf0a2b72182bdbc0d63558826c2ad5"
+  },
+  "inventory_entry_sha256": "644692cd9238d5579c18180271af7092d44c1aaf9d9b6dedfcae2f7433bc6701",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "e49a37d2ecd470b7f1bad2daa9d940666864d371f6e2f333ab323856ed98b62d",
+  "summary": "Checked conditional entropy triangle inequality, invertible almost-sure equivalence classes and three algebraic identities against PDF p45.",
+  "verdict": "accepted"
+}

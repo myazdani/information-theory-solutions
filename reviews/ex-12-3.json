@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.3",
+  "file_sha256": {
+    "solutions/ch12/ex-12-3.md": "21d14de0acb43fe3f1599a6423d0a35d3ac00272f6026904b9bf520bf026e614"
+  },
+  "inventory_entry_sha256": "79ee6787324683f353b8a47d8b75555a43452ceacfd1489a81f3872e0bc1f637",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "0328a6623a97c03301c1d89424319445a1e1d79116a000909f0415c3ca926bf6",
+  "summary": "Visually checked PDF p421; verified second-moment rather than mean constraint, Gaussian entropy upper bounds, AR(1) residual variance 3/4 and spectrum normalization.",
+  "verdict": "accepted"
+}

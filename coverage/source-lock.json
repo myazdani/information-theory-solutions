@@ -1,0 +1,10 @@
+{
+  "edition": 2,
+  "exercise_count": 378,
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "labeled_component_count": 646,
+  "schema_version": 1,
+  "source_sha256": "fed9b82d0904c75b47027524e11a12b6dbac31cf4f25319414679050d125dd6f",
+  "verification": "Complete exercise numbering and labeled-component inventory reconciled from source PDF layout text and font/position extraction, with anomalous layouts inspected visually. Source page hashes accompany inventory; every solution still requires its own visual source inspection.",
+  "verified_by": "inventory_information_theory_exercises"
+}

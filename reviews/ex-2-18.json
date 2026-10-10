@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.18",
+  "file_sha256": {
+    "artifacts/ch02/batch02/results.json": "72cb1c0c2be9ba95c2d6daf3ba4bda13418d81cf959dc1d5f6c1f5ba05897a88",
+    "solutions/ch02/ex-2-18.md": "4f66feb0511424ed39511e43196774d5031ce1f722e6f940018acf8a5517f9b6",
+    "src/information_theory/ch02_batch02.py": "fb0ddec5eafabfb7ed475d36d39bbe6da8ab3d273d793fc406667509e83bf19a",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  },
+  "inventory_entry_sha256": "ee7a937ca783de4064fb9cd2cae0e2a94cf49b59929360908c486eea324ff38b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "4dc04df6545fd3ad38948f5bb022a404f5354f1f26a9d5ac02d62b26d0b0544e",
+  "summary": "Visually checked original PDF pp46\u201349. Enumerated all stopped series; checked counts, length distribution and entropy formulas.",
+  "verdict": "accepted"
+}

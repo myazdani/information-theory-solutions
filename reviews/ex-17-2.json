@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "17.2",
+  "file_sha256": {
+    "solutions/ch17/ex-17-2.md": "adeda6acaf05175c811088e48fb2d54e4feed4006be0087cc75d7cc8ef8cea8b"
+  },
+  "inventory_entry_sha256": "7e92719a8588409d05abf6a2af7471e68d2e67c593b59081ae1be72bca2b8e58",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "ce5a530664b5e0e93567c4b3c96c9eccb8d1478bce4741eb55fbe43e56a3c2ef",
+  "summary": "Visually checked original PDF pp686\u2013687. Verified Schur complement identities, Hadamard bound and empty-block p=n case.",
+  "verdict": "accepted"
+}

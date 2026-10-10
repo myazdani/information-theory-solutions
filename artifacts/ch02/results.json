@@ -1,0 +1,38 @@
+{
+  "artifact_hashes": {
+    "artifacts/ch02/ex-2-12-venn.svg": "c294156e3841a671d00fd2928844420fd1039bf0dd38b8e33c3d6edfd634e527"
+  },
+  "checks": {
+    "25_distinct_paths": true,
+    "entropy_chain_rule": true,
+    "every_hypothesis_correct": true,
+    "three_weighing_budget": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch02 --output artifacts/ch02",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch02",
+  "results": {
+    "counterfeit_states": 25,
+    "distinct_paths": 25,
+    "ex_2_12": {
+      "H_X": 0.9182958340544896,
+      "H_XY": 1.584962500721156,
+      "H_X_given_Y": 0.6666666666666666,
+      "H_Y": 0.9182958340544896,
+      "H_Y_given_X": 0.6666666666666666,
+      "I_X_Y": 0.25162916738782304
+    },
+    "max_weighings": 3,
+    "randomness": "none; exact exhaustive finite state enumeration",
+    "seed": 0
+  },
+  "schema_version": 1,
+  "seed": null,
+  "source_hashes": {
+    "src/information_theory/ch02.py": "ac74fd0298d54f0c8ac35847094961aefe2f284ce3bd0ccdb891e9db59f0b699",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.3",
+  "file_sha256": {
+    "solutions/ch02/ex-2-3.md": "c2a16f07ba347e0cab9d27b9e0ea38b74f3e2bc2fbe4f924ee95eddc0d738a85"
+  },
+  "inventory_entry_sha256": "195832a84362308aa4bc182f468f6b6079222bcd93ed5a053d59f376bad0b93f",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "04e20e12a3df06299e7860722d37562b7d9173b6f69aa02a954d1dd61b99730f",
+  "summary": "Checked nonnegative entropy summands and all point-mass minimizers against PDF p44.",
+  "verdict": "accepted"
+}

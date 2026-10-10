@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.24",
+  "file_sha256": {
+    "artifacts/ch02/batch02/results.json": "72cb1c0c2be9ba95c2d6daf3ba4bda13418d81cf959dc1d5f6c1f5ba05897a88",
+    "solutions/ch02/ex-2-24.md": "b746cce6724f2acdb083e5d096520c0a92ca9956cb2099b73a1a22d0ecc3a0c1",
+    "src/information_theory/ch02_batch02.py": "fb0ddec5eafabfb7ed475d36d39bbe6da8ab3d273d793fc406667509e83bf19a",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  },
+  "inventory_entry_sha256": "84729cd5e9f636befe0a2026cda80aea006ef2091df607d37f5b0c24ceab9556",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "84fce2f75d91e3be4d65fbd4759cd3993b3113c69105956930d0dce4ca960457",
+  "summary": "Visually checked original PDF pp46\u201349. Binary value and integral, differentiated beta integral for general simplex; reran deterministic quadrature.",
+  "verdict": "accepted"
+}

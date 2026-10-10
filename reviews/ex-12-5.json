@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.5",
+  "file_sha256": {
+    "solutions/ch12/ex-12-5.md": "9fd89f8503dee630133def4ccb1c7f1cf3622c9062f220a769d9a92e55751105"
+  },
+  "inventory_entry_sha256": "8bc5021069db78724c2d6c5a3eff21957a98a8f491d3564dea8382a477dfd7dd",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "b3de4a69ffda64d6702f2418806c8e90cb28fbf8336c9a2fe00df1312aba4e55",
+  "summary": "Visually checked PDF p422; verified consistent adjacent-marginal Markov factorization, normalization, preservation, entropy bound and equality qualification.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "12.2",
+  "file_sha256": {
+    "solutions/ch12/ex-12-2.md": "df8991a81b05f30fc0a0f48828e70b7f5861aacd30869c6b4626538800a7b13a"
+  },
+  "inventory_entry_sha256": "d66170d414faa1e452439d306086907ac56cd3daed5b1227e3576c0ff684f38e",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "86b84941fd493a36a99b7fb359263aeaded22d06e10fa2ebc1c8c746be4708c4",
+  "summary": "Visually checked PDF p421; verified multiplier candidate, normalizer, support and infinite-constraint integrability qualifications, and KL Pythagorean optimality.",
+  "verdict": "accepted"
+}

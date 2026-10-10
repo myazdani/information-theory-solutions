@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.19",
+  "file_sha256": {
+    "solutions/ch02/ex-2-19.md": "df9f7cf0eb68b339f8b38ca5079a84af97bba2bf1ada60478f1b9051445d2d21"
+  },
+  "inventory_entry_sha256": "a4036e9246d74c26ae6f6d0b24595332e58e2c0515737769264330b35c29fe7d",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "bc3437c2a7bbdeafd5edd8a9bb135125b4b41e4c4e8156a3166c70b02f182f70",
+  "summary": "Visually checked original PDF pp46\u201349. Integral-test normalization and divergent entropy lower bound without infinity subtraction.",
+  "verdict": "accepted"
+}

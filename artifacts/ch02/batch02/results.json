@@ -1,0 +1,48 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "extractor_fair_every_type": true,
+    "extractor_mean": true,
+    "quadrature_error_below_1e-9": true,
+    "series_H_X_equals_expected_length": true,
+    "series_H_Y_formula": true,
+    "series_probability_normalized": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch02_batch02 --output artifacts/ch02/batch02",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch02_batch02",
+  "results": {
+    "H_quarter": 0.8112781244591328,
+    "binary_entropy_uniform_p_exact": 0.7213475204444817,
+    "binary_entropy_uniform_p_midpoint_integral": 0.7213475206104497,
+    "extractor_EK_at_half": 1.625,
+    "extractor_words": 16,
+    "quadrature_intervals": 100000,
+    "series_H_X": 5.812500000000001,
+    "series_H_X_given_Y": 3.888705059304602,
+    "series_H_Y": 1.9237949406953987,
+    "series_counts": {
+      "4": 2,
+      "5": 8,
+      "6": 20,
+      "7": 40
+    },
+    "series_length_probabilities": [
+      0.125,
+      0.25,
+      0.3125,
+      0.3125
+    ],
+    "simplex_3_expected_entropy": 1.2022458674074696
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch02_batch02.py": "fb0ddec5eafabfb7ed475d36d39bbe6da8ab3d273d793fc406667509e83bf19a",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

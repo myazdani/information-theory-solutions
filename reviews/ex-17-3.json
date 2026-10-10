@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "17.3",
+  "file_sha256": {
+    "solutions/ch17/ex-17-3.md": "8c1b68231df15fe354a63eef6635987d6c4387f86666d3af9a9e493ff20a4134"
+  },
+  "inventory_entry_sha256": "b1a6575e1512a098c6454ef3691b0c4bebecaa73adf2599cb69971e33fa16153",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "b59ba29caf484f0d6b969e9d12715626575db436474301093c810e740ad66328",
+  "summary": "Visually checked original PDF pp686\u2013687. Verified Hessian expression and positive semidefinite Kronecker difference, hence global convexity.",
+  "verdict": "accepted"
+}

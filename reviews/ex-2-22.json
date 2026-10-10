@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.22",
+  "file_sha256": {
+    "solutions/ch02/ex-2-22.md": "89978e7834b959643f6c61ecc0f14310029953910c1a4304dcfc923289488efa"
+  },
+  "inventory_entry_sha256": "f9e184c2cb01ef08d35ada92164729047044d74a966f208dc0b4781072a59aca",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "a406e4803e0959bb7088b8f36f05fbbe0967fedc15dd6c9c8481b03e61adc69b",
+  "summary": "Visually checked original PDF pp46\u201349. Chain-rule generality ordering and Jensen/KL/MI nonnegativity implications.",
+  "verdict": "accepted"
+}

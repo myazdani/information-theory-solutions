@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.16",
+  "file_sha256": {
+    "solutions/ch02/ex-2-16.md": "59ffcd96f6674051ea9d53a2a94b4a9e4ac710587bb2c2a77434a9f607554660"
+  },
+  "inventory_entry_sha256": "f7056fd19cf61f488ff0d43822037f62ecf992cb02a6eb82c1c7316c0751e98b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "3a984b13a6bc21b7f7efdf19fed34afbbe761092925c2f2d69326357cd948810",
+  "summary": "Visually checked original PDF pp46\u201349. DPI and finite bottleneck entropy bound, including k=1.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.5",
+  "file_sha256": {
+    "solutions/ch02/ex-2-5.md": "b09a2918b617100926e1351bdebdf01c8014a6f7ed70af4dcba49f02325401f0"
+  },
+  "inventory_entry_sha256": "30c07295975b956f1d3980da9a626bd3c5c10e912d5c37ba02ab94efbd1d993e",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "3c2c49d3d472e5cd06e0817e28ffc9b81a54b147d4f77aaa90ca43e25d43908d",
+  "summary": "Checked zero conditional entropy iff almost-sure deterministic function, including null values, against PDF p44.",
+  "verdict": "accepted"
+}

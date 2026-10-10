@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "17.5",
+  "file_sha256": {
+    "solutions/ch17/ex-17-5.md": "0c0b8a2831113e91134cdae730798792658085d9a05ac48e36c9c416f8a537d7"
+  },
+  "inventory_entry_sha256": "af94756bebb62a8a7233a7423574ade3009df26a2b0cf85c7e18c6e384d6acc6",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "1b4f80f1c5dbe64b226cdbf19771459d21f9f9e64208860796dc4bcf31272e37",
+  "summary": "Visually checked original PDF pp686\u2013687. Verified chain-rule interaction-information identity, joint data processing, exact gap and extended-value qualification.",
+  "verdict": "accepted"
+}

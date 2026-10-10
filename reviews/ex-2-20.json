@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.20",
+  "file_sha256": {
+    "solutions/ch02/ex-2-20.md": "9d16cc799d9f691e1b56e0e409ef48877aad92452501d95fde5908a6cb9b8d55"
+  },
+  "inventory_entry_sha256": "2623930400e96e0d82c1ef5cb78fa0118f80113c3f56ada4a48717276220dada",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "11a60e3d7747df44ba2c909c5e69bb3fbce7b4798dfdad5f1feb58f04bda6a7d",
+  "summary": "Visually checked original PDF pp46\u201349. Bijective reconstruction from final bit and run vector; both gap bounds and equality cases.",
+  "verdict": "accepted"
+}

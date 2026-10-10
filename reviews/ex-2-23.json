@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.23",
+  "file_sha256": {
+    "solutions/ch02/ex-2-23.md": "1f5f6ba6bfe4c5eebd37cbfd2c165d35033f727320bf861ef57351489e3e3f23"
+  },
+  "inventory_entry_sha256": "540b6b5c8a6f82416303f8537bb56d7a297cdb0acf1a3382c187bca68b9bfd89",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "1044a44b0c4e2e3f1df1115117d5789d23b39589ec5022ecf7ba87691253fbfa",
+  "summary": "Visually checked original PDF pp46\u201349. Strict-subset uniformity and final parity dependence give zero entries then one bit.",
+  "verdict": "accepted"
+}

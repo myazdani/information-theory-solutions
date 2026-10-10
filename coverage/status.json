@@ -1,0 +1,3147 @@
+{
+  "accepted": 34,
+  "chapters": [
+    {
+      "accepted": 24,
+      "chapter": 2,
+      "draft": 0,
+      "pending": 24,
+      "total": 48
+    },
+    {
+      "accepted": 0,
+      "chapter": 3,
+      "draft": 0,
+      "pending": 13,
+      "total": 13
+    },
+    {
+      "accepted": 0,
+      "chapter": 4,
+      "draft": 0,
+      "pending": 35,
+      "total": 35
+    },
+    {
+      "accepted": 0,
+      "chapter": 5,
+      "draft": 0,
+      "pending": 45,
+      "total": 45
+    },
+    {
+      "accepted": 0,
+      "chapter": 6,
+      "draft": 0,
+      "pending": 18,
+      "total": 18
+    },
+    {
+      "accepted": 0,
+      "chapter": 7,
+      "draft": 0,
+      "pending": 37,
+      "total": 37
+    },
+    {
+      "accepted": 0,
+      "chapter": 8,
+      "draft": 0,
+      "pending": 11,
+      "total": 11
+    },
+    {
+      "accepted": 0,
+      "chapter": 9,
+      "draft": 0,
+      "pending": 22,
+      "total": 22
+    },
+    {
+      "accepted": 0,
+      "chapter": 10,
+      "draft": 0,
+      "pending": 20,
+      "total": 20
+    },
+    {
+      "accepted": 0,
+      "chapter": 11,
+      "draft": 0,
+      "pending": 29,
+      "total": 29
+    },
+    {
+      "accepted": 5,
+      "chapter": 12,
+      "draft": 0,
+      "pending": 17,
+      "total": 22
+    },
+    {
+      "accepted": 0,
+      "chapter": 13,
+      "draft": 0,
+      "pending": 11,
+      "total": 11
+    },
+    {
+      "accepted": 0,
+      "chapter": 14,
+      "draft": 0,
+      "pending": 14,
+      "total": 14
+    },
+    {
+      "accepted": 0,
+      "chapter": 15,
+      "draft": 0,
+      "pending": 36,
+      "total": 36
+    },
+    {
+      "accepted": 0,
+      "chapter": 16,
+      "draft": 0,
+      "pending": 12,
+      "total": 12
+    },
+    {
+      "accepted": 5,
+      "chapter": 17,
+      "draft": 0,
+      "pending": 0,
+      "total": 5
+    }
+  ],
+  "draft": 0,
+  "exercises": [
+    {
+      "chapter": 2,
+      "id": "2.1",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-1.md",
+      "status": "accepted",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.2",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-2.md",
+      "status": "accepted",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.3",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-3.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.4",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-4.md",
+      "status": "accepted",
+      "subparts": 4
+    },
+    {
+      "chapter": 2,
+      "id": "2.5",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-5.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.6",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-6.md",
+      "status": "accepted",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.7",
+      "numerical": true,
+      "path": "solutions/ch02/ex-2-7.md",
+      "status": "accepted",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.8",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-8.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.9",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-9.md",
+      "status": "accepted",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.10",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-10.md",
+      "status": "accepted",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.11",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-11.md",
+      "status": "accepted",
+      "subparts": 4
+    },
+    {
+      "chapter": 2,
+      "id": "2.12",
+      "numerical": true,
+      "path": "solutions/ch02/ex-2-12.md",
+      "status": "accepted",
+      "subparts": 6
+    },
+    {
+      "chapter": 2,
+      "id": "2.13",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-13.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.14",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-14.md",
+      "status": "accepted",
+      "subparts": 3
+    },
+    {
+      "chapter": 2,
+      "id": "2.15",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-15.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.16",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-16.md",
+      "status": "accepted",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.17",
+      "numerical": true,
+      "path": "solutions/ch02/ex-2-17.md",
+      "status": "accepted",
+      "subparts": 5
+    },
+    {
+      "chapter": 2,
+      "id": "2.18",
+      "numerical": true,
+      "path": "solutions/ch02/ex-2-18.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.19",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-19.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.20",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-20.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.21",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-21.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.22",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-22.md",
+      "status": "accepted",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.23",
+      "numerical": false,
+      "path": "solutions/ch02/ex-2-23.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.24",
+      "numerical": true,
+      "path": "solutions/ch02/ex-2-24.md",
+      "status": "accepted",
+      "subparts": 3
+    },
+    {
+      "chapter": 2,
+      "id": "2.25",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.26",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 2,
+      "id": "2.27",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.28",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.29",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 2,
+      "id": "2.30",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.31",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.32",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.33",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.34",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.35",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.36",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.37",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.38",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.39",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.40",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 2,
+      "id": "2.41",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.42",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 2,
+      "id": "2.43",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.44",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 2,
+      "id": "2.45",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.46",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.47",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 2,
+      "id": "2.48",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 3,
+      "id": "3.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 3,
+      "id": "3.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 3,
+      "id": "3.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 3,
+      "id": "3.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 3,
+      "id": "3.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 3,
+      "id": "3.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 3,
+      "id": "3.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 3,
+      "id": "3.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 3,
+      "id": "3.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 3,
+      "id": "3.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 3,
+      "id": "3.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 3,
+      "id": "3.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 3,
+      "id": "3.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 4,
+      "id": "4.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 4,
+      "id": "4.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 4,
+      "id": "4.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 4,
+      "id": "4.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 5
+    },
+    {
+      "chapter": 4,
+      "id": "4.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 4,
+      "id": "4.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 4,
+      "id": "4.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 4,
+      "id": "4.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 4,
+      "id": "4.15",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.16",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 4,
+      "id": "4.17",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 4,
+      "id": "4.18",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 4,
+      "id": "4.19",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 4,
+      "id": "4.20",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.21",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 4,
+      "id": "4.22",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 4,
+      "id": "4.23",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 4,
+      "id": "4.24",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 4,
+      "id": "4.25",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 4,
+      "id": "4.26",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.27",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.28",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 10
+    },
+    {
+      "chapter": 4,
+      "id": "4.29",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 4,
+      "id": "4.30",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 4,
+      "id": "4.31",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 4,
+      "id": "4.32",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.33",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.34",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 4,
+      "id": "4.35",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 5,
+      "id": "5.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.15",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.16",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 5,
+      "id": "5.17",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.18",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.19",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.20",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.21",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.22",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.23",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.24",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.25",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.26",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.27",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 11
+    },
+    {
+      "chapter": 5,
+      "id": "5.28",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.29",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.30",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 5,
+      "id": "5.31",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 5,
+      "id": "5.32",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 5,
+      "id": "5.33",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.34",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 5,
+      "id": "5.35",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.36",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.37",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.38",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.39",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.40",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 5,
+      "id": "5.41",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.42",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 5,
+      "id": "5.43",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.44",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 5,
+      "id": "5.45",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 6,
+      "id": "6.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 6,
+      "id": "6.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 6,
+      "id": "6.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 6,
+      "id": "6.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 6,
+      "id": "6.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 6,
+      "id": "6.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 6,
+      "id": "6.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 6,
+      "id": "6.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 6,
+      "id": "6.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 6,
+      "id": "6.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 6,
+      "id": "6.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 6,
+      "id": "6.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 6,
+      "id": "6.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 6,
+      "id": "6.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 6,
+      "id": "6.15",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 6,
+      "id": "6.16",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 6,
+      "id": "6.17",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 5
+    },
+    {
+      "chapter": 6,
+      "id": "6.18",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 7,
+      "id": "7.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 7,
+      "id": "7.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 7,
+      "id": "7.15",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 8
+    },
+    {
+      "chapter": 7,
+      "id": "7.16",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 7,
+      "id": "7.17",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 7,
+      "id": "7.18",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 7,
+      "id": "7.19",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 7,
+      "id": "7.20",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.21",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.22",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.23",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.24",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.25",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.26",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 7,
+      "id": "7.27",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.28",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 7,
+      "id": "7.29",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.30",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.31",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 7,
+      "id": "7.32",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 5
+    },
+    {
+      "chapter": 7,
+      "id": "7.33",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 7,
+      "id": "7.34",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 7,
+      "id": "7.35",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.36",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 7,
+      "id": "7.37",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 8,
+      "id": "8.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 8,
+      "id": "8.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 8,
+      "id": "8.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 8,
+      "id": "8.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 8,
+      "id": "8.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 8,
+      "id": "8.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 8,
+      "id": "8.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 8,
+      "id": "8.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 8,
+      "id": "8.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 8,
+      "id": "8.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 8,
+      "id": "8.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 5
+    },
+    {
+      "chapter": 9,
+      "id": "9.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 9,
+      "id": "9.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 9,
+      "id": "9.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 9,
+      "id": "9.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 9,
+      "id": "9.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 9,
+      "id": "9.15",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 9,
+      "id": "9.16",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.17",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 9,
+      "id": "9.18",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 9,
+      "id": "9.19",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.20",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 7
+    },
+    {
+      "chapter": 9,
+      "id": "9.21",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 9,
+      "id": "9.22",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 10,
+      "id": "10.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 10,
+      "id": "10.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 10,
+      "id": "10.15",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 9
+    },
+    {
+      "chapter": 10,
+      "id": "10.16",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 10,
+      "id": "10.17",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 10,
+      "id": "10.18",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 10,
+      "id": "10.19",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 10,
+      "id": "10.20",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 11,
+      "id": "11.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 11,
+      "id": "11.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 11,
+      "id": "11.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 11,
+      "id": "11.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 11,
+      "id": "11.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 11,
+      "id": "11.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 11,
+      "id": "11.15",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 11,
+      "id": "11.16",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 11,
+      "id": "11.17",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 11,
+      "id": "11.18",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 11,
+      "id": "11.19",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.20",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.21",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.22",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.23",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.24",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 11,
+      "id": "11.25",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.26",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 11,
+      "id": "11.27",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 11,
+      "id": "11.28",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 11,
+      "id": "11.29",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 12,
+      "id": "12.1",
+      "numerical": false,
+      "path": "solutions/ch12/ex-12-1.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 12,
+      "id": "12.2",
+      "numerical": false,
+      "path": "solutions/ch12/ex-12-2.md",
+      "status": "accepted",
+      "subparts": 2
+    },
+    {
+      "chapter": 12,
+      "id": "12.3",
+      "numerical": false,
+      "path": "solutions/ch12/ex-12-3.md",
+      "status": "accepted",
+      "subparts": 3
+    },
+    {
+      "chapter": 12,
+      "id": "12.4",
+      "numerical": false,
+      "path": "solutions/ch12/ex-12-4.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 12,
+      "id": "12.5",
+      "numerical": false,
+      "path": "solutions/ch12/ex-12-5.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 12,
+      "id": "12.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 12,
+      "id": "12.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 12,
+      "id": "12.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 12,
+      "id": "12.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 12,
+      "id": "12.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 12,
+      "id": "12.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 12,
+      "id": "12.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 12,
+      "id": "12.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 12,
+      "id": "12.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 12,
+      "id": "12.15",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 12,
+      "id": "12.16",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 12,
+      "id": "12.17",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 12,
+      "id": "12.18",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 12,
+      "id": "12.19",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 12,
+      "id": "12.20",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 12,
+      "id": "12.21",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 12,
+      "id": "12.22",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 13,
+      "id": "13.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 13,
+      "id": "13.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 13,
+      "id": "13.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 13,
+      "id": "13.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 13,
+      "id": "13.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 13,
+      "id": "13.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 13,
+      "id": "13.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 13,
+      "id": "13.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 13,
+      "id": "13.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 13,
+      "id": "13.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 5
+    },
+    {
+      "chapter": 13,
+      "id": "13.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 14,
+      "id": "14.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 14,
+      "id": "14.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 14,
+      "id": "14.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 14,
+      "id": "14.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 14,
+      "id": "14.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 5
+    },
+    {
+      "chapter": 14,
+      "id": "14.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 14,
+      "id": "14.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 14,
+      "id": "14.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 14,
+      "id": "14.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 14,
+      "id": "14.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 14,
+      "id": "14.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 14,
+      "id": "14.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 14,
+      "id": "14.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 14,
+      "id": "14.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 15,
+      "id": "15.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 9
+    },
+    {
+      "chapter": 15,
+      "id": "15.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.13",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.14",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.15",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.16",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.17",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 15,
+      "id": "15.18",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.19",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.20",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.21",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 15,
+      "id": "15.22",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.23",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.24",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.25",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.26",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.27",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.28",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.29",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 15,
+      "id": "15.30",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.31",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.32",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 15,
+      "id": "15.33",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.34",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 15,
+      "id": "15.35",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 15,
+      "id": "15.36",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 16,
+      "id": "16.1",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 16,
+      "id": "16.2",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 16,
+      "id": "16.3",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 16,
+      "id": "16.4",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 16,
+      "id": "16.5",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 3
+    },
+    {
+      "chapter": 16,
+      "id": "16.6",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 16,
+      "id": "16.7",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 2
+    },
+    {
+      "chapter": 16,
+      "id": "16.8",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 4
+    },
+    {
+      "chapter": 16,
+      "id": "16.9",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 6
+    },
+    {
+      "chapter": 16,
+      "id": "16.10",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 16,
+      "id": "16.11",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 16,
+      "id": "16.12",
+      "numerical": null,
+      "path": null,
+      "status": "pending",
+      "subparts": 0
+    },
+    {
+      "chapter": 17,
+      "id": "17.1",
+      "numerical": false,
+      "path": "solutions/ch17/ex-17-1.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 17,
+      "id": "17.2",
+      "numerical": false,
+      "path": "solutions/ch17/ex-17-2.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 17,
+      "id": "17.3",
+      "numerical": false,
+      "path": "solutions/ch17/ex-17-3.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 17,
+      "id": "17.4",
+      "numerical": false,
+      "path": "solutions/ch17/ex-17-4.md",
+      "status": "accepted",
+      "subparts": 0
+    },
+    {
+      "chapter": 17,
+      "id": "17.5",
+      "numerical": false,
+      "path": "solutions/ch17/ex-17-5.md",
+      "status": "accepted",
+      "subparts": 0
+    }
+  ],
+  "pending": 344,
+  "schema_version": 1,
+  "total": 378
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.4",
+  "file_sha256": {
+    "solutions/ch02/ex-2-4.md": "0454403025dd0785b3f027c05a030bb394d92f96561e821440ceb75aefa4b399"
+  },
+  "inventory_entry_sha256": "752918ca0513668a61a8075910842fee368ac7f756378fbe896a841e6b8ac787",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "5028b8366545a28d125b3c1781601e98a1c186c81179e46f8ee06e4cd4eb2bfc",
+  "summary": "Checked each labeled chain-rule/nonnegativity step and countable-alphabet extended-value qualification against PDF p44.",
+  "verdict": "accepted"
+}

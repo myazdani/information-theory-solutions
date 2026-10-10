@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.10",
+  "file_sha256": {
+    "solutions/ch02/ex-2-10.md": "7313423662f54448c192b55d51a98308721ee9a5a70a24d33a1a04575489c4dd"
+  },
+  "inventory_entry_sha256": "4ab463f52f58fd3b3682af8e986a04c50cea4d76c6b0862eb43760eb306e9da0",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "5410eb6ce376563b87fa69acf3260d1552365aa880599f555d6eec171c0364e0",
+  "summary": "Checked selector-chain entropy, KL maximization identity, unique mixing weight and effective alphabet interpretation against PDF p45.",
+  "verdict": "accepted"
+}

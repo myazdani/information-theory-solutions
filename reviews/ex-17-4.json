@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "17.4",
+  "file_sha256": {
+    "solutions/ch17/ex-17-4.md": "fce714ea84df946ff79f198b4336640e66309d900c946c2b4a0beb15cbaa97f2"
+  },
+  "inventory_entry_sha256": "5a401ec9063b5d4f044d452f1d9afb2159892883dcfbe70db322c0d64dfb9e37",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "74c2285edc1b96f02ee971bbf320ba6deefc4b274fb413cce133ecd6d46761ec",
+  "summary": "Visually checked original PDF pp686\u2013687. Verified conditional Markov data-processing proof and nonnegative exact gap.",
+  "verdict": "accepted"
+}

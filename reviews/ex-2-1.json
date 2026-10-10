@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.1",
+  "file_sha256": {
+    "solutions/ch02/ex-2-1.md": "659fb429b246870e805a2b5d6c796115bf006acd69f5a682ced26459e972dba6"
+  },
+  "inventory_entry_sha256": "865aea8a0bd43617037ef0db7737640cc0c51b01dc417c815f56831087174d56",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "df3cd241e81ebb822e239c3af2c941550608da3d914c6ca99597990cf1797284",
+  "summary": "Checked geometric entropy sum, optimal stopping decision tree and finite expected length against PDF pp43\u201344.",
+  "verdict": "accepted"
+}

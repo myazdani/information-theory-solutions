@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "17.1",
+  "file_sha256": {
+    "solutions/ch17/ex-17-1.md": "d68c15493b7fdffd2a78d1a3fb00e67994546f5122769b76e2d792570a3a8a51"
+  },
+  "inventory_entry_sha256": "3b320558e1eca423da23cffa03295045f8ef75a9b35edf3d050c1e0289f2ccbf",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "7e5918d1a066796cf15d5110b688db162a9575d095a6fe04263f535b3f596e56",
+  "summary": "Visually checked original PDF pp686\u2013687. Verified positive-eigenvalue determinant factorization and semidefinite equality case.",
+  "verdict": "accepted"
+}

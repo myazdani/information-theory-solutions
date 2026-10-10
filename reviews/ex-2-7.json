@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.7",
+  "file_sha256": {
+    "artifacts/ch02/ex-2-12-venn.svg": "c294156e3841a671d00fd2928844420fd1039bf0dd38b8e33c3d6edfd634e527",
+    "artifacts/ch02/results.json": "285920d680ad4a2b15bf86134342b297879ced89a49f63a64dfa55a8709c0cfe",
+    "solutions/ch02/ex-2-7.md": "8ea19fceefaeeac599d4dcfd2b971ffb621816e46c6d600ac9b33b3427f60ead",
+    "src/information_theory/ch02.py": "ac74fd0298d54f0c8ac35847094961aefe2f284ce3bd0ccdb891e9db59f0b699",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62"
+  },
+  "inventory_entry_sha256": "1fc83122ab7dd7d807530bfffa537af3c8f1c7a1d9d3dee5382f5f2aa0b037cb",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "48c7bbaa06db48515e8e2c353d5f6ebf935a3bf3e1e5d5f75ab8be0f35abd9fa",
+  "summary": "Checked counting upper bound and sharper first-weighing bound; independently reran exhaustive 25-state strategy and inspected branch correspondence to prose against PDF pp44\u201345.",
+  "verdict": "accepted"
+}

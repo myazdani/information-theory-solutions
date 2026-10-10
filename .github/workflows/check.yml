@@ -1,0 +1,18 @@
+name: Verify solutions and evidence
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run standard-library tests
+        run: PYTHONPATH=src python -m unittest discover -s tests -v
+      - name: Validate coverage and bound reviews
+        run: python scripts/validate.py
+      - name: Check generated navigation
+        run: python scripts/build_index.py --check

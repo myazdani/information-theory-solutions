@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.13",
+  "file_sha256": {
+    "solutions/ch02/ex-2-13.md": "81563dff6e5e88367e0fe25307a1c7879d99c484d30e53237ae3ff0c4ca4d2ce"
+  },
+  "inventory_entry_sha256": "57fa58b5e6b0d523de3ee78dbd8bc5091fac18e0033f79f0bad49409b0c40ce0",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "16b7732583a82954b4640841384de93e7e65214bd0988ac2e8cea629fa80be28",
+  "summary": "Visually checked original PDF pp46\u201349. Derivative minimization and equality at one.",
+  "verdict": "accepted"
+}

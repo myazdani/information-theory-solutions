@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.11",
+  "file_sha256": {
+    "solutions/ch02/ex-2-11.md": "f7f9b4a7bdf4960481a468604ac36476e575d4840f0ba360c064604ba19a2d8c"
+  },
+  "inventory_entry_sha256": "c232a1a5d121e55a64f3ed476b0e4d6ef0f67f7df797ba7042ef2d55c593195b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "fa9dd0ea6c209976301ad4cebe9cde169d45ea754b449d42836e5a80ff82dcc1",
+  "summary": "Checked normalized mutual information and both equality cases, including required finite positive denominator, against PDF pp45\u201346.",
+  "verdict": "accepted"
+}

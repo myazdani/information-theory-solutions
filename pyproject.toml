@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "information-theory-solutions"
+version = "0.1.0"
+description = "Original reviewed solutions and reproducible computations for Cover and Thomas, second edition"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+numerical = ["numpy>=2,<3", "scipy>=1.14,<2", "matplotlib>=3.9,<4"]
+
+[project.scripts]
+information-theory = "information_theory.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

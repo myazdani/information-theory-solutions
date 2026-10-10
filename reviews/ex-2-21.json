@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "2.21",
+  "file_sha256": {
+    "solutions/ch02/ex-2-21.md": "bf4eca48307255faeb27bfa42cd0fb5c36437c59ad38977173e892d61df29d7e"
+  },
+  "inventory_entry_sha256": "a75cc172047576cec090d1c3d3099dfacd470f151cdf96e5752a9d14ca938254",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "3d094894e86a3065e47b8da4c13698ba2cab4e386c3a5d46244a99e04311745f",
+  "summary": "Visually checked original PDF pp46\u201349. Nonnegative surprisal tail bound; d>=1 and zero-probability d=0 cases.",
+  "verdict": "accepted"
+}
