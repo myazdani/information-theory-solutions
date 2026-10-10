@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.27",
+  "file_sha256": {
+    "solutions/ch11/ex-11-27.md": "85566bce3e23aa062f7f4b26f502d23d0f7ce7b4cfa2c1f7dec94de5d4dad23f"
+  },
+  "inventory_entry_sha256": "f43af9af914d353e3faec0c9e379fc779c7d1086e63b91bcd2ac2e52e89fe0b6",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "8c16babebcba9623fe3275ae12be46a1715bdce7075e39ea4b089403bc16ae5e",
+  "summary": "Visually inspected the logarithmic variational identity on page 408. Verified the size-biased tilt, KL decomposition, matching logarithm bases, truncated laws establishing the supremum when separate quantities diverge, and the infinite-mean extension.",
+  "verdict": "accepted"
+}

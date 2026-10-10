@@ -1,0 +1,53 @@
+{
+  "artifact_hashes": {
+    "artifacts/ch16/portfolio/wealth.png": "dbf122b3acfe0e78b44d94f66d6d3005316239224a5b1f82946899c6546c2073",
+    "artifacts/ch16/portfolio/wealth.svg": "8f7f7b463323866ee6aa203b0c9a308bcb80d708516eb65a3d0bc16cccaa5abc"
+  },
+  "checks": {
+    "growth_optimum_samples": true,
+    "reversal_rebalancing_identity": true,
+    "short_sale_identity_samples": true,
+    "universal_rebalancing_identity": true,
+    "universality_factors_exact": true,
+    "wealth_endpoint_values": true,
+    "wealth_maximum_exact": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.experiments.ch16_portfolio --output artifacts/ch16/portfolio",
+  "environment": {
+    "packages": {
+      "matplotlib": "3.10.8"
+    },
+    "python": "3.12.14"
+  },
+  "module": "information_theory.experiments.ch16_portfolio",
+  "results": {
+    "16.11": {
+      "1": {
+        "decimal": 0.5,
+        "exact": "1/2"
+      },
+      "2": {
+        "decimal": 0.4,
+        "exact": "2/5"
+      },
+      "3": {
+        "decimal": 0.34615384615384615,
+        "exact": "9/26"
+      }
+    },
+    "16.9": {
+      "first_portfolio_cash": "1/2",
+      "maximizer": "1/2",
+      "maximum_wealth": "9/8",
+      "second_portfolio_cash": "5/9",
+      "second_portfolio_cash_reversed": "4/9",
+      "universal_wealth": "13/12"
+    }
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch16_portfolio.py": "8f6501192f451bbacf434574c252b49639456c6ec3034f124f91c4f3e9bdf4c2"
+  }
+}

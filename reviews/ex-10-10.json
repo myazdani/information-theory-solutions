@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.10",
+  "file_sha256": {
+    "solutions/ch10/ex-10-10.md": "1993a8c116ef8d26257720c3f6d5d4accc5dbdafec712b021154dbb862a9ef41"
+  },
+  "inventory_entry_sha256": "45d3a243d237048edb69665b18574f75bd07bbd199907db132adab868a3752fe",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "9df9486aa35ad52e29a3890e6875cba27fcb6ef8c01530c34dc68fe6ac0fc2ea",
+  "summary": "Inspected the even/odd distortion on page 339. Checked parity reduction by data processing and the attainable parity-only test channel, both rate branches and zero-distortion value independent of within-parity alphabet size.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.23",
+  "file_sha256": {
+    "solutions/ch11/ex-11-23.md": "45c08c897ec01c3432a4a0d7217bac6d66c95077eb69155c05bb634d8f1dbe58"
+  },
+  "inventory_entry_sha256": "c0f609ad6745a9563779d0275567471f721bf0acf039f0efdce097d2a57095d2",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "41b0f54ec12af432431306c2c05a29616d0038dcf813175100e3fd6f7750ca63",
+  "summary": "Visually inspected the strict positive-likelihood-ratio event on page 406. Checked the Chernoff tilt, derivative signs, stationary zero mean, exact divergence exponent and approximation of strict feasible types. Verified the important identical-law exception and support-aware formulation when zeros make the strict event impossible.",
+  "verdict": "accepted"
+}

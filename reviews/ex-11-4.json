@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.4",
+  "file_sha256": {
+    "artifacts/ch11/first-batch/results.json": "cfb352da4235466b00c14f33593d73dcc7292cb5fd6157c45617b1c8c0f3d1ce",
+    "solutions/ch11/ex-11-4.md": "8589bf514b3cfa0ccdc61d197428adc2efe792d563724be5a74fe6971e7a1e7c",
+    "src/information_theory/ch11/first_batch.py": "2b9cb59e5d61759265c583cecd34b051e7f375a3bc6ef5cd8fec6983644b86b1",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch11/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch11/test_first_batch.py": "d1e25adb494975daa1753b5bfbc7671850f05b00fa78a37b830887891e507351"
+  },
+  "inventory_entry_sha256": "63d625c5c4b9c30b6122f54ae0fadbc994f474e481cc6b530689a0dfab002a6c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "a4d58dc1e9c152ac9de20e90e18e1d7edacfa3c8a71d15d71a0258f53692decc",
+  "summary": "Visually inspected every inequality and the exclusion Q not in either set across pages 400\u2013401. Independently verified the counterexample satisfies all printed hypotheses. Checked first, direct and sequential projections by entropy maximization and fixed conditional mass ratios; checked the Pythagorean cross term identifying the missing equality-family hypothesis. Reran strict directed-divergence comparisons and a grid over the feasible intersection.",
+  "verdict": "accepted"
+}

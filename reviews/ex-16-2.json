@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.2",
+  "file_sha256": {
+    "solutions/ch16/ex-16-2.md": "5f913b464cce505e1a4f6f6e77b7cb46dc52a9ca9ec0c648b5eeafd8dd089dc5"
+  },
+  "inventory_entry_sha256": "f2b6855a74b95ca0d8bf6538758dacd8246609feff313f9645c0d7b02932ebc3",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "06221fc734c97588e440ee48c407885028f489f8a7d819ba2e17d253f1742a87",
+  "summary": "Visually inspected original PDF pp652\u2013655. Verified state-revealing allocation and strict information bound.",
+  "verdict": "accepted"
+}

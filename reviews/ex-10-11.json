@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.11",
+  "file_sha256": {
+    "solutions/ch10/ex-10-11.md": "e03af0dc903c1298dc0f5242d8f8bd727e9e6fd48fb9c5f6a23ad9cf4b894943"
+  },
+  "inventory_entry_sha256": "b743eeb7c5d63ddc0349862fa7e50299a3a72f6dae665f93048f69e46cc28078",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "8bed8b7c9fd99f20464b82331c9deb899649e6ae20689ec555c27fd79533d5e0",
+  "summary": "Inspected the quartic density and moment definition on page 339. Checked its normalization and moment c=1/4 by integration by parts, divergence proof of the constrained maximum-entropy density, scaling law, conditional-error entropy bound and zero-rate endpoint.",
+  "verdict": "accepted"
+}

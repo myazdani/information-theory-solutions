@@ -8,7 +8,7 @@
   },
   "exercise_id": "4.28",
   "file_sha256": {
-    "solutions/ch04/ex-4-28.md": "723c7b4005c5d0a82c9996beb75eaf55166cd6d5d2caaab62a53288128ade682"
+    "solutions/ch04/ex-4-28.md": "a0213edf82bdafdf01b4b31317225f8b83e6263e1c1f7e55fada24a3b53f7e10"
   },
   "inventory_entry_sha256": "c424d1f4767f9e4255e6a0296b5cffbafb4578c7b7b9a6a11ddae1e99478080a",
   "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
@@ -19,6 +19,14 @@
     "reviewer": "root",
     "scope": "Independently inspected exact diff: only literal less-than signs inside fenced math become TeX \\lt with a separator space. Mathematical statements, proofs, computations, and other text are unchanged. Original proof acceptance is preserved by syntax equivalence."
   },
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "a0213edf82bdafdf01b4b31317225f8b83e6263e1c1f7e55fada24a3b53f7e10",
+      "old_solution_sha256": "723c7b4005c5d0a82c9996beb75eaf55166cd6d5d2caaab62a53288128ade682",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
   "reviewer": "root_independent_review",
   "schema_version": 1,
   "submission_sha256": "f5de2f13692bdaacba691c4b1023414df66ca6a0bc1c532730a39a9898bbbe1f",

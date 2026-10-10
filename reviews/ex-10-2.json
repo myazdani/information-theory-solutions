@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.2",
+  "file_sha256": {
+    "artifacts/ch10/first-batch/results.json": "af662621c8a60d735c10900451feb93503b998f3dac774cb0ebd947fe0f3f366",
+    "solutions/ch10/ex-10-2.md": "6a664d7a3f31902240be2f2fe929e3905abd1a6693a6be21e58a56e5ff695d2e",
+    "src/information_theory/ch10/first_batch.py": "a3bea2840c72c723b8c85aa9f299f8b992f37d051412d5f2e0801c8d29a43e01",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch10/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch10/test_first_batch.py": "86929c061406ca1c1e0ff2dfe09c7ec9444903764fa2aa2a1ada291f8d122f95"
+  },
+  "inventory_entry_sha256": "48c1bf98baf32fe499d9116aae0ddbbfa06a6de18badb9d7b4c7d41da4739818",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "e00e173fea8db10d39eb6ef1c0823dae9afbd5a9ae6345127924f8861dbef551",
+  "summary": "Inspected the asymmetric infinite-cost distortion on page 336. Verified the forbidden channel transition, admissible test-channel parameterization, monotone degradation argument, both equivalent mutual-information expressions, and zero-rate and infeasible endpoints. Reran direct channel mutual information at five distortion budgets.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.3",
+  "file_sha256": {
+    "artifacts/ch10/first-batch/results.json": "af662621c8a60d735c10900451feb93503b998f3dac774cb0ebd947fe0f3f366",
+    "solutions/ch10/ex-10-3.md": "63146ea3aee1d8303b1a0dbb2a4c250ec94fb87582ddb7eb20a518a877250f1b",
+    "src/information_theory/ch10/first_batch.py": "a3bea2840c72c723b8c85aa9f299f8b992f37d051412d5f2e0801c8d29a43e01",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch10/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch10/test_first_batch.py": "86929c061406ca1c1e0ff2dfe09c7ec9444903764fa2aa2a1ada291f8d122f95"
+  },
+  "inventory_entry_sha256": "3392ab3b3059867258a6199b3b9d5f6f0e875487568f6202c048f52f97615812",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "1ee7b5a1bbcf4f6703da38cbf886bdc35b87e3d9932351d61d44b74220017f30",
+  "summary": "Inspected the actual distortion matrix on page 337. Checked the arbitrary asymmetric binary test channel, output distribution, conditional entropy and expected-cost expressions. The constrained two-variable characterization does not impose unjustified symmetry. Reran a concrete asymmetric example.",
+  "verdict": "accepted"
+}

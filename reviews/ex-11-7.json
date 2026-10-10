@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.7",
+  "file_sha256": {
+    "solutions/ch11/ex-11-7.md": "aa02fb5f2d64fc3264fbf50b8a686f5abdc08d2bd12d35fbc0954af6917420ee"
+  },
+  "inventory_entry_sha256": "528123f2b75b1e5ea99937f7f9cd8dbc7ac47ecba21dcabeba3ea7fe31f3bf7b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "2418cdcf3bc0b31ed17687421b72139305e2aa0c8e6ab6628e847fa49ec05104",
+  "summary": "Visually inspected the exact Fisher-information limit on page 401. Checked differentiating the directed divergence, zero mean score, expected Hessian identity, Taylor coefficient in bits and common-support regularity caveat.",
+  "verdict": "accepted"
+}

@@ -1,0 +1,113 @@
+{
+  "artifact_hashes": {
+    "artifacts/ch12/ex-12-11/achievable-curves.svg": "c8b7af7c22d3b94e6f2179de342d0dcb274f79143d1d538dacc23b4570cadfd6"
+  },
+  "checks": {
+    "asymptotic_ratio_approaches_one": true,
+    "constructed_constraints": true,
+    "cycle_count_is_eight": true,
+    "lag_two_continuity_samples": true,
+    "nonuniform_improves_uniform_at_point_two": true,
+    "quantization_samples": true,
+    "rank_one_beats_isotropic_at_small_alpha": true,
+    "special_point": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.experiments.ch12_markov --output artifacts/ch12/ex-12-11",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.experiments.ch12_markov",
+  "results": {
+    "comparison": [
+      {
+        "alpha": 0.001,
+        "constraint_residual": 1.1015494072452725e-16,
+        "explicit_candidate_parameter": 0.1932351945595157,
+        "explicit_candidate_rate": 1.558563247102609,
+        "explicit_stationary_singleton_mass": 0.3333333333333333,
+        "rank_one_uniform_rate": 1.558563247102609,
+        "symmetric_rate": 1.5484468663474518
+      },
+      {
+        "alpha": 0.01,
+        "constraint_residual": 2.3071822230491534e-16,
+        "explicit_candidate_parameter": 0.3444268428800069,
+        "explicit_candidate_rate": 1.5011543409471626,
+        "explicit_stationary_singleton_mass": 0.3333333333333333,
+        "rank_one_uniform_rate": 1.5011543409471626,
+        "symmetric_rate": 1.4710045055621759
+      },
+      {
+        "alpha": 0.1,
+        "constraint_residual": 8.326672684688674e-17,
+        "explicit_candidate_parameter": 0.6131585850242718,
+        "explicit_candidate_rate": 1.3108797989196637,
+        "explicit_stationary_singleton_mass": 0.3333333333333333,
+        "rank_one_uniform_rate": 1.3108797989196637,
+        "symmetric_rate": 1.2227030653811437
+      },
+      {
+        "alpha": 0.2,
+        "constraint_residual": 1.6653345369377348e-16,
+        "explicit_candidate_parameter": 0.7319486959731931,
+        "explicit_candidate_rate": 1.1923138689547115,
+        "explicit_stationary_singleton_mass": 0.29610602,
+        "rank_one_uniform_rate": 1.188672919561086,
+        "symmetric_rate": 1.0669481053962153
+      },
+      {
+        "alpha": 0.5,
+        "constraint_residual": 0.0,
+        "explicit_candidate_parameter": 0.8967750249702555,
+        "explicit_candidate_rate": 0.9311899966726394,
+        "explicit_stationary_singleton_mass": 0.3333333333333333,
+        "rank_one_uniform_rate": 0.9311899966726394,
+        "symmetric_rate": 0.7440661444568479
+      }
+    ],
+    "cycle_count": 8,
+    "grid_n3_count": 120,
+    "grid_n3_verification": {
+      "information_modulus": 6.339850002884624,
+      "lag_two_information": 0.04723122275188585,
+      "rate": 1.2060836635859271,
+      "rate_modulus": 4.754887502163468,
+      "upper_formula_float": 5.960971165749395
+    },
+    "scope": "Floating-point verification of constructions; no machine-certified global bounds.",
+    "small_alpha_asymptotic": [
+      {
+        "alpha": 2.9515329719842498e-05,
+        "deficit_over_asymptotic": 0.9894456906397647,
+        "t": 0.08
+      },
+      {
+        "alpha": 1.8461589825768954e-06,
+        "deficit_over_asymptotic": 0.9940466326768128,
+        "t": 0.04
+      },
+      {
+        "alpha": 1.1540791566844177e-07,
+        "deficit_over_asymptotic": 0.9968474448568803,
+        "t": 0.02
+      },
+      {
+        "alpha": 7.2133548023600724e-09,
+        "deficit_over_asymptotic": 0.9983788579441797,
+        "t": 0.01
+      }
+    ],
+    "special_point": {
+      "alpha": 0.9182958340544891,
+      "entropy_rate": 0.666666666666667
+    }
+  },
+  "schema_version": 1,
+  "seed": 1211,
+  "source_hashes": {
+    "src/information_theory/ch12_markov.py": "899f4ea6a892dea0a5103ac637aabb0c8f165ee103038d3ae7bb9727c352ec61",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch12_markov.py": "f513bcac93ce4ee8ae5462d180c4d0535b679f4ed5e1ed2cc054730242c436f0"
+  }
+}

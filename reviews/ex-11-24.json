@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.24",
+  "file_sha256": {
+    "solutions/ch11/ex-11-24.md": "95414008f1ccb1ce66cb6036c78ea463bfd5d522ed390a004fe86e081307d8b3"
+  },
+  "inventory_entry_sha256": "93327493cabf9c5309bc7abd6c3cc22674b5223c71cb7f323f8fd734edef53eb",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "2ccfc653b502fb1977f6914f85114a2c998b8ad2cda268200441670913f904d2",
+  "summary": "Visually inspected all four mixture-estimation questions on page 407. Checked the mixture density and score, Fisher information integral, sample-size scaling of Cramer\u2013Rao, unidentifiable identical components, and the bounded indicator-based unbiased estimator requiring neither finite means nor disjoint support.",
+  "verdict": "accepted"
+}

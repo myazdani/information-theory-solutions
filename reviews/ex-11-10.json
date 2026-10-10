@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.10",
+  "file_sha256": {
+    "solutions/ch11/ex-11-10.md": "e6471f411cdda51122243546958dfd8b095bbde2544909928f2cf6edd1bbfa6b"
+  },
+  "inventory_entry_sha256": "ab816a6465af753bc48511eb5420d3a6daef8ec57e5797d44367f3da59f1fc6c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "ebed3a15280a205076b15de600e84bc3d5e57b6926f9b0f7bf8659b08c360dc7",
+  "summary": "Visually inspected all three affine equalities and both projection tasks on page 402. Verified the exponential-family Lagrange form, distribution uniqueness versus multiplier uniqueness, boundary/support qualifications and the exact KL decomposition proving the product-reference projection is Q.",
+  "verdict": "accepted"
+}

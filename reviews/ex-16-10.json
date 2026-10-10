@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.10",
+  "file_sha256": {
+    "solutions/ch16/ex-16-10.md": "ca19918d556b4fc5f7ea6a1a792d467f9ef48b6e720ae8404de7b062a7be401b"
+  },
+  "inventory_entry_sha256": "52ddab2cfd6ee5d17bca9b5574842e7132ef1bb72f878bb3a665a1e8c045e6d1",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "9f42e686511115a89640bad3febcebb380f83bfb4089c82c9ee32cd96faa3035",
+  "summary": "Visually inspected original PDF pp654\u2013655. Verified independence/Jensen reciprocal derivative proof and simultaneous-ruin counterexample under literal nonnegative assumptions.",
+  "verdict": "accepted"
+}

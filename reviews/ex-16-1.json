@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.1",
+  "file_sha256": {
+    "solutions/ch16/ex-16-1.md": "57ea0af92317409ca9a2f6d15aec1636f2fc8ba7d06957b9c0cdf9cfd0a7bb19"
+  },
+  "inventory_entry_sha256": "173478a3a2d6d37e5e6778b2b22db1938b11b257a2f81e4594f6bd35cfe33022",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "7fa23433a7b35dfa9d5c720414500cb14ea0406026b79ccdca7131a1f51311ae",
+  "summary": "Visually inspected original PDF pp652\u2013655. Checked exact quadratic product, interior optimum and zero-rate random-walk wealth endpoints.",
+  "verdict": "accepted"
+}

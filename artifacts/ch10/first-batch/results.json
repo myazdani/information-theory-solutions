@@ -1,0 +1,68 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "asymmetric_formula": true,
+    "forbidden_channel_mi": true,
+    "gaussian_ratio": true,
+    "rate_decreasing": true,
+    "threshold_grid_optimum": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch10.first_batch --output artifacts/ch10/first-batch",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch10.first_batch",
+  "results": {
+    "asymmetric_example": {
+      "a": 2,
+      "alpha": 0.1,
+      "b": 1,
+      "beta": 0.2,
+      "distortion": 0.2,
+      "mutual_information": 0.39731260974948657
+    },
+    "block_distortion_variance_units": 0.25,
+    "one_sided_rate_distortion_checks": [
+      {
+        "direct_mi": 1.0,
+        "distortion": 0,
+        "formula": 1.0
+      },
+      {
+        "direct_mi": 0.6099865470109875,
+        "distortion": 0.1,
+        "formula": 0.6099865470109876
+      },
+      {
+        "direct_mi": 0.3958156020033584,
+        "distortion": 0.2,
+        "formula": 0.3958156020033583
+      },
+      {
+        "direct_mi": 0.10803154614560005,
+        "distortion": 0.4,
+        "formula": 0.10803154614560001
+      },
+      {
+        "direct_mi": 0.0,
+        "distortion": 0.5,
+        "formula": 0.0
+      }
+    ],
+    "scalar_distortion_variance_units": 0.3633802276324186,
+    "scalar_reproduction_magnitude_sigma_units": 0.7978845608028654,
+    "scalar_to_block_ratio": 1.4535209105296745,
+    "threshold_grid_minimum": [
+      0.0,
+      0.3633802276324186
+    ]
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch10/first_batch.py": "a3bea2840c72c723b8c85aa9f299f8b992f37d051412d5f2e0801c8d29a43e01",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

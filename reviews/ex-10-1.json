@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.1",
+  "file_sha256": {
+    "artifacts/ch10/first-batch/results.json": "af662621c8a60d735c10900451feb93503b998f3dac774cb0ebd947fe0f3f366",
+    "solutions/ch10/ex-10-1.md": "3b05968902e0d41b2e379c9cab1dfd978b8903ebcf7f4d5c6de24a62ff7dfeb5",
+    "src/information_theory/ch10/first_batch.py": "a3bea2840c72c723b8c85aa9f299f8b992f37d051412d5f2e0801c8d29a43e01",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch10/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch10/test_first_batch.py": "86929c061406ca1c1e0ff2dfe09c7ec9444903764fa2aa2a1ada291f8d122f95"
+  },
+  "inventory_entry_sha256": "bbb4c3db3dffe6031ea78a4269bb033afd278aa5043929bf3b15d3ca2a0677a0",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "4ddf36f6e6bd59220f6ef602b6b253eb9c714dfb8dd90d37677cf922f40412ce",
+  "summary": "Inspected printed page 336. Checked nearest-neighbor threshold optimality for fixed reproduction values, the conditional Gaussian means and variance identity. Independently verified the cosh double-integral identity proving the global zero-threshold optimum rather than relying on symmetry. Reran the threshold grid, scalar distortion and block-rate comparison.",
+  "verdict": "accepted"
+}

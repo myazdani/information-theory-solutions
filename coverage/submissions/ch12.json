@@ -101,6 +101,25 @@
       "path": "solutions/ch12/ex-12-10.md"
     },
     {
+      "artifacts": [
+        "src/information_theory/ch12_markov.py",
+        "src/information_theory/experiments/ch12_markov.py",
+        "tests/test_ch12_markov.py",
+        "artifacts/ch12/ex-12-11/achievable-curves.svg"
+      ],
+      "author": "solve-markov-entropy-constraint",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "12.11",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch12/ex-12-11/results.json"
+      ],
+      "path": "solutions/ch12/ex-12-11.md"
+    },
+    {
       "artifacts": [],
       "author": "solve_information_theory_advanced",
       "covered_subparts": [

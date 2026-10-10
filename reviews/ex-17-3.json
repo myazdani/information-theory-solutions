@@ -8,11 +8,19 @@
   },
   "exercise_id": "17.3",
   "file_sha256": {
-    "solutions/ch17/ex-17-3.md": "8c1b68231df15fe354a63eef6635987d6c4387f86666d3af9a9e493ff20a4134"
+    "solutions/ch17/ex-17-3.md": "09ea170a7b823f0753e86d6f3e67a17ea171109bcd92440bbd8b256caaa196b5"
   },
   "inventory_entry_sha256": "b1a6575e1512a098c6454ef3691b0c4bebecaa73adf2599cb69971e33fa16153",
   "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
   "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "09ea170a7b823f0753e86d6f3e67a17ea171109bcd92440bbd8b256caaa196b5",
+      "old_solution_sha256": "8c1b68231df15fe354a63eef6635987d6c4387f86666d3af9a9e493ff20a4134",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
   "reviewer": "root_independent_review",
   "schema_version": 1,
   "submission_sha256": "b59ba29caf484f0d6b969e9d12715626575db436474301093c810e740ad66328",

@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.11",
+  "file_sha256": {
+    "artifacts/ch16/portfolio/results.json": "c7799df469f1f8140603e9a481bf2921a627e39b4d541c991333103803297dca",
+    "artifacts/ch16/portfolio/wealth.png": "dbf122b3acfe0e78b44d94f66d6d3005316239224a5b1f82946899c6546c2073",
+    "artifacts/ch16/portfolio/wealth.svg": "8f7f7b463323866ee6aa203b0c9a308bcb80d708516eb65a3d0bc16cccaa5abc",
+    "solutions/ch16/ex-16-11.md": "8d97c779ae1ca4e2c73ce0705342dcc1138584efabe793eb30d18e33ab8cb643",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch16_portfolio.py": "8f6501192f451bbacf434574c252b49639456c6ec3034f124f91c4f3e9bdf4c2",
+    "tests/test_ch16_portfolio.py": "ae965ff2e301271ca1fcb0f4d4e14dfc8f583b53adf23b6bbeadd45337ef6346"
+  },
+  "inventory_entry_sha256": "ef43d8721ee9daf56dd55a19b9a79048ad664c4c513576dd08a476e5e64253d3",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "c8f7e7fd527a4f5a7be6b847a73da4f9e22a31eb72807a54cfe2c14c7d2e0fcc",
+  "summary": "Visually inspected original PDF pp654\u2013655. Independently checked rational sums and endpoint convention; reran numerical experiment and matched all values.",
+  "verdict": "accepted"
+}

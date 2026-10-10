@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.15",
+  "file_sha256": {
+    "artifacts/ch11/second-batch/results.json": "76c0b8899de962504064fd1337fea3bf3795f73964c425d561203cb3e5a8f519",
+    "solutions/ch11/ex-11-15.md": "42423f3c98991a7aa50e91b1f1b8b6fa3a1042cc1a5a7358cb05f1b45aa95c57",
+    "src/information_theory/ch11/second_batch.py": "bacd965f74bb75ea4131e769807654597f32dca029bf47a20db8877d7a25c678",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch11/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch11/test_second_batch.py": "6cf22d0de08b32448525f6e76b48da108135240f12a7fb6ab3bce4a9685e9aa2"
+  },
+  "inventory_entry_sha256": "6bda1f2d89c011b50aeee909c23cce7b14f1d2b2d38fa30d07c9b9c5a91ed0de",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "43e611b6f508c39c7467f303797300b664f8dd869343e012b33e9eba4e2db847",
+  "summary": "Visually inspected the exact six-state frequency equality and conditional question on page 404. Checked the maximum-entropy exponential tilt, ratio two, normalization, exact event exponent with feasible rounding, uniqueness gap and exchangeability giving the first-coordinate conditional law. Reran normalization, masses and divergence.",
+  "verdict": "accepted"
+}

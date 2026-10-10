@@ -1,0 +1,193 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "SP_expected_results": true,
+    "Shannon_dyadic_entropy": true,
+    "ambiguity_witness": true,
+    "k0_integer_maximizer": true,
+    "k10_integer_maximizer": true,
+    "k11_integer_maximizer": true,
+    "k12_integer_maximizer": true,
+    "k1_integer_maximizer": true,
+    "k2_integer_maximizer": true,
+    "k3_integer_maximizer": true,
+    "k4_integer_maximizer": true,
+    "k5_integer_maximizer": true,
+    "k6_integer_maximizer": true,
+    "k7_integer_maximizer": true,
+    "k8_integer_maximizer": true,
+    "k9_integer_maximizer": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch05_batch02 --output artifacts/ch05/batch02",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch05_batch02",
+  "results": {
+    "ex_5_24": {
+      "integer_maxima": [
+        {
+          "k": 0,
+          "maximizing_m": 1,
+          "redundancy": 0.0
+        },
+        {
+          "k": 1,
+          "maximizing_m": 3,
+          "redundancy": 0.08170416594551067
+        },
+        {
+          "k": 2,
+          "maximizing_m": 6,
+          "redundancy": 0.08170416594551089
+        },
+        {
+          "k": 3,
+          "maximizing_m": 11,
+          "redundancy": 0.0860229268172481
+        },
+        {
+          "k": 4,
+          "maximizing_m": 22,
+          "redundancy": 0.08602292681724766
+        },
+        {
+          "k": 5,
+          "maximizing_m": 44,
+          "redundancy": 0.08602292681724766
+        },
+        {
+          "k": 6,
+          "maximizing_m": 89,
+          "redundancy": 0.08606432184259116
+        },
+        {
+          "k": 7,
+          "maximizing_m": 177,
+          "redundancy": 0.08606676630118315
+        },
+        {
+          "k": 8,
+          "maximizing_m": 355,
+          "redundancy": 0.08607126448119473
+        },
+        {
+          "k": 9,
+          "maximizing_m": 710,
+          "redundancy": 0.08607126448119473
+        },
+        {
+          "k": 10,
+          "maximizing_m": 1420,
+          "redundancy": 0.08607126448119473
+        },
+        {
+          "k": 11,
+          "maximizing_m": 2839,
+          "redundancy": 0.08607133052358407
+        },
+        {
+          "k": 12,
+          "maximizing_m": 5678,
+          "redundancy": 0.08607133052358407
+        }
+      ],
+      "limiting_max_redundancy": 0.08607133205593426
+    },
+    "ex_5_27": [
+      {
+        "code": [
+          "0",
+          "10",
+          "11"
+        ],
+        "residual_closure": [],
+        "uniquely_decodable": true
+      },
+      {
+        "code": [
+          "0",
+          "01",
+          "11"
+        ],
+        "residual_closure": [
+          "1"
+        ],
+        "uniquely_decodable": true
+      },
+      {
+        "code": [
+          "0",
+          "01",
+          "10"
+        ],
+        "residual_closure": [
+          "0",
+          "1"
+        ],
+        "uniquely_decodable": false
+      },
+      {
+        "code": [
+          "0",
+          "01"
+        ],
+        "residual_closure": [
+          "1"
+        ],
+        "uniquely_decodable": true
+      },
+      {
+        "code": [
+          "00",
+          "01",
+          "10",
+          "11"
+        ],
+        "residual_closure": [],
+        "uniquely_decodable": true
+      },
+      {
+        "code": [
+          "110",
+          "11",
+          "10"
+        ],
+        "residual_closure": [
+          "0"
+        ],
+        "uniquely_decodable": true
+      },
+      {
+        "code": [
+          "110",
+          "11",
+          "100",
+          "00",
+          "10"
+        ],
+        "residual_closure": [
+          "0"
+        ],
+        "uniquely_decodable": true
+      }
+    ],
+    "ex_5_28": {
+      "average_length": 1.75,
+      "codes": [
+        "0",
+        "10",
+        "110",
+        "111"
+      ]
+    }
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch05_batch02.py": "98d1c615bd00fc402b8716b8e9906601e87f4d9d1ce0ad315deb753e022aa225",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

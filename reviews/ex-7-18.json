@@ -10,7 +10,7 @@
   "exercise_id": "7.18",
   "file_sha256": {
     "artifacts/ch07/second-batch/results.json": "eec642704dc20b753f1e34bfd38a2351b3cafb60a7c6a2477d5fa2a5fc8c93ea",
-    "solutions/ch07/ex-7-18.md": "9f68e186b052423593f4b2cdc8e7c343c4df486b1a424b88b34fa3aec83d9597",
+    "solutions/ch07/ex-7-18.md": "f74de594eec3a0a39facd3e82c1e31003506afe474ebb1c06deeab73cfb2048c",
     "src/information_theory/ch07/second_batch.py": "55845af8aa3c0f6c09f22a0201e7cecb4e1766d1b7029c872e242242e826651e",
     "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
     "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
@@ -20,6 +20,14 @@
   "inventory_entry_sha256": "7c4d0330ba2e24c946383893d23fc4aee7a126e260edd51521c8f9c48e93e3d6",
   "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
   "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "f74de594eec3a0a39facd3e82c1e31003506afe474ebb1c06deeab73cfb2048c",
+      "old_solution_sha256": "9f68e186b052423593f4b2cdc8e7c343c4df486b1a424b88b34fa3aec83d9597",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
   "reviewer": "create_information_theory_repository",
   "schema_version": 1,
   "submission_sha256": "e4fda4db1fd5fe6d6b7b0f9cbc6dc2d03a22473fc242ef69ec69ff5687894d68",

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.19",
+  "file_sha256": {
+    "solutions/ch10/ex-10-19.md": "e2b446844af7a7f3d467096922e12dde35ec5952ad30a2c53ac41d5364701816"
+  },
+  "inventory_entry_sha256": "a939df5bc568b8ed27a9f0277377b353c85a73fa8644ab98f3fab4e904c2d7ad",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "a7c56249fe845edbd738b4d68ad28eb05e25aa581f065ebe1c0690abb6a4221b",
+  "summary": "Inspected the single-index/two-reconstruction diagram on page 345. Checked the vector reproduction characterization with two constraints, its converse and standard random-covering achievability, separate-rate bounds and the independent-bit versus identical-criterion examples.",
+  "verdict": "accepted"
+}

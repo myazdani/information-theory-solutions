@@ -1,0 +1,29 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.8",
+  "file_sha256": {
+    "solutions/ch11/ex-11-8.md": "8dd72b6e2caf2aa9d3085d0acecc3cb3714bf22224da564b5942c333e7ba5da9"
+  },
+  "inventory_entry_sha256": "9407ec11bea8581630c2ff2dfd021e09bdd04213cd4ad660575aa40af891900e",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "8dd72b6e2caf2aa9d3085d0acecc3cb3714bf22224da564b5942c333e7ba5da9",
+      "old_solution_sha256": "920245242120a2a1635635575892c2404e7c08336f05016e7d734aa1c10e86f9",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "d15f15deeca52dce413e2c08ecbaebd4e0408f1605c4fbb411384311882adfbd",
+  "summary": "Visually inspected the variance-parameter Gaussian and rate-parameter exponential models across pages 401\u2013402. Checked both scores, Fisher information, one-observation and n-observation Cramer\u2013Rao bounds and the Gaussian attainment example.",
+  "verdict": "accepted"
+}

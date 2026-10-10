@@ -1,0 +1,47 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "corrected_factorial_bound": true,
+    "geometric_rate_formula": true,
+    "large_n_printed_bound": true,
+    "state_rate_formula": true,
+    "state_ratio": true,
+    "testing_direction_value": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch11.second_batch --output artifacts/ch11/second-batch",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch11.second_batch",
+  "results": {
+    "11.12.stein_exponent_bits": 0.25,
+    "11.15.conditional_distribution": [
+      0.21391279839588373,
+      0.10695639919794186,
+      0.1697827006015436,
+      0.1697827006015436,
+      0.1697827006015436,
+      0.1697827006015436
+    ],
+    "11.15.exponent_bits": 0.02672387398381058,
+    "11.15.normalizer": 5.88988157484231,
+    "11.18.geometric_exponent_bits": 0.7548875021634686,
+    "11.18.geometric_exponent_nats": 0.5232481437645479,
+    "11.20.printed_upper_failures_1_to_100": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch11/second_batch.py": "bacd965f74bb75ea4131e769807654597f32dca029bf47a20db8877d7a25c678",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

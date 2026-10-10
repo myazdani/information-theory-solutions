@@ -1,0 +1,29 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.3",
+  "file_sha256": {
+    "solutions/ch11/ex-11-3.md": "844339f3fe25da1c71d2bab308e242c6b6b933f0f460c4b76bbadc821dc0515c"
+  },
+  "inventory_entry_sha256": "dd6c99daeeaf6e93a5f1f5a66bbdd60258370cd488160a214966475f4a35ab56",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "844339f3fe25da1c71d2bab308e242c6b6b933f0f460c4b76bbadc821dc0515c",
+      "old_solution_sha256": "c612771dd94471230b51686be96f49f55e699b1287b7441e853097098c6d8fa8",
+      "reviewer": "create_information_theory_repository",
+      "summary": "Independently verified the only post-review edit replaces the two raw less-than tokens in the tilt range with separated TeX lt commands. Mathematical meaning unchanged."
+    }
+  ],
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "5c56fcc5678a7e1f73adf74440aedd16015ded526c3992d890bb1ea6531452ff",
+  "summary": "Visually inspected both coding-error exponent questions on page 400. Checked convex feasible entropy superlevel sets, Lagrange stationary tilt, active and inactive constraints, strict-convexity uniqueness and support cases. Verified the two Bernoulli parameter regions and distinctions between positive exponent, entropy-rate boundary and full-alphabet rate.",
+  "verdict": "accepted"
+}

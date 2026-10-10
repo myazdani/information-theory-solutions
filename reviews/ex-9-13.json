@@ -1,0 +1,35 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "9.13",
+  "file_sha256": {
+    "artifacts/ch09/feedback/results.json": "87df9e17b85416999fab484e27349d1ae57e8ea407df7b7aa9755035b5c7b97f",
+    "solutions/ch09/ex-9-13.md": "05b76867a673c8d7ff11fbd0118c032567a7d6a8b8a7bc3d77b20568b9fc5d48",
+    "src/information_theory/ch09/feedback.py": "f0daa282c3ce4538aec44715c1bb9c3134ca104bc292562eff9becd8addfaabc",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "tests/ch09/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch09/test_feedback.py": "158e9df5d25ff369981e060e114e3fa06279398fe2b639669101ae8be4360eb5"
+  },
+  "inventory_entry_sha256": "d29b1e74298e27243f4c611d81c8c6988510724898e8494cd2c9eba63a40a826",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "05b76867a673c8d7ff11fbd0118c032567a7d6a8b8a7bc3d77b20568b9fc5d48",
+      "old_solution_sha256": "8fead78e9f47cc238e5b1b5ce3761a0e46d3a6d6ed3831f199ac3415644b8b20",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "d253662caf327fec0038d26efcec8c887623f818ccb60b4cc765e55c81ce9a81",
+  "summary": "Visually inspected printed page 294. Independently derived both noise-eigenmode water-filling regimes and the causal Gaussian covariance determinant. Checked Cauchy\u2013Schwarz optimization of feedback coefficients, elimination of residual innovation, monotonicity and strict-concavity proof for the unique scalar root, the attaining strategy, total-versus-per-use units, zero power and singular noise endpoints. Inspected the corrected implementation and independently reran 48 deterministic covariance, power, dense-grid and feedback-gain checks, plus four chapter tests. Verified the displayed representative numerical values.",
+  "verdict": "accepted"
+}

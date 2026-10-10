@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.8",
+  "file_sha256": {
+    "solutions/ch16/ex-16-8.md": "1e9b0dd262cab2bca24397b2dff3add0a7678c5a134566f43430fbd4d183ae1f"
+  },
+  "inventory_entry_sha256": "5f79d9c8c2c8f0a5b83533510461e5839781690e859505a16c42b467a1075737",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "290ebf96c55e29d06c9285f4f48028e7e1f8fe5fcef3c5917849964a2280a4b0",
+  "summary": "Visually inspected original PDF pp652\u2013655. Verified printed double-exponential scales, normalization, raw-infinite-growth counterexample and Fatou/Markov competitive bound.",
+  "verdict": "accepted"
+}

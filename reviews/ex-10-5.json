@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.5",
+  "file_sha256": {
+    "solutions/ch10/ex-10-5.md": "a0ed1ba70bf75734335135bdf3981aefc2de867c81aa4a69fb009b4babb56c88"
+  },
+  "inventory_entry_sha256": "806c9069a7e1bc03ab906bf0521652df35ae648540667000de45944395a204ff",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "6f1c0f62435d2db0610761919ac6f33c45e78c4a4a435598ec9bda11835f09aa",
+  "summary": "Inspected the finite uniform source and Hamming cost on page 337. Checked the error-indicator entropy bound, its monotonic range, uniform backward-channel achievability, zero-rate threshold and one-symbol degeneracy.",
+  "verdict": "accepted"
+}

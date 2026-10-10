@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.17",
+  "file_sha256": {
+    "solutions/ch11/ex-11-17.md": "fafc4549ffc869b15387fea4e11f7053add31ccc15960e769a7c9b502a5e7be4"
+  },
+  "inventory_entry_sha256": "450c7a327e2c6ed3ec82cfa3d1ec28d385b175783d85f3264f54a0a23af0b728",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "edca31376da563ae941fd59cc9f800b816403f4df210f8bbd004cbb5a6dcee32",
+  "summary": "Visually inspected the expected log-likelihood definition and both parts across pages 404\u2013405. Checked the entropy-plus-divergence identity, maximizing true density, identifiability qualification and support mismatch.",
+  "verdict": "accepted"
+}

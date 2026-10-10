@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "solutions": [
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "16.1",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-1.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [],
+      "id": "16.2",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-2.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "16.3",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-3.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [],
+      "id": "16.4",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-4.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c"
+      ],
+      "id": "16.5",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-5.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [],
+      "id": "16.6",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-6.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b"
+      ],
+      "id": "16.7",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-7.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "id": "16.8",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-8.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/experiments/ch16_portfolio.py",
+        "tests/test_ch16_portfolio.py",
+        "artifacts/ch16/portfolio/wealth.svg",
+        "artifacts/ch16/portfolio/wealth.png"
+      ],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f"
+      ],
+      "id": "16.9",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch16/portfolio/results.json"
+      ],
+      "path": "solutions/ch16/ex-16-9.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [],
+      "id": "16.10",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-10.md"
+    },
+    {
+      "artifacts": [
+        "src/information_theory/experiments/ch16_portfolio.py",
+        "tests/test_ch16_portfolio.py",
+        "artifacts/ch16/portfolio/wealth.svg",
+        "artifacts/ch16/portfolio/wealth.png"
+      ],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [],
+      "id": "16.11",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch16/portfolio/results.json"
+      ],
+      "path": "solutions/ch16/ex-16-11.md"
+    },
+    {
+      "artifacts": [],
+      "author": "solve_information_theory_advanced",
+      "covered_subparts": [],
+      "id": "16.12",
+      "numerical": false,
+      "path": "solutions/ch16/ex-16-12.md"
+    }
+  ]
+}

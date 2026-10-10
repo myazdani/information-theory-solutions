@@ -1,0 +1,29 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.7",
+  "file_sha256": {
+    "solutions/ch16/ex-16-7.md": "7af84adb778420d7d8ab56c5f5d4f784843493ea7832a86f5fe88c6a35486388"
+  },
+  "inventory_entry_sha256": "f0f84635517912a13b83cf9425224bd363187898b36e514453c7e8be26e973b0",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "7af84adb778420d7d8ab56c5f5d4f784843493ea7832a86f5fe88c6a35486388",
+      "old_solution_sha256": "deaf038b4cc9a885e87b5884c7ca7977f2b91286a08b10bcc239477b13afc747",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "f7635bfffa4e3c6341ec9eaee0248df6d8e197f3415a8c386437f24a8cdc7e0a",
+  "summary": "Visually inspected original PDF pp652\u2013655. Checked positivity interval, leverage optimum, KL identity and endpoint admissibility alternatives.",
+  "verdict": "accepted"
+}

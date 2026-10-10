@@ -1,0 +1,76 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "bernoulli_exact_quarter": true,
+    "exponential_variance": true,
+    "normalized_uniform_not_uniform": true,
+    "simplex_means": true,
+    "spacing_variance": true,
+    "three_symbol_exact_quarter": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch11.third_batch --output artifacts/ch11/third-batch",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch11.third_batch",
+  "results": {
+    "11.26.bernoulli_exact_counts": [
+      {
+        "conditional_probability": "1/4",
+        "n": 4
+      },
+      {
+        "conditional_probability": "1/4",
+        "n": 8
+      },
+      {
+        "conditional_probability": "1/4",
+        "n": 100
+      }
+    ],
+    "11.26.three_symbol_exact_counts": [
+      {
+        "conditional_probability": "1/4",
+        "n": 2
+      },
+      {
+        "conditional_probability": "1/4",
+        "n": 4
+      },
+      {
+        "conditional_probability": "1/4",
+        "n": 10
+      },
+      {
+        "conditional_probability": "1/4",
+        "n": 100
+      }
+    ],
+    "11.29.coordinate_means": [
+      0.33442189407342193,
+      0.33297816570074856,
+      0.3347117238325365
+    ],
+    "11.29.coordinate_variances": [
+      0.03221860051448894,
+      0.05543100910736756,
+      0.055857842818852366
+    ],
+    "11.29.dimension": 3,
+    "11.29.methods": [
+      "normalized_uniforms",
+      "normalized_exponentials",
+      "uniform_cut_spacings"
+    ],
+    "11.29.samples_per_method": 50000,
+    "11.29.uniform_simplex_theoretical_mean": 0.3333333333333333,
+    "11.29.uniform_simplex_theoretical_variance": 0.05555555555555555
+  },
+  "schema_version": 1,
+  "seed": 20261010,
+  "source_hashes": {
+    "src/information_theory/ch11/third_batch.py": "ea0518c166b7299967db728f1c4a26d154ae012f7cb8fc1963a87ab826cf6a66",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62"
+  }
+}

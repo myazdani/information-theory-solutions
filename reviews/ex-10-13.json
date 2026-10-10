@@ -1,0 +1,29 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.13",
+  "file_sha256": {
+    "solutions/ch10/ex-10-13.md": "4b59d076e1be9e81aced30e086fb5549aeb9d1f5071f5f416cb4f20765aa62b0"
+  },
+  "inventory_entry_sha256": "0196d0114fbf9d9d6ec079040c7c41d6fef4d30e6fc165b611c1d18a7a42f2fc",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "4b59d076e1be9e81aced30e086fb5549aeb9d1f5071f5f416cb4f20765aa62b0",
+      "old_solution_sha256": "81b9f07ff1cfc094154f7a5d215bdbd0b168686586be3e1687b1702751a23c85",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "84b835e81f6ea86bef59796dd3077ecee256d3ac3998da4d253108dbda0296e3",
+  "summary": "Visually inspected the four-by-four distortion matrix and all three parts on page 340. Verified reduction to the two class labels, zero-distortion entropy, the fair and nonuniform Bernoulli rate-distortion curves, backward-channel achievability and boundary cases. Inspected the corrected TeX separator.",
+  "verdict": "accepted"
+}

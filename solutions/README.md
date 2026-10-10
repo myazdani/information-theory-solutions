@@ -1,6 +1,6 @@
 # Exercise index
 
-**287 / 378 exercises independently accepted; 0 drafts; 91 pending.**
+**378 / 378 exercises independently accepted; 0 drafts; 0 pending.**
 
 Accepted means a separate reviewer checked every source subpart and the current files match the recorded hashes. Drafts are available for inspection but have not passed that acceptance gate. Pending entries have no submitted solution.
 
@@ -144,34 +144,34 @@ Data Compression
 | [5.15](ch05/ex-5-15.md) | 146 | accepted |
 | [5.16](ch05/ex-5-16.md) | 146 | accepted |
 | [5.17](ch05/ex-5-17.md) | 146 | accepted |
-| 5.18 | 147 | pending |
-| 5.19 | 147 | pending |
-| 5.20 | 147 | pending |
-| 5.21 | 148 | pending |
-| 5.22 | 148 | pending |
-| 5.23 | 148 | pending |
-| 5.24 | 148 | pending |
-| 5.25 | 148 | pending |
-| 5.26 | 149 | pending |
-| 5.27 | 149 | pending |
-| 5.28 | 150 | pending |
-| 5.29 | 151 | pending |
-| 5.30 | 151 | pending |
-| 5.31 | 152 | pending |
-| 5.32 | 153 | pending |
-| 5.33 | 154 | pending |
-| 5.34 | 154 | pending |
-| 5.35 | 155 | pending |
-| 5.36 | 155 | pending |
-| 5.37 | 155 | pending |
-| 5.38 | 155 | pending |
-| 5.39 | 156 | pending |
-| 5.40 | 156 | pending |
-| 5.41 | 156 | pending |
-| 5.42 | 157 | pending |
-| 5.43 | 157 | pending |
-| 5.44 | 157 | pending |
-| 5.45 | 157 | pending |
+| [5.18](ch05/ex-5-18.md) | 147 | accepted |
+| [5.19](ch05/ex-5-19.md) | 147 | accepted |
+| [5.20](ch05/ex-5-20.md) | 147 | accepted |
+| [5.21](ch05/ex-5-21.md) | 148 | accepted |
+| [5.22](ch05/ex-5-22.md) | 148 | accepted |
+| [5.23](ch05/ex-5-23.md) | 148 | accepted |
+| [5.24](ch05/ex-5-24.md) | 148 | accepted |
+| [5.25](ch05/ex-5-25.md) | 148 | accepted |
+| [5.26](ch05/ex-5-26.md) | 149 | accepted |
+| [5.27](ch05/ex-5-27.md) | 149 | accepted |
+| [5.28](ch05/ex-5-28.md) | 150 | accepted |
+| [5.29](ch05/ex-5-29.md) | 151 | accepted |
+| [5.30](ch05/ex-5-30.md) | 151 | accepted |
+| [5.31](ch05/ex-5-31.md) | 152 | accepted |
+| [5.32](ch05/ex-5-32.md) | 153 | accepted |
+| [5.33](ch05/ex-5-33.md) | 154 | accepted |
+| [5.34](ch05/ex-5-34.md) | 154 | accepted |
+| [5.35](ch05/ex-5-35.md) | 155 | accepted |
+| [5.36](ch05/ex-5-36.md) | 155 | accepted |
+| [5.37](ch05/ex-5-37.md) | 155 | accepted |
+| [5.38](ch05/ex-5-38.md) | 155 | accepted |
+| [5.39](ch05/ex-5-39.md) | 156 | accepted |
+| [5.40](ch05/ex-5-40.md) | 156 | accepted |
+| [5.41](ch05/ex-5-41.md) | 156 | accepted |
+| [5.42](ch05/ex-5-42.md) | 157 | accepted |
+| [5.43](ch05/ex-5-43.md) | 157 | accepted |
+| [5.44](ch05/ex-5-44.md) | 157 | accepted |
+| [5.45](ch05/ex-5-45.md) | 157 | accepted |
 
 ## Chapter 6
 
@@ -278,7 +278,7 @@ Gaussian Channel
 | [9.10](ch09/ex-9-10.md) | 293 | accepted |
 | [9.11](ch09/ex-9-11.md) | 294 | accepted |
 | [9.12](ch09/ex-9-12.md) | 294 | accepted |
-| 9.13 | 294 | pending |
+| [9.13](ch09/ex-9-13.md) | 294 | accepted |
 | [9.14](ch09/ex-9-14.md) | 294 | accepted |
 | [9.15](ch09/ex-9-15.md) | 295 | accepted |
 | [9.16](ch09/ex-9-16.md) | 295 | accepted |
@@ -295,26 +295,26 @@ Rate Distortion Theory
 
 | Exercise | Printed page | Status |
 | --- | ---: | --- |
-| 10.1 | 336 | pending |
-| 10.2 | 336 | pending |
-| 10.3 | 337 | pending |
-| 10.4 | 337 | pending |
-| 10.5 | 337 | pending |
-| 10.6 | 337 | pending |
-| 10.7 | 338 | pending |
-| 10.8 | 338 | pending |
-| 10.9 | 339 | pending |
-| 10.10 | 339 | pending |
-| 10.11 | 339 | pending |
-| 10.12 | 340 | pending |
-| 10.13 | 340 | pending |
-| 10.14 | 340 | pending |
-| 10.15 | 341 | pending |
-| 10.16 | 341 | pending |
-| 10.17 | 344 | pending |
-| 10.18 | 344 | pending |
-| 10.19 | 345 | pending |
-| 10.20 | 345 | pending |
+| [10.1](ch10/ex-10-1.md) | 336 | accepted |
+| [10.2](ch10/ex-10-2.md) | 336 | accepted |
+| [10.3](ch10/ex-10-3.md) | 337 | accepted |
+| [10.4](ch10/ex-10-4.md) | 337 | accepted |
+| [10.5](ch10/ex-10-5.md) | 337 | accepted |
+| [10.6](ch10/ex-10-6.md) | 337 | accepted |
+| [10.7](ch10/ex-10-7.md) | 338 | accepted |
+| [10.8](ch10/ex-10-8.md) | 338 | accepted |
+| [10.9](ch10/ex-10-9.md) | 339 | accepted |
+| [10.10](ch10/ex-10-10.md) | 339 | accepted |
+| [10.11](ch10/ex-10-11.md) | 339 | accepted |
+| [10.12](ch10/ex-10-12.md) | 340 | accepted |
+| [10.13](ch10/ex-10-13.md) | 340 | accepted |
+| [10.14](ch10/ex-10-14.md) | 340 | accepted |
+| [10.15](ch10/ex-10-15.md) | 341 | accepted |
+| [10.16](ch10/ex-10-16.md) | 341 | accepted |
+| [10.17](ch10/ex-10-17.md) | 344 | accepted |
+| [10.18](ch10/ex-10-18.md) | 344 | accepted |
+| [10.19](ch10/ex-10-19.md) | 345 | accepted |
+| [10.20](ch10/ex-10-20.md) | 345 | accepted |
 
 ## Chapter 11
 
@@ -322,35 +322,35 @@ Information Theory and Statistics
 
 | Exercise | Printed page | Status |
 | --- | ---: | --- |
-| 11.1 | 399 | pending |
-| 11.2 | 400 | pending |
-| 11.3 | 400 | pending |
-| 11.4 | 400 | pending |
-| 11.5 | 401 | pending |
-| 11.6 | 401 | pending |
-| 11.7 | 401 | pending |
-| 11.8 | 401 | pending |
-| 11.9 | 402 | pending |
-| 11.10 | 402 | pending |
-| 11.11 | 402 | pending |
-| 11.12 | 403 | pending |
-| 11.13 | 403 | pending |
-| 11.14 | 404 | pending |
-| 11.15 | 404 | pending |
-| 11.16 | 404 | pending |
-| 11.17 | 404 | pending |
-| 11.18 | 405 | pending |
-| 11.19 | 405 | pending |
-| 11.20 | 405 | pending |
-| 11.21 | 406 | pending |
-| 11.22 | 406 | pending |
-| 11.23 | 406 | pending |
-| 11.24 | 407 | pending |
-| 11.25 | 407 | pending |
-| 11.26 | 407 | pending |
-| 11.27 | 408 | pending |
-| 11.28 | 408 | pending |
-| 11.29 | 408 | pending |
+| [11.1](ch11/ex-11-1.md) | 399 | accepted |
+| [11.2](ch11/ex-11-2.md) | 400 | accepted |
+| [11.3](ch11/ex-11-3.md) | 400 | accepted |
+| [11.4](ch11/ex-11-4.md) | 400 | accepted |
+| [11.5](ch11/ex-11-5.md) | 401 | accepted |
+| [11.6](ch11/ex-11-6.md) | 401 | accepted |
+| [11.7](ch11/ex-11-7.md) | 401 | accepted |
+| [11.8](ch11/ex-11-8.md) | 401 | accepted |
+| [11.9](ch11/ex-11-9.md) | 402 | accepted |
+| [11.10](ch11/ex-11-10.md) | 402 | accepted |
+| [11.11](ch11/ex-11-11.md) | 402 | accepted |
+| [11.12](ch11/ex-11-12.md) | 403 | accepted |
+| [11.13](ch11/ex-11-13.md) | 403 | accepted |
+| [11.14](ch11/ex-11-14.md) | 404 | accepted |
+| [11.15](ch11/ex-11-15.md) | 404 | accepted |
+| [11.16](ch11/ex-11-16.md) | 404 | accepted |
+| [11.17](ch11/ex-11-17.md) | 404 | accepted |
+| [11.18](ch11/ex-11-18.md) | 405 | accepted |
+| [11.19](ch11/ex-11-19.md) | 405 | accepted |
+| [11.20](ch11/ex-11-20.md) | 405 | accepted |
+| [11.21](ch11/ex-11-21.md) | 406 | accepted |
+| [11.22](ch11/ex-11-22.md) | 406 | accepted |
+| [11.23](ch11/ex-11-23.md) | 406 | accepted |
+| [11.24](ch11/ex-11-24.md) | 407 | accepted |
+| [11.25](ch11/ex-11-25.md) | 407 | accepted |
+| [11.26](ch11/ex-11-26.md) | 407 | accepted |
+| [11.27](ch11/ex-11-27.md) | 408 | accepted |
+| [11.28](ch11/ex-11-28.md) | 408 | accepted |
+| [11.29](ch11/ex-11-29.md) | 408 | accepted |
 
 ## Chapter 12
 
@@ -368,7 +368,7 @@ Maximum Entropy
 | [12.8](ch12/ex-12-8.md) | 422 | accepted |
 | [12.9](ch12/ex-12-9.md) | 423 | accepted |
 | [12.10](ch12/ex-12-10.md) | 423 | accepted |
-| 12.11 | 423 | pending |
+| [12.11](ch12/ex-12-11.md) | 423 | accepted |
 | [12.12](ch12/ex-12-12.md) | 423 | accepted |
 | [12.13](ch12/ex-12-13.md) | 423 | accepted |
 | [12.14](ch12/ex-12-14.md) | 423 | accepted |
@@ -469,18 +469,18 @@ Information Theory and Portfolio Theory
 
 | Exercise | Printed page | Status |
 | --- | ---: | --- |
-| 16.1 | 652 | pending |
-| 16.2 | 652 | pending |
-| 16.3 | 652 | pending |
-| 16.4 | 653 | pending |
-| 16.5 | 653 | pending |
-| 16.6 | 653 | pending |
-| 16.7 | 653 | pending |
-| 16.8 | 654 | pending |
-| 16.9 | 654 | pending |
-| 16.10 | 655 | pending |
-| 16.11 | 655 | pending |
-| 16.12 | 655 | pending |
+| [16.1](ch16/ex-16-1.md) | 652 | accepted |
+| [16.2](ch16/ex-16-2.md) | 652 | accepted |
+| [16.3](ch16/ex-16-3.md) | 652 | accepted |
+| [16.4](ch16/ex-16-4.md) | 653 | accepted |
+| [16.5](ch16/ex-16-5.md) | 653 | accepted |
+| [16.6](ch16/ex-16-6.md) | 653 | accepted |
+| [16.7](ch16/ex-16-7.md) | 653 | accepted |
+| [16.8](ch16/ex-16-8.md) | 654 | accepted |
+| [16.9](ch16/ex-16-9.md) | 654 | accepted |
+| [16.10](ch16/ex-16-10.md) | 655 | accepted |
+| [16.11](ch16/ex-16-11.md) | 655 | accepted |
+| [16.12](ch16/ex-16-12.md) | 655 | accepted |
 
 ## Chapter 17
 

@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.9",
+  "file_sha256": {
+    "solutions/ch11/ex-11-9.md": "c452688adbf1a26348f10fac9b739e803d10fc7853459e7d509a833e6719bf69"
+  },
+  "inventory_entry_sha256": "95b33aaf3a671b51ac24b731189c6125e5beaadb63a37ca4626fb7eb34bf9023",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "bf252ae7be7f5c68641c0f1c802b6d81aa6bb773725a5943da8e09772e7b0684",
+  "summary": "Visually inspected the conditional-independence model on page 402. Checked joint score additivity, zero-mean-score normalization and elimination of the independent cross term, with the needed differentiation assumptions.",
+  "verdict": "accepted"
+}

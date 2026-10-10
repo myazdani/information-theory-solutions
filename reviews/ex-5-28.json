@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "5.28",
+  "file_sha256": {
+    "artifacts/ch05/batch02/results.json": "959685e9ca84de91e464b2487a237b0adc8f0a89ba528077f1d396ddacec3276",
+    "solutions/ch05/ex-5-28.md": "f45f4717eab625a22ca966f36d09a87265362f8bdb577a4ba18b08d8a941cbe4",
+    "src/information_theory/ch05_batch02.py": "98d1c615bd00fc402b8716b8e9906601e87f4d9d1ce0ad315deb753e022aa225",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  },
+  "inventory_entry_sha256": "147c8a7e90b140c00d9f655a63152a12a0c0c9cfe4103507f967f3ffaf595dc8",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "62a3979e3f0b6c682d70c763051fbb320b870d183b2851ddd9b941561621f69f",
+  "summary": "Visually inspected original PDF pp147\u2013150, all code lists and subparts. Checked suffix parsing, weighted costs, equal-block injectivity, finite-tree continuity, Kraft/maximal-code theorem applicability (primary publisher source independently verified), uniform-code redundancy maximization, Huffman threshold proof, residual automaton examples and cumulative Shannon coding as applicable. Independently reran batch02 and matched all results/checks.",
+  "verdict": "accepted"
+}

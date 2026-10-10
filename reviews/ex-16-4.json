@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.4",
+  "file_sha256": {
+    "solutions/ch16/ex-16-4.md": "7ef6342c37bff601387dab35a36f8591e7c53ea6ed9032e43c39086390e7bcd9"
+  },
+  "inventory_entry_sha256": "ba4c3269c55d3cae20a845a706e9960abffdd030097fd41d29800e7600cd03be",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "d24eaa9dc0211a039b8cde48f743801478db249329def28609a9855e1f93bef2",
+  "summary": "Visually inspected original PDF pp652\u2013655. Verified exact pointwise equivalence of augmented and original portfolio sets.",
+  "verdict": "accepted"
+}

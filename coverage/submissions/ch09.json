@@ -125,6 +125,21 @@
       "path": "solutions/ch09/ex-9-12.md"
     },
     {
+      "artifacts": [
+        "src/information_theory/ch09/feedback.py",
+        "tests/ch09/__init__.py",
+        "tests/ch09/test_feedback.py"
+      ],
+      "author": "solve_information_theory_channels",
+      "covered_subparts": [],
+      "id": "9.13",
+      "numerical": true,
+      "numerical_evidence": [
+        "artifacts/ch09/feedback/results.json"
+      ],
+      "path": "solutions/ch09/ex-9-13.md"
+    },
+    {
       "artifacts": [],
       "author": "solve_information_theory_channels",
       "covered_subparts": [

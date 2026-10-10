@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.25",
+  "file_sha256": {
+    "solutions/ch11/ex-11-25.md": "de95a07a192a602bdd1467fa15279a440ece5268dd0649515fd254e8db6efa98"
+  },
+  "inventory_entry_sha256": "5d29c4f50e5397420b833b303fb3a357f811dabec8c5fefcb233c035d8deeeae",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "0cace06585e1700723fda168663a400c48129640397ec0381820b7c4f6868d64",
+  "summary": "Visually inspected the binomial conditioning event on page 407. Checked exponential tilt remains binomial, its target-mean parameter, below-mean and equality limits, endpoint point mass, impossible conditioning and degenerate original distributions.",
+  "verdict": "accepted"
+}

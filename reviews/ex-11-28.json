@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.28",
+  "file_sha256": {
+    "solutions/ch11/ex-11-28.md": "fadcf4969c77cd281e4672bcd4e2db5bc02864824a54a8afd2e9951a6dff2103"
+  },
+  "inventory_entry_sha256": "664707353ebea167d11298a5e42242723967638bba3a162dbfdcdce18fe149a1",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "3843a61997676229ab0a6b17c9d24b9965633df7f608d182d96fb54740671f0b",
+  "summary": "Visually inspected both variance constraints on printed page 408. Checked the exact type-feasible set and its nonconvexity, KL exponent and global center/tilt parameterization. Independently derived strict feasible approximation by moving mass toward a support point closest to the mean. Verified the correction distinguishing non-strict part a from strict part b: the same exponent holds for positive thresholds, while the literal event at nonpositive thresholds is impossible. The zero-variance sum formula is explicitly confined to the non-strict comparison.",
+  "verdict": "accepted"
+}

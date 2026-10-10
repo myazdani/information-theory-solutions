@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "5.19",
+  "file_sha256": {
+    "solutions/ch05/ex-5-19.md": "0135fdb83f94951f53ef80a8ba8dd03a9f4199b86ea8f9963aec0eadcf80d293"
+  },
+  "inventory_entry_sha256": "2ec628a361b7754a6472d191402843b89a10973cc6866afb329affe4fe67e951",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "e57abd01c993469e29c935aab0dd007c8cbc81af3acaebb20ed8c637f0ce00e4",
+  "summary": "Visually inspected original PDF pp147 and151\u2013157. Verified exact finite-tree minimax LP/dual, Gibbs one-unit relaxation and explicit support-aware infimum/attainment LP including singleton convention.",
+  "verdict": "accepted"
+}

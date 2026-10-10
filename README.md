@@ -2,9 +2,9 @@
 
 Original solutions to Thomas M. Cover and Joy A. Thomas, *Elements of Information Theory*, second edition (Wiley, 2006).
 
-**287 / 378 exercises independently accepted; 0 drafts; 91 pending.**
+**378 / 378 exercises independently accepted; 0 drafts; 0 pending.**
 
-This is an in-progress companion. The exercise index distinguishes independently reviewed solutions from drafts and work not yet submitted. A numbered exercise counts as accepted only when every inventoried subpart has been checked and the review still matches the exact solution and numerical evidence. Automated checks verify evidence integrity; they do not certify a proof.
+All inventoried exercises have independently reviewed solutions. The exercise index distinguishes independently reviewed solutions from drafts and work not yet submitted. A numbered exercise counts as accepted only when every inventoried subpart has been checked and the review still matches the exact solution and numerical evidence. Automated checks verify evidence integrity; they do not certify a proof.
 
 ## Browse
 
@@ -19,18 +19,18 @@ This is an in-progress companion. The exercise index distinguishes independently
 | 2 | [Entropy, Relative Entropy, and Mutual Information](solutions/README.md#chapter-2) | 48 | 0 | 0 | 48 |
 | 3 | [Asymptotic Equipartition Property](solutions/README.md#chapter-3) | 13 | 0 | 0 | 13 |
 | 4 | [Entropy Rates of a Stochastic Process](solutions/README.md#chapter-4) | 35 | 0 | 0 | 35 |
-| 5 | [Data Compression](solutions/README.md#chapter-5) | 17 | 0 | 28 | 45 |
+| 5 | [Data Compression](solutions/README.md#chapter-5) | 45 | 0 | 0 | 45 |
 | 6 | [Gambling and Data Compression](solutions/README.md#chapter-6) | 18 | 0 | 0 | 18 |
 | 7 | [Channel Capacity](solutions/README.md#chapter-7) | 37 | 0 | 0 | 37 |
 | 8 | [Differential Entropy](solutions/README.md#chapter-8) | 11 | 0 | 0 | 11 |
-| 9 | [Gaussian Channel](solutions/README.md#chapter-9) | 21 | 0 | 1 | 22 |
-| 10 | [Rate Distortion Theory](solutions/README.md#chapter-10) | 0 | 0 | 20 | 20 |
-| 11 | [Information Theory and Statistics](solutions/README.md#chapter-11) | 0 | 0 | 29 | 29 |
-| 12 | [Maximum Entropy](solutions/README.md#chapter-12) | 21 | 0 | 1 | 22 |
+| 9 | [Gaussian Channel](solutions/README.md#chapter-9) | 22 | 0 | 0 | 22 |
+| 10 | [Rate Distortion Theory](solutions/README.md#chapter-10) | 20 | 0 | 0 | 20 |
+| 11 | [Information Theory and Statistics](solutions/README.md#chapter-11) | 29 | 0 | 0 | 29 |
+| 12 | [Maximum Entropy](solutions/README.md#chapter-12) | 22 | 0 | 0 | 22 |
 | 13 | [Universal Source Coding](solutions/README.md#chapter-13) | 11 | 0 | 0 | 11 |
 | 14 | [Kolmogorov Complexity](solutions/README.md#chapter-14) | 14 | 0 | 0 | 14 |
 | 15 | [Network Information Theory](solutions/README.md#chapter-15) | 36 | 0 | 0 | 36 |
-| 16 | [Information Theory and Portfolio Theory](solutions/README.md#chapter-16) | 0 | 0 | 12 | 12 |
+| 16 | [Information Theory and Portfolio Theory](solutions/README.md#chapter-16) | 12 | 0 | 0 | 12 |
 | 17 | [Inequalities in Information Theory](solutions/README.md#chapter-17) | 5 | 0 | 0 | 5 |
 
 ## Reproduce and check
@@ -48,6 +48,10 @@ For an experiment's exact command, dependencies, seed, and input/output hashes, 
 ## Reading conventions
 
 All logarithms are base 2 unless stated otherwise. Entropies are measured in bits; differential-entropy units are stated where needed. Each solution identifies its textbook exercise and printed page, states only the scope needed to follow the derivation, and develops an original argument. Fenced `math` blocks and GitHub-compatible inline math are used throughout.
+
+## Source qualifications
+
+Some printed problems have missing assumptions, ambiguous diagrams, or false boundary claims. Those solutions state the issue explicitly and give a justified interpretation or counterexample rather than assert an invalid proof. Examples include [7.34](solutions/ch07/ex-7-34.md), [9.4](solutions/ch09/ex-9-4.md), [10.16](solutions/ch10/ex-10-16.md), and [11.4](solutions/ch11/ex-11-4.md). The general solution to [12.11](solutions/ch12/ex-12-11.md) is a proved convergent finite-enumeration limit, not a closed-form classification or a finite two-sided optimality-gap certificate.
 
 ## Scope and rights
 

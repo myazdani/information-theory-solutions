@@ -1,0 +1,29 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.8",
+  "file_sha256": {
+    "solutions/ch10/ex-10-8.md": "d5c13bc53415e97ca24b477263e9d28d6cc2b301746bbd057113b3f7fcc4ed2d"
+  },
+  "inventory_entry_sha256": "6b14936644d344c189f39464fb256d1b3712dd5258d16fd96a7b26e227c5de07",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "d5c13bc53415e97ca24b477263e9d28d6cc2b301746bbd057113b3f7fcc4ed2d",
+      "old_solution_sha256": "7a86800740591b6b7e6868379f47ae46531cc937dced709fb1310fa9468c2d68",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "2e9380470b3ac74ce11b647c64f61789d40f9b65872b9df93c4f728807f01df4",
+  "summary": "Inspected the source assumptions and test-channel diagram across pages 338\u2013339. Verified the entropy lower bound, Gaussian perturbation variance and scaling, exact distortion D, mutual-information upper bound and Gaussian extremality. Checked the necessary positive-part interpretation and source-mean assumption.",
+  "verdict": "accepted"
+}

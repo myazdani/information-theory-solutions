@@ -1,0 +1,208 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "dyadic_codes_match_entropy": true,
+    "hundred_symbol_Kraft": true,
+    "marker_code_no_collision_through_4_symbols": true,
+    "mismatch_loss_matches_KL": true,
+    "quaternary_prefix": true,
+    "wine_mixture_better": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch05_batch03 --output artifacts/ch05/batch03",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch05_batch03",
+  "results": {
+    "ex_5_30": {
+      "D_p_q": 0.12499999999999994,
+      "D_q_p": 0.12500000000000006,
+      "H_p": 1.875,
+      "H_q": 2.0,
+      "L_C1_p": 1.875,
+      "L_C1_q": 2.125,
+      "L_C2_p": 2.0,
+      "L_C2_q": 2.0
+    },
+    "ex_5_31_uniform_three": {
+      "entropy": 1.584962500721156,
+      "nonsingular_mean": 1.3333333333333333
+    },
+    "ex_5_32": {
+      "mixture_huffman": {
+        "average_length": 2.347826086956522,
+        "average_length_exact": "54/23",
+        "codes": [
+          "11",
+          "10",
+          "00",
+          "0111",
+          "010",
+          "0110"
+        ],
+        "dummy_leaves": 0,
+        "kraft": 1.0,
+        "lengths": [
+          2,
+          2,
+          2,
+          4,
+          3,
+          4
+        ],
+        "merges": [
+          [
+            "1",
+            "2"
+          ],
+          [
+            "2",
+            "3"
+          ],
+          [
+            "4",
+            "5"
+          ],
+          [
+            "6",
+            "8"
+          ],
+          [
+            "9",
+            "14"
+          ]
+        ]
+      },
+      "sequential_mean": 2.391304347826087,
+      "sequential_mean_exact": "55/23"
+    },
+    "ex_5_33": {
+      "binary_Shannon_lengths": [
+        1,
+        2,
+        4
+      ],
+      "binary_huffman_lengths": [
+        1,
+        2,
+        2
+      ],
+      "minimum_D_equal_means": 10
+    },
+    "ex_5_38": {
+      "binary": {
+        "average_length": 2.52,
+        "average_length_exact": "63/25",
+        "codes": [
+          "01",
+          "10",
+          "110",
+          "111",
+          "001",
+          "000"
+        ],
+        "dummy_leaves": 0,
+        "kraft": 1.0,
+        "lengths": [
+          2,
+          2,
+          3,
+          3,
+          3,
+          3
+        ],
+        "merges": [
+          [
+            "2",
+            "3"
+          ],
+          [
+            "4",
+            "4"
+          ],
+          [
+            "5",
+            "6"
+          ],
+          [
+            "6",
+            "8"
+          ],
+          [
+            "11",
+            "14"
+          ]
+        ]
+      },
+      "quaternary": {
+        "average_length": 1.36,
+        "average_length_exact": "34/25",
+        "codes": [
+          "1",
+          "2",
+          "33",
+          "0",
+          "32",
+          "31"
+        ],
+        "dummy_leaves": 1,
+        "kraft": 0.9375,
+        "lengths": [
+          1,
+          1,
+          2,
+          1,
+          2,
+          2
+        ],
+        "merges": [
+          [
+            "0",
+            "2",
+            "3",
+            "4"
+          ],
+          [
+            "4",
+            "6",
+            "6",
+            "9"
+          ]
+        ]
+      }
+    },
+    "ex_5_40": {
+      "case_a_rate": 1.0,
+      "case_b_rate": 0.75,
+      "case_c_mean_length": 1.75,
+      "case_c_rate": 0.8571428571428571,
+      "source_rate": 1.5
+    },
+    "ex_5_43": {
+      "mean": 1.3768115942028984,
+      "prefix_only_mean": 2.0,
+      "uniquely_decodable_code": [
+        "A",
+        "B",
+        "C",
+        "A0",
+        "A1",
+        "B0"
+      ]
+    },
+    "ex_5_44": {
+      "average_length": 6.72,
+      "length_6_count": 28,
+      "length_7_count": 72
+    }
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch05_batch01.py": "746cc40acf41e91f2dd1d80a79149d467d7f032c7288b859d5f9cfb50b9572b7",
+    "src/information_theory/ch05_batch03.py": "0e3aa027ec2356c194cc15b3a2f7a37a874aea23ce94b2de6b3913a8fe6946b1",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

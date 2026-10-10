@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.9",
+  "file_sha256": {
+    "artifacts/ch16/portfolio/results.json": "c7799df469f1f8140603e9a481bf2921a627e39b4d541c991333103803297dca",
+    "artifacts/ch16/portfolio/wealth.png": "dbf122b3acfe0e78b44d94f66d6d3005316239224a5b1f82946899c6546c2073",
+    "artifacts/ch16/portfolio/wealth.svg": "8f7f7b463323866ee6aa203b0c9a308bcb80d708516eb65a3d0bc16cccaa5abc",
+    "solutions/ch16/ex-16-9.md": "d6dea76a60e691e8d340db1cae9d0a9df69fcabcb6f5239871693e9f8d2a8cdb",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/experiments/ch16_portfolio.py": "8f6501192f451bbacf434574c252b49639456c6ec3034f124f91c4f3e9bdf4c2",
+    "tests/test_ch16_portfolio.py": "ae965ff2e301271ca1fcb0f4d4e14dfc8f583b53adf23b6bbeadd45337ef6346"
+  },
+  "inventory_entry_sha256": "2a9d2f23b255db2dc34f90d8af3f59787ae926dc1bafb565b37174c290e01199",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "b4ce2323ae6cac789714532a325de743ca62b976f67f28bcaf0d634688b1edbd",
+  "summary": "Visually inspected original PDF pp654\u2013655. Verified exact wealth polynomial, max/integral, order-dependent allocation and invariant wealth; independently reran experiment and viewed plot. Replaced sole raw fenced less-than by equivalent TeX lt token before acceptance.",
+  "verdict": "accepted"
+}

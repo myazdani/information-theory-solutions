@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "5.26",
+  "file_sha256": {
+    "solutions/ch05/ex-5-26.md": "3a091e156bce5bd852c122a92a3686591d3bf3e4ae4312a865c18c1a8cd3a59b"
+  },
+  "inventory_entry_sha256": "188141e530f36887af727de36d89d2d7965be4f39a7a3e71f66edf3aa1c4b9ba",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "30692fa17b476ab2e1dbd6809dd1cdac94bc840b3459d0c8d3539a9376602195",
+  "summary": "Visually inspected original PDF pp147\u2013150, all code lists and subparts. Checked suffix parsing, weighted costs, equal-block injectivity, finite-tree continuity, Kraft/maximal-code theorem applicability (primary publisher source independently verified), uniform-code redundancy maximization, Huffman threshold proof, residual automaton examples and cumulative Shannon coding as applicable. Independently reran batch02 and matched all results/checks.",
+  "verdict": "accepted"
+}

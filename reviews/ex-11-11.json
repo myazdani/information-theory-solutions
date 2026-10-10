@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.11",
+  "file_sha256": {
+    "solutions/ch11/ex-11-11.md": "aaf42b06db5fa016924fc4ef0136ae827d937c8b07705d68f277bbc7ea14f134"
+  },
+  "inventory_entry_sha256": "813a12ed3671f208b72eb6d947028948e88f3e2c9a37f10c2c9936dde2a8a326",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "659074c1fb4807abef4e81227a713f99c909f5a10f224a063f3cc2d21d0cd1c5",
+  "summary": "Visually inspected the biased Cramer\u2013Rao formula on page 402. Verified differentiating the estimator mean against the score, covariance Cauchy\u2013Schwarz, the bias-variance decomposition, unbiased specialization and common-support regularity assumptions.",
+  "verdict": "accepted"
+}

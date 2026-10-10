@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.5",
+  "file_sha256": {
+    "solutions/ch16/ex-16-5.md": "7cb6a2b883b0becfe9150bdcd149e720bcc92b3761f749829eda83747d7f4189"
+  },
+  "inventory_entry_sha256": "e2270d8bb6c6843b5addb2107933a2704801167fbacbc50223114b6808f3da2b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "71953cf78afb810b48873af61c602a8e1793e2af4db88836d8e1f0afd6828cdd",
+  "summary": "Visually inspected original PDF pp652\u2013655. Checked exchangeability symmetrization and almost-sure normalization.",
+  "verdict": "accepted"
+}

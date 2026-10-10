@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.4",
+  "file_sha256": {
+    "solutions/ch10/ex-10-4.md": "f93dd76c15c2be6c91e548364477018cd3e0e20acc91b5bb4122622ca56422dd"
+  },
+  "inventory_entry_sha256": "c51211ec894c02cdcbe532bc6bd1249dbc27748bf6364ad2b538bab5857df1b4",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "f2dcb98eedf87630a437489544000bdcdd07107d50410dbec13b2eb9e0cf035c",
+  "summary": "Inspected page 337. Checked exact equality of feasible test-channel sets after subtracting source-row offsets, the sign of the budget shift, row-minimum normalization and infeasible-budget convention.",
+  "verdict": "accepted"
+}

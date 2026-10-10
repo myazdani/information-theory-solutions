@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.16",
+  "file_sha256": {
+    "artifacts/ch10/typicality-counterexample/results.json": "53f7eb5bbee1fe27d512728a7197d30c4ad1c0c81d85010b2cde88fc829a5e1e",
+    "solutions/ch10/ex-10-16.md": "ce2efbe3bd6f01196a6848eb483309deebdf0aa5425103cbf0c023a3c05f010c",
+    "src/information_theory/ch10/typicality_counterexample.py": "6b676975b2b1ead63f73d514c0c0bbcf549c2fe622e1d68cdf45fc97ed76a5a2",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "tests/ch10/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch10/test_typicality_counterexample.py": "99bd43913b510ccb2a133417c6113b11145f765c7a98cd606a063f3e22250db2"
+  },
+  "inventory_entry_sha256": "38b9983e67f6caa0a8a0c86aea11f8d61a2cc94d22feca3ff337918fa5dff462",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "d10a148cc7960d5d52fae6a92de6092473c8558f4ad757f63acbbb739ad0ca66",
+  "summary": "Visually inspected every definition and all six parts across pages 341\u2013344. Checked type and conditional-type counts with polynomial factors, empirical conditional entropy, rounding respecting zero entries, continuity arguments and joint-section bounds. Independently verified that the literal same-tolerance final lower bound is false using deterministic Y=X with 54 percent ones, and checked the tightened marginal-tolerance repair. Reran the exact rational n=100 counterexample with all three checks and both chapter tests.",
+  "verdict": "accepted"
+}

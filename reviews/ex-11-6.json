@@ -1,0 +1,36 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.6",
+  "file_sha256": {
+    "artifacts/ch11/first-batch/results.json": "cfb352da4235466b00c14f33593d73dcc7292cb5fd6157c45617b1c8c0f3d1ce",
+    "solutions/ch11/ex-11-6.md": "e966ee29d496ae60a6182847e6ee5587b5614fa905d03cf843d3c37ac426edb5",
+    "src/information_theory/ch11/first_batch.py": "2b9cb59e5d61759265c583cecd34b051e7f375a3bc6ef5cd8fec6983644b86b1",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch11/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch11/test_first_batch.py": "d1e25adb494975daa1753b5bfbc7671850f05b00fa78a37b830887891e507351"
+  },
+  "inventory_entry_sha256": "6f4b214d9c92f21d869c4438f082f915122392ac0e4bc19286d4119f78593aa8",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "e966ee29d496ae60a6182847e6ee5587b5614fa905d03cf843d3c37ac426edb5",
+      "old_solution_sha256": "a84048aeb4a14c8f20c0ff1057a6b2715462fd248cf19d44a572a0946784aa7a",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "4e7f9271aff8d2d68e58b4a4ac8cdd2fc05cb2e1a2c273c7196aa735f7c535ed",
+  "summary": "Visually inspected all three estimator questions on page 401. Checked sample-mean unbiasedness, the sum-of-squares identity, the orthogonal Gaussian residual chi-square law, both mean-square risks and their strictly positive difference. Reran normalized risks for sample sizes 2 through 20.",
+  "verdict": "accepted"
+}

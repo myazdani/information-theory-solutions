@@ -1,0 +1,43 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "joint_empty": true,
+    "marginal_typical": true,
+    "same_tolerance_counterexample": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch10.typicality_counterexample --output artifacts/ch10/typicality-counterexample",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch10.typicality_counterexample",
+  "results": {
+    "epsilon": "1/10",
+    "forced_joint_counts": [
+      [
+        46,
+        0
+      ],
+      [
+        0,
+        54
+      ]
+    ],
+    "is_marginally_typical": true,
+    "joint_section_nonempty": false,
+    "joint_threshold": "1/40",
+    "marginal_deviations": [
+      "1/25",
+      "1/25"
+    ],
+    "marginal_threshold": "1/20",
+    "n": 100,
+    "ones": 54
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch10/typicality_counterexample.py": "6b676975b2b1ead63f73d514c0c0bbcf549c2fe622e1d68cdf45fc97ed76a5a2",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62"
+  }
+}

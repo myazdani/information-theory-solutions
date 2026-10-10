@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.7",
+  "file_sha256": {
+    "solutions/ch10/ex-10-7.md": "9783af37dabd8365696f8e75eb2c93bc9273ed34bdc3235a2e1dba01095f2751"
+  },
+  "inventory_entry_sha256": "cfe82d4a6005911c3940161d2a2724684bb2cdeec0cab8a610768de762dec1b3",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "2ad68abad4ffc0f9abc96477ce61880a33edb8c5801e2b9fa108f561b65b7445",
+  "summary": "Inspected the three-column infinite-cost distortion matrix on page 338. Checked the erasure conditional-entropy bound, independent-erasure achievability and explicit fixed-coordinate block scheme with no wrong nonerasure bits.",
+  "verdict": "accepted"
+}

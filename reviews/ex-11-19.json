@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.19",
+  "file_sha256": {
+    "solutions/ch11/ex-11-19.md": "cc03fc4b5a9643d521804cdf3f2e3227ff228aa027a4a68a2c317d98d971a6ca"
+  },
+  "inventory_entry_sha256": "2d3b541cf788abef7cc08456735951dfcc0ddc988c5eb71bfdcf8d05d09550be",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "057469afa2b1f1522e3ac156f9faf0ef6651d3e1dde6381c4668414c81fb415c",
+  "summary": "Visually inspected page 405. Verified the logarithm second-derivative identity, differentiation of normalization and Fisher-information term, and explained why integration by parts in the sample variable is neither necessary nor generally the right operation.",
+  "verdict": "accepted"
+}

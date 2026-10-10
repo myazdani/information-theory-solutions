@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.12",
+  "file_sha256": {
+    "solutions/ch10/ex-10-12.md": "b5e6db7ae7c65558d5d3041090e6d04e80530b63e4126567d09107d5398b84cb"
+  },
+  "inventory_entry_sha256": "3fbbd945ce2f53d683fbebdeacb7dd195f7ee495e57d4ce3b70b59679175f14b",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "952bf5bcfe4d16b1ae4406e1e03959afbd51d5f8f500e245b4d58e075fb920ec",
+  "summary": "Inspected page 340. Verified zero-probability embedding of old reconstruction channels, monotonicity of the minimum and both strict-improvement and duplicate-column examples.",
+  "verdict": "accepted"
+}

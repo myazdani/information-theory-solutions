@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.1",
+  "file_sha256": {
+    "solutions/ch11/ex-11-1.md": "3ebf29633452081ff35f57747f46dca1aca66e3beda6b7799eca5c04f67ca35e"
+  },
+  "inventory_entry_sha256": "a026356a4c7be8862e699774fe800200eda1e9ba3bb59f21531ed92dd2567271",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "bcd3be9ea83c9f46848abaf2cc04e95d99a33ddcdc43c446fa43284b4668686c",
+  "summary": "Visually inspected all four directed-divergence models across pages 399\u2013400. Checked the Gaussian variance ratio and exponential rate ratio by expectation of log likelihood, explicit nats-to-bits conversion and both support-mismatch infinities in the requested direction.",
+  "verdict": "accepted"
+}

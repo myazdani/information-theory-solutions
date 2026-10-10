@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.3",
+  "file_sha256": {
+    "solutions/ch16/ex-16-3.md": "53d7a19bbcb5174949854e96ff01152bec03d6a213e11513d21b105638eebaa5"
+  },
+  "inventory_entry_sha256": "2b38446a4e72c438e6a4a4b366ee44abcbe594d4cc29b33291acf32ecdd5bdd4",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "653bb133b2e594130ce0cb57c42b25b8fc2a8d1d065eeadd4a2d56ff1e5fb3ac",
+  "summary": "Visually inspected original PDF pp652\u2013655. Checked reciprocal-moment criterion via Jensen/Fatou, uniqueness and finite-log qualification.",
+  "verdict": "accepted"
+}

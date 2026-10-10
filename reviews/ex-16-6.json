@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "16.6",
+  "file_sha256": {
+    "solutions/ch16/ex-16-6.md": "0a17f0a0982b44204c1b1773a9069c43b4fce1e2cdde92494bbe4e37c922de51"
+  },
+  "inventory_entry_sha256": "a1dd803d2d73c9f39a1de3c80c3d6d10cc567f8b708f4f5753bf8ead32c2b878",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "8950df5511be773e54162b2a27b663c86747677d1c4d910e38cf9644728c3e25",
+  "summary": "Visually inspected original PDF pp652\u2013655. Verified convexity via linear objective differences and relative-growth inequalities.",
+  "verdict": "accepted"
+}

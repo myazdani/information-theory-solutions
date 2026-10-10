@@ -23,7 +23,9 @@
     },
     {
       "artifacts": [
-        "src/information_theory/ch08/uniform_capacity.py"
+        "src/information_theory/ch08/uniform_capacity.py",
+        "tests/ch08/__init__.py",
+        "tests/ch08/test_numerical_checks.py"
       ],
       "author": "solve_information_theory_channels",
       "covered_subparts": [
@@ -40,7 +42,9 @@
     },
     {
       "artifacts": [
-        "src/information_theory/ch08/compute.py"
+        "src/information_theory/ch08/compute.py",
+        "tests/ch08/__init__.py",
+        "tests/ch08/test_numerical_checks.py"
       ],
       "author": "solve_information_theory_channels",
       "covered_subparts": [],

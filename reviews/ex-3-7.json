@@ -11,7 +11,7 @@
   "file_sha256": {
     "artifacts/ch03/ex-3-13-binomial.csv": "bfcc69880e94b7b1410d0e1192e6db8c2338589e362b020c100e033b6b83219c",
     "artifacts/ch03/results.json": "f5075dbaaaedf1ea3a5e4cf9dbed1331f5f733e772f135ea2c2c2470f75d5537",
-    "solutions/ch03/ex-3-7.md": "9d6506bd3456605099ffba8554750b0d151b41ee2aaf4e749daac6212275eafb",
+    "solutions/ch03/ex-3-7.md": "3fbb487632e229b0c4bf888c3b0bc1f46d707c5fca5e5e4df2a1774f733f40af",
     "src/information_theory/ch03.py": "86b7f08b0ecf70f1f64d3f5e1f13ba601d568df0181634c7a98e6adf85912dae",
     "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
     "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
@@ -19,6 +19,14 @@
   "inventory_entry_sha256": "aeee23edca8c9b259af7f51a5c931618c4c67ef3c8a3d8a73b2cd312a3bda838",
   "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
   "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "rendering_reviews": [
+    {
+      "new_solution_sha256": "3fbb487632e229b0c4bf888c3b0bc1f46d707c5fca5e5e4df2a1774f733f40af",
+      "old_solution_sha256": "9d6506bd3456605099ffba8554750b0d151b41ee2aaf4e749daac6212275eafb",
+      "reviewer": "root",
+      "summary": "Independently inspected and approved exact named-operator compatibility substitution from operatorname to mathrm after persistent GitHub macro rejection. No mathematical, proof or numerical change; no starred operator variants were present."
+    }
+  ],
   "reviewer": "root_independent_review",
   "schema_version": 1,
   "submission_sha256": "99b4f4433dff350c863b557a7ede6999e8a309b5fcc1c8a2caaf6289ab21316f",

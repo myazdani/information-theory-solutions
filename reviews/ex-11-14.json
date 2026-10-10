@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.14",
+  "file_sha256": {
+    "solutions/ch11/ex-11-14.md": "494dd36622d38a4b220ab0340bdf9db78b5d97eb629080991a5bcf3fbefd4234"
+  },
+  "inventory_entry_sha256": "7210cbb72ec4b763e180d7e00f808f1921fa4133d7523d913c4f1797ed0ed399",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "f9e19e2cfd57c07abc7ac7fd6c0afea11c9f733ace8a290160448d63fcd7bde8",
+  "summary": "Visually inspected both Gaussian second-moment questions on page 404. Checked the square-moment mgf, optimized Chernoff exponent, tilted-Gaussian lower bound, constrained KL projection and below-mean regime. Verified the explicit distinction between alpha squared in part a and alpha in part b.",
+  "verdict": "accepted"
+}

@@ -12,14 +12,16 @@
     "artifacts/ch08/quantization/results.json": "041ac92382b5741c95ff0dffd5e2199029835aaebc71f9bf938288dd5995284b",
     "solutions/ch08/ex-8-4.md": "6fcaaa0fa25ab427b501996797768aa75a9b96eaed7a1f173bbd6cb78fe3c40c",
     "src/information_theory/ch08/compute.py": "81ae65aa635b4bf14274533d1b97791a2024a90c589640d18806bb3571bbfb96",
-    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62"
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "tests/ch08/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch08/test_numerical_checks.py": "2bc90b3a8ba9be4a97022f6fdbe8e726b1f3c7d9c20a1d2a62f88304368e3cdb"
   },
   "inventory_entry_sha256": "8d8a6bcefeb29f1338ef54592fc22514089e265d238eed86ec6bcf125138b67f",
   "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
   "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
   "reviewer": "root_independent_review",
   "schema_version": 1,
-  "submission_sha256": "d8df1fb8687879f51a22e217ba0d5b32865459134b2df9eeef0536c451ef33b6",
-  "summary": "Visually checked original PDF pp256\u2013259. Checked half-life/rate conversion, stated resolution interpretation, exact geometric-bin entropy and independently reran values.",
+  "submission_sha256": "b25bd126fbfa1523b365680b731dc02fba2e4fe0782702461f2332d2499e70ab",
+  "summary": "Visually checked original PDF pp256\u2013259. Checked half-life/rate conversion, stated resolution interpretation, exact geometric-bin entropy and independently reran values. Reviewed and ran added chapter8 unittest wrappers; all previously bound proof, numerical source and result hashes remain identical. Refreshed binding only for added test artifact paths.",
   "verdict": "accepted"
 }

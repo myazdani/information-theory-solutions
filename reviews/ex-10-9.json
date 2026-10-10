@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.9",
+  "file_sha256": {
+    "solutions/ch10/ex-10-9.md": "874a13015bd251c43f868f687e807828e8b41752033dc1691036852249b79cc9"
+  },
+  "inventory_entry_sha256": "e365a11d65f632bd5d7a55594057f16c0407e9f8fc689aaffad860324e979945",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "e217f37e795bc35bfb1fdafa18cc611f99717c1295c97c04f69fd6769bba842d",
+  "summary": "Visually inspected printed exercise page 339 and the original equality chain on pages 317\u2013318. Checked every entropy, data-processing, coordinate-rate and Jensen equality condition, normalized versus exact equality, deterministic coding, backward conditional factorization, affine rate-distortion faces, and the corrected distinction between achieved distortion and target budget in the final monotonicity step.",
+  "verdict": "accepted"
+}

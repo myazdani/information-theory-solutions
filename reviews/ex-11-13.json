@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.13",
+  "file_sha256": {
+    "solutions/ch11/ex-11-13.md": "341fca788c5e41522d86893ef0d77fafbbf735b094db81432cbf6525fc22f710"
+  },
+  "inventory_entry_sha256": "61a17a606dd799a4256e4e5bf9b971eece95457acda8ee99a21e206bbf9ac076",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "6cb9a1fb8d8ad1fa718b45953d7457892263b33962120b67391985e2e4d4d0b0",
+  "summary": "Visually inspected the entire requested binomial-tail proof across pages 403\u2013404. Checked the floor/ceiling distinction, successive mass ratio, eventual rather than all-n monotonicity, type probability bounds, polynomial tail factor and limiting Bernoulli divergence, including the p=1 endpoint.",
+  "verdict": "accepted"
+}

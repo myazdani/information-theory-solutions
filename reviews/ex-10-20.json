@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.20",
+  "file_sha256": {
+    "solutions/ch10/ex-10-20.md": "5d0f4553eeaf97a9dff0e966286ba656d61c39742c52ce6056debf9019b8e2d2"
+  },
+  "inventory_entry_sha256": "d2c91bdf28c7a8757ea97ed36f2be818275e3f5b08faff33deea6c1f002fa56c",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "01632964137ec252cdac6439f7850e232d680fd389e11091ce875367b2c7d65a",
+  "summary": "Inspected both ordered-cost questions and the two-decoder diagram on page 345. Verified inclusion of feasible sets, the lower bound from the harder criterion and matching common reconstruction attaining its rate.",
+  "verdict": "accepted"
+}

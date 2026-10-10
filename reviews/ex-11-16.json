@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.16",
+  "file_sha256": {
+    "solutions/ch11/ex-11-16.md": "c7a64e0e5f753a280c495a06b5bbca093ceabc56c00521b10dc91b6d357891f8"
+  },
+  "inventory_entry_sha256": "db0885eef63bffe5bdd20610301c5a743b0a8d623916617b5302445156041284",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "10c5ca21e85c62ca473fa98b0346be1a2417bb64b1bf6151f7239198811b1d4f",
+  "summary": "Visually inspected both geometric testing questions on page 404. Verified the directed divergence, sufficient-statistic likelihood ratio and threshold reversal around p=1/2. Checked the added exact Bayes error sum: positive-integer compositions contribute binomial(s-1,n-1), and the optimal equal-prior error sums the smaller likelihood. Coincident-distribution ties are handled correctly.",
+  "verdict": "accepted"
+}

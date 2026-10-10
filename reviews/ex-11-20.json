@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.20",
+  "file_sha256": {
+    "artifacts/ch11/second-batch/results.json": "76c0b8899de962504064fd1337fea3bf3795f73964c425d561203cb3e5a8f519",
+    "solutions/ch11/ex-11-20.md": "ea926c9a2c54b4541197c65c651ca5b6836d6580f95179131b92b2c52b481d6a",
+    "src/information_theory/ch11/second_batch.py": "bacd965f74bb75ea4131e769807654597f32dca029bf47a20db8877d7a25c678",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73",
+    "tests/ch11/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch11/test_second_batch.py": "6cf22d0de08b32448525f6e76b48da108135240f12a7fb6ab3bce4a9685e9aa2"
+  },
+  "inventory_entry_sha256": "60d9d9bb472e94a57cda8b0886464e53a71b0c2407e4267532090306e3826dd2",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "0b7257a46439b1380e1a8656e4f29c114c504c6f873af00d0d06338121befe18",
+  "summary": "Visually inspected both printed integral comparisons and factorial inequality across pages 405\u2013406. Confirmed the upper comparison and small-n statement are false as printed; checked the corrected increasing-function integral bound and sharper concavity/trapezoidal bound. Reran n=1 through 100, including the n=7 threshold check, while the proof covers every n at least 8.",
+  "verdict": "accepted"
+}

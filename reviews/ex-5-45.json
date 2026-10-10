@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "5.45",
+  "file_sha256": {
+    "solutions/ch05/ex-5-45.md": "1abaee49e305e2f110002352855facd9d5d20e44288c73b309ade4c7bec31605"
+  },
+  "inventory_entry_sha256": "7b2c9f56700e81a853950265f3d341742cad094cfddda361d9800fe3d36e07f6",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "root_independent_review",
+  "schema_version": 1,
+  "submission_sha256": "2b661917399c763c44ddd0ad70366b349a45432fc52786c5554e34f7780c3b49",
+  "summary": "Visually inspected original PDF pp147 and151\u2013157. Checked all derivations and cases: dyadic conditional-fair output, mismatch entropies, nonsingular optimal lengths and harmonic bound, wine-test trees, gate-tree exchange proof, random-bit sampler, code classifications, renewal entropy rate, split-leaf ties, disjoint-marker UD versus prefix distinction, and uniform/random-question counts as applicable. Independently reran frozen batch03 and matched every result/check.",
+  "verdict": "accepted"
+}

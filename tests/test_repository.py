@@ -19,6 +19,7 @@ class RepositoryChecks(unittest.TestCase):
             with self.subTest(path=path.name):
                 self.assertNotRegex(text, r"\\[\[\]\(\)]", "use fenced math / GitHub dollar-backtick inline math")
                 self.assertNotIn("$$", text, "use fenced math display blocks")
+                self.assertNotIn(r"\operatorname", text, "GitHub rejects this macro; use mathrm for named operators")
                 self.assertEqual(sum(line.startswith("```") for line in text.splitlines()) % 2, 0, "unbalanced fenced blocks")
                 for block in re.findall(r"```math\n(.*?)```", text, re.S):
                     self.assertNotIn("<", block, "use \\lt with a separating space to avoid HTML truncation")

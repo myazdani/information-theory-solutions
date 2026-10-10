@@ -1,0 +1,147 @@
+{
+  "artifact_hashes": {},
+  "checks": {
+    "biased_mse_lower": true,
+    "different_projections": true,
+    "direct_grid_minimum": true,
+    "direct_objective_strictly_lower": true,
+    "projection_feasible": true,
+    "sequential_objective_strictly_lower": true
+  },
+  "command": "PYTHONPATH=src python -m information_theory run information_theory.ch11.first_batch --output artifacts/ch11/first-batch",
+  "environment": {
+    "packages": {},
+    "python": "3.12.14"
+  },
+  "module": "information_theory.ch11.first_batch",
+  "results": {
+    "11.4.direct_divergence_to_Q_bits": 0.2159669071318751,
+    "11.4.direct_divergence_to_first_bits": 0.18120312590144533,
+    "11.4.direct_projection": [
+      0.45,
+      0.45,
+      0.1
+    ],
+    "11.4.first_projection": [
+      0.4,
+      0.3,
+      0.3
+    ],
+    "11.4.reference": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.3333333333333333
+    ],
+    "11.4.sequential_divergence_to_Q_bits": 0.2292615847010487,
+    "11.4.sequential_divergence_to_first_bits": 0.1678168213741218,
+    "11.4.sequential_projection": [
+      0.5142857142857142,
+      0.38571428571428573,
+      0.1
+    ],
+    "11.6.normalized_variance_estimator_risks": [
+      {
+        "biased_mse": 0.75,
+        "n": 2,
+        "unbiased_mse": 2.0
+      },
+      {
+        "biased_mse": 0.5555555555555556,
+        "n": 3,
+        "unbiased_mse": 1.0
+      },
+      {
+        "biased_mse": 0.4375,
+        "n": 4,
+        "unbiased_mse": 0.6666666666666666
+      },
+      {
+        "biased_mse": 0.36,
+        "n": 5,
+        "unbiased_mse": 0.5
+      },
+      {
+        "biased_mse": 0.3055555555555556,
+        "n": 6,
+        "unbiased_mse": 0.4
+      },
+      {
+        "biased_mse": 0.2653061224489796,
+        "n": 7,
+        "unbiased_mse": 0.3333333333333333
+      },
+      {
+        "biased_mse": 0.234375,
+        "n": 8,
+        "unbiased_mse": 0.2857142857142857
+      },
+      {
+        "biased_mse": 0.20987654320987653,
+        "n": 9,
+        "unbiased_mse": 0.25
+      },
+      {
+        "biased_mse": 0.19,
+        "n": 10,
+        "unbiased_mse": 0.2222222222222222
+      },
+      {
+        "biased_mse": 0.17355371900826447,
+        "n": 11,
+        "unbiased_mse": 0.2
+      },
+      {
+        "biased_mse": 0.1597222222222222,
+        "n": 12,
+        "unbiased_mse": 0.18181818181818182
+      },
+      {
+        "biased_mse": 0.14792899408284024,
+        "n": 13,
+        "unbiased_mse": 0.16666666666666666
+      },
+      {
+        "biased_mse": 0.1377551020408163,
+        "n": 14,
+        "unbiased_mse": 0.15384615384615385
+      },
+      {
+        "biased_mse": 0.1288888888888889,
+        "n": 15,
+        "unbiased_mse": 0.14285714285714285
+      },
+      {
+        "biased_mse": 0.12109375,
+        "n": 16,
+        "unbiased_mse": 0.13333333333333333
+      },
+      {
+        "biased_mse": 0.11418685121107267,
+        "n": 17,
+        "unbiased_mse": 0.125
+      },
+      {
+        "biased_mse": 0.10802469135802469,
+        "n": 18,
+        "unbiased_mse": 0.11764705882352941
+      },
+      {
+        "biased_mse": 0.10249307479224377,
+        "n": 19,
+        "unbiased_mse": 0.1111111111111111
+      },
+      {
+        "biased_mse": 0.0975,
+        "n": 20,
+        "unbiased_mse": 0.10526315789473684
+      }
+    ]
+  },
+  "schema_version": 1,
+  "seed": 0,
+  "source_hashes": {
+    "src/information_theory/ch11/first_batch.py": "2b9cb59e5d61759265c583cecd34b051e7f375a3bc6ef5cd8fec6983644b86b1",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "src/information_theory/numerics.py": "2be0440f10f2c6548ec478161b4fb2d6b6f787f410279188a231c94e0b0bbf73"
+  }
+}

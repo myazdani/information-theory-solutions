@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.18",
+  "file_sha256": {
+    "solutions/ch10/ex-10-18.md": "f9a590c293a371e031fc7c308f22e3b1684bdb637e57f038afb584fd14841e19"
+  },
+  "inventory_entry_sha256": "fafe1dd94dd49f9b5f31230990ecbe3e5ceb928fd900161c4b4440f019c042f8",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "7d6ec6890e9bbeef8dfdd669df3e28f34574138af591918c15fcb905d7469326",
+  "summary": "Inspected all three cost transformations on page 344. Checked offset and scale signs, zero scaling, infeasible domains and the shifted/scaled Gaussian rate-distortion formula, including degenerate variance.",
+  "verdict": "accepted"
+}

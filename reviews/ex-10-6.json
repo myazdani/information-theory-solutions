@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.6",
+  "file_sha256": {
+    "solutions/ch10/ex-10-6.md": "822137a8aee962c129ad485bbc03291c11b630fe023df4655f2fb4ade1c358bb"
+  },
+  "inventory_entry_sha256": "d247dd82f36b080610a302f31cbbbac619e4f46ce1713eb1e3d1d688620d2882",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "62d556b71c763184144f723c173809b661e63c18255f0590ae883a3533fc7101",
+  "summary": "Inspected all four parts and every inequality across pages 337\u2013338. Verified entropy concavity for the cost-constrained maximum, the column-permutation argument, Jensen and monotonicity. Checked Gibbs optimality and equal row sums proving tightness for uniform source with row symmetry, including endpoint limits.",
+  "verdict": "accepted"
+}

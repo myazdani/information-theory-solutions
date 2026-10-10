@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.2",
+  "file_sha256": {
+    "solutions/ch11/ex-11-2.md": "1053c1b0e0635756151f39a664ef563e4b53d97a080a27ce31ea1ad3a56061df"
+  },
+  "inventory_entry_sha256": "0da8782ce9fffdcba25efd5f7f00432fe0227025c0165f15b986c44d4726c4b3",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "b3077d6b015bb663773efaa4e24aa35e89e0107fc4e56ac1b18bd5e5f254499e",
+  "summary": "Visually inspected the chi-square expansion on page 400. Verified the fourth-order Taylor remainder, cancellation of the linear term, cubic sign, factor 1/(2 ln 2) for bits and the necessary positive-reference-support qualification.",
+  "verdict": "accepted"
+}

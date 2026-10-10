@@ -1,0 +1,21 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "10.15",
+  "file_sha256": {
+    "solutions/ch10/ex-10-15.md": "14fe9d9f0e158ed3c4bdbc750244934197dd8f18ee4003d045df022de03f005f"
+  },
+  "inventory_entry_sha256": "9daf59a381588a9a461ec469ff792da320c066411d24ba1684e01339d4665c64",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "b4e32b63ab96eb3685527c175c9c5e6011bfd62c40c45b12bf48ada1f54fcc3d",
+  "summary": "Inspected the distortion-rate definition and all six nested proof labels on page 341. Checked feasible-set monotonicity, convexity via test-channel mixtures, each Jensen and data-processing direction, and the complete operational converse.",
+  "verdict": "accepted"
+}

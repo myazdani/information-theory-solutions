@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "all_subparts": true,
+    "derivation": true,
+    "edge_cases": true,
+    "numerical_reproduction": true,
+    "source_alignment": true,
+    "visual_source_inspection": true
+  },
+  "exercise_id": "11.29",
+  "file_sha256": {
+    "artifacts/ch11/third-batch/results.json": "4ec69d0de32a580311f071593b85c62bc484ae5698953743ec67026e31e28cc6",
+    "solutions/ch11/ex-11-29.md": "df7502a2afa63803518ede7661e6a670c4ecf8a442d50733f70e8a76292d6bb4",
+    "src/information_theory/ch11/third_batch.py": "ea0518c166b7299967db728f1c4a26d154ae012f7cb8fc1963a87ab826cf6a66",
+    "src/information_theory/evidence.py": "17b7dd42ed9278b31ea0e02791de10669eadf5e088c3b7d9fa6de48ede299f62",
+    "tests/ch11/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "tests/ch11/test_third_batch.py": "b9d3d9ea28b0aea177f308aa956b4233097ec5c60b3bd288c6ff270901367b14"
+  },
+  "inventory_entry_sha256": "297ff1a01037eab181bac98ee453db4c659c700796fa9afadcf3e32eccfb7ae2",
+  "inventory_lock_sha256": "5113c2608421375b8db463b4b6eed317c4134ee3473f199f12b921e3f0cccebd",
+  "inventory_sha256": "f8fe0cf89088dee49d9408e6b81627b5ff0f72c07fe117db332dd009bc6bfee8",
+  "reviewer": "create_information_theory_repository",
+  "schema_version": 1,
+  "submission_sha256": "bf8725b4578e78b6898977f466fe40966ae80ecf7067c2ef98f68711e29a62df",
+  "summary": "Visually inspected all three simplex-generation procedures on page 408. Checked the normalization Jacobian, nonconstant uniform-cube density, gamma integral yielding constant exponential-normalization density, and order-statistic spacing map with unit Jacobian. Independently reran the seeded 50000-sample comparison and exact conditional counts, matching all reported variances and six checks.",
+  "verdict": "accepted"
+}
